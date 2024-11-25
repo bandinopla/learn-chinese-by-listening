@@ -353,5 +353,70 @@
     "pinzi": "qīn",
     "means": "relative; parent; close",
     "radical": true
+  },
+  "多少": {
+    "pinzi": "duō shǎo",
+    "means": "how much; how many",
+    "radical": false
+  },
+  "钱": {
+    "pinzi": "qián",
+    "means": "money",
+    "radical": false
+  },
+  "才能": {
+    "pinzi": "cái néng",
+    "means": "only then can; ability",
+    "radical": false
+  },
+  "离开": {
+    "pinzi": "lí kāi",
+    "means": "to leave; to depart",
+    "radical": false
+  },
+  "儿子": {
+    "pinzi": "ér zi",
+    "means": "son",
+    "radical": false
+  },
+  "多": {
+    "pinzi": "duō",
+    "means": "many; much; more",
+    "radical": true
+  },
+  "少": {
+    "pinzi": "shǎo",
+    "means": "few; less",
+    "radical": true
+  },
+  "才": {
+    "pinzi": "cái",
+    "means": "just; only; talent",
+    "radical": true
+  },
+  "能": {
+    "pinzi": "néng",
+    "means": "can; able to",
+    "radical": true
+  },
+  "离": {
+    "pinzi": "lí",
+    "means": "to leave; to separate",
+    "radical": true
+  },
+  "开": {
+    "pinzi": "kāi",
+    "means": "to open; to start; to leave",
+    "radical": true
+  },
+  "儿": {
+    "pinzi": "ér",
+    "means": "son; child",
+    "radical": true
+  },
+  "子": {
+    "pinzi": "zi",
+    "means": "child; son; seed",
+    "radical": true
   }
 }

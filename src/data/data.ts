@@ -41,6 +41,12 @@ export const data = {
             source:"https://youtu.be/PN4gd45kLas?t=158",
             ch:"你 也是 来 相亲 的",
             en:"You are also here for a blind date?"
+        },
+        {
+            audio:"leavemyson",
+            source:"https://youtu.be/TjWaLmTSaNw?t=263",
+            ch:"你 要 多少 钱 才能 离开 我 儿子",
+            en:"How much money do you need to leave my son?"
         }
     ]
 }
