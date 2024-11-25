@@ -438,5 +438,55 @@
     "pinzi": "men",
     "means": "plural marker for pronouns and some nouns",
     "radical": false
+  },
+  "凭": {
+    "pinzi": "píng",
+    "means": "to rely on; based on; by means of",
+    "radical": true
+  },
+  "自己的": {
+    "pinzi": "Zìjǐ de",
+    "means": "Your own",
+    "radical": false
+  },
+  "打下我": {
+    "pinzi": "dǎxià wǒ",
+    "means": "hit me; fight me",
+    "radical": false
+  },
+  "自": {
+    "pinzi": "Zì",
+    "means": "since, from, self, oneself",
+    "radical": false
+  },
+  "本事": {
+    "pinzi": "běn shì",
+    "means": "ability; skill",
+    "radical": false
+  },
+  "打": {
+    "pinzi": "dǎ",
+    "means": "to hit; to strike; to play",
+    "radical": true
+  },
+  "下": {
+    "pinzi": "xià",
+    "means": "down; below; to descend",
+    "radical": true
+  },
+  "己": {
+    "pinzi": "jǐ",
+    "means": "self; oneself",
+    "radical": true
+  },
+  "本": {
+    "pinzi": "běn",
+    "means": "root; origin; book",
+    "radical": true
+  },
+  "事": {
+    "pinzi": "shì",
+    "means": "affair; matter; thing",
+    "radical": true
   }
 }

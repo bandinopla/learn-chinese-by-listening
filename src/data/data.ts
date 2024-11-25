@@ -53,6 +53,12 @@ export const data = {
             source:"https://youtu.be/4Bjk6ZvAVmw?t=90",
             ch:"这儿 就 是 我们的 家",
             en:"This is our home!"
+        },
+        {
+            audio:"letsfight",
+            source:"https://youtu.be/4Bjk6ZvAVmw?t=137",
+            ch:"凭 你 自己的 真 本事... 打下我",
+            en:"With your own true ability... defeat me (let's fight)"
         }
     ]
 }
