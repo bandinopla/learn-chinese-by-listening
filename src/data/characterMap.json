@@ -1,0 +1,322 @@
+{
+  "我": {
+    "pinzi": "wǒ",
+    "means": "I, me",
+    "radical": true
+  },
+  "去": {
+    "pinzi": "qù",
+    "means": "to go",
+    "radical": true
+  },
+  "超市": {
+    "pinzi": "chāo shì",
+    "means": "supermarket",
+    "radical": false
+  },
+  "买": {
+    "pinzi": "mǎi",
+    "means": "to buy",
+    "radical": true
+  },
+  "了": {
+    "pinzi": "le",
+    "means": "particle indicating completed action",
+    "radical": false
+  },
+  "点": {
+    "pinzi": "diǎn",
+    "means": "point, dot, o'clock",
+    "radical": true
+  },
+  "东西": {
+    "pinzi": "dōng xī",
+    "means": "thing, stuff",
+    "radical": false
+  },
+  "超": {
+    "pinzi": "chāo",
+    "means": "to exceed, to surpass",
+    "radical": true
+  },
+  "市": {
+    "pinzi": "shì",
+    "means": "market, city",
+    "radical": true
+  },
+  "东": {
+    "pinzi": "dōng",
+    "means": "east",
+    "radical": true
+  },
+  "西": {
+    "pinzi": "xī",
+    "means": "west",
+    "radical": true
+  },
+  "你": {
+    "pinzi": "nǐ",
+    "means": "you",
+    "radical": true
+  },
+  "什么": {
+    "pinzi": "shén me",
+    "means": "what",
+    "radical": false
+  },
+  "让": {
+    "pinzi": "ràng",
+    "means": "to let, allow",
+    "radical": true
+  },
+  "看看": {
+    "pinzi": "kàn kan",
+    "means": "to look, to take a look",
+    "radical": false
+  },
+  "什": {
+    "pinzi": "shén",
+    "means": "what",
+    "radical": false
+  },
+  "么": {
+    "pinzi": "me",
+    "means": "question particle",
+    "radical": false
+  },
+  "看": {
+    "pinzi": "kàn",
+    "means": "to see, to look",
+    "radical": true
+  },
+  "主要": {
+    "pinzi": "zhǔ yào",
+    "means": "mainly; primarily",
+    "radical": false
+  },
+  "真的": {
+    "pinzi": "zhēn de",
+    "means": "really; truly",
+    "radical": false
+  },
+  "不怪我": {
+    "pinzi": "bù guài wǒ",
+    "means": "it's not my fault",
+    "radical": false
+  },
+  "主": {
+    "pinzi": "zhǔ",
+    "means": "master; main",
+    "radical": true
+  },
+  "要": {
+    "pinzi": "yào",
+    "means": "want; need; important",
+    "radical": false
+  },
+  "真": {
+    "pinzi": "zhēn",
+    "means": "real; true",
+    "radical": false
+  },
+  "的": {
+    "pinzi": "de",
+    "means": "possessive or descriptive particle",
+    "radical": false
+  },
+  "不": {
+    "pinzi": "bù",
+    "means": "not; no",
+    "radical": false
+  },
+  "怪": {
+    "pinzi": "guài",
+    "means": "blame; strange",
+    "radical": true
+  },
+  "就": {
+    "pinzi": "jiù",
+    "means": "then; just; simply",
+    "radical": false
+  },
+  "搞": {
+    "pinzi": "gǎo",
+    "means": "do; make; engage in",
+    "radical": false
+  },
+  "清楚": {
+    "pinzi": "qīng chǔ",
+    "means": "clear; understand",
+    "radical": false
+  },
+  "清": {
+    "pinzi": "qīng",
+    "means": "clear; pure",
+    "radical": true
+  },
+  "楚": {
+    "pinzi": "chǔ",
+    "means": "distinct; clear",
+    "radical": false
+  },
+  "两盒": {
+    "pinzi": "liǎng hé",
+    "means": "two boxes",
+    "radical": false
+  },
+  "一些": {
+    "pinzi": "yī xiē",
+    "means": "some, a few, several",
+    "radical": false
+  },
+  "牛奶": {
+    "pinzi": "niú nǎi",
+    "means": "milk",
+    "radical": false
+  },
+  "水果": {
+    "pinzi": "shuǐ guǒ",
+    "means": "fruit",
+    "radical": false
+  },
+  "两": {
+    "pinzi": "liǎng",
+    "means": "two",
+    "radical": false
+  },
+  "盒": {
+    "pinzi": "hé",
+    "means": "box",
+    "radical": false
+  },
+  "牛": {
+    "pinzi": "niú",
+    "means": "cow; ox",
+    "radical": true
+  },
+  "奶": {
+    "pinzi": "nǎi",
+    "means": "milk",
+    "radical": false
+  },
+  "一": {
+    "pinzi": "yī",
+    "means": "one",
+    "radical": true
+  },
+  "些": {
+    "pinzi": "xiē",
+    "means": "some; a few",
+    "radical": false
+  },
+  "水": {
+    "pinzi": "shuǐ",
+    "means": "water",
+    "radical": true
+  },
+  "果": {
+    "pinzi": "guǒ",
+    "means": "fruit; result",
+    "radical": false
+  },
+  "当然": {
+    "pinzi": "dāng rán",
+    "means": "of course",
+    "radical": false
+  },
+  "必须": {
+    "pinzi": "bì xū",
+    "means": "must; have to",
+    "radical": false
+  },
+  "坚持": {
+    "pinzi": "jiān chí",
+    "means": "persist; stick to",
+    "radical": false
+  },
+  "这个": {
+    "pinzi": "zhè gè",
+    "means": "this",
+    "radical": false
+  },
+  "项目": {
+    "pinzi": "xiàng mù",
+    "means": "project",
+    "radical": false
+  },
+  "全力以赴": {
+    "pinzi": "quán lì yǐ fù",
+    "means": "go all out",
+    "radical": false
+  },
+  "当": {
+    "pinzi": "dāng",
+    "means": "act as; proper",
+    "radical": false
+  },
+  "然": {
+    "pinzi": "rán",
+    "means": "so; naturally",
+    "radical": false
+  },
+  "必": {
+    "pinzi": "bì",
+    "means": "must",
+    "radical": false
+  },
+  "须": {
+    "pinzi": "xū",
+    "means": "need",
+    "radical": false
+  },
+  "坚": {
+    "pinzi": "jiān",
+    "means": "firm; strong",
+    "radical": false
+  },
+  "持": {
+    "pinzi": "chí",
+    "means": "hold; support",
+    "radical": false
+  },
+  "这": {
+    "pinzi": "zhè",
+    "means": "this",
+    "radical": false
+  },
+  "个": {
+    "pinzi": "gè",
+    "means": "individual; measure word",
+    "radical": false
+  },
+  "项": {
+    "pinzi": "xiàng",
+    "means": "item; project",
+    "radical": false
+  },
+  "目": {
+    "pinzi": "mù",
+    "means": "eye; item",
+    "radical": false
+  },
+  "全": {
+    "pinzi": "quán",
+    "means": "whole; complete",
+    "radical": false
+  },
+  "力": {
+    "pinzi": "lì",
+    "means": "strength; power",
+    "radical": true
+  },
+  "以": {
+    "pinzi": "yǐ",
+    "means": "with; by means of",
+    "radical": false
+  },
+  "赴": {
+    "pinzi": "fù",
+    "means": "go to; attend",
+    "radical": false
+  }
+}
