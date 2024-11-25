@@ -35,6 +35,12 @@ export const data = {
             source:"https://youtu.be/thqNmtaelkc?t=458",
             ch:"当然 必须 坚持 这个 项目 要 全力以赴",
             en:"Of course, we must persist. This project needs to be carried out with full effort."
+        },
+        {
+            audio:"blinddate",
+            source:"https://youtu.be/PN4gd45kLas?t=158",
+            ch:"你 也是 来 相亲 的",
+            en:"You are also here for a blind date?"
         }
     ]
 }

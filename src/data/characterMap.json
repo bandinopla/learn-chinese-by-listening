@@ -318,5 +318,40 @@
     "pinzi": "fù",
     "means": "go to; attend",
     "radical": false
+  },
+  "也是": {
+    "pinzi": "yě shì",
+    "means": "also is; is also",
+    "radical": false
+  },
+  "来": {
+    "pinzi": "lái",
+    "means": "to come",
+    "radical": false
+  },
+  "相亲": {
+    "pinzi": "xiāng qīn",
+    "means": "blind date; arranged meeting for marriage",
+    "radical": false
+  },
+  "也": {
+    "pinzi": "yě",
+    "means": "also; too",
+    "radical": true
+  },
+  "是": {
+    "pinzi": "shì",
+    "means": "is; are; to be",
+    "radical": true
+  },
+  "相": {
+    "pinzi": "xiāng",
+    "means": "mutual; phase",
+    "radical": true
+  },
+  "亲": {
+    "pinzi": "qīn",
+    "means": "relative; parent; close",
+    "radical": true
   }
 }
