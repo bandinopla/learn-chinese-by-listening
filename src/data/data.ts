@@ -47,6 +47,12 @@ export const data = {
             source:"https://youtu.be/TjWaLmTSaNw?t=263",
             ch:"你 要 多少 钱 才能 离开 我 儿子",
             en:"How much money do you need to leave my son?"
+        },
+        {
+            audio:"ourhome",
+            source:"https://youtu.be/4Bjk6ZvAVmw?t=90",
+            ch:"这儿 就 是 我们的 家",
+            en:"This is our home!"
         }
     ]
 }

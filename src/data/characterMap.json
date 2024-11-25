@@ -418,5 +418,25 @@
     "pinzi": "zi",
     "means": "child; son; seed",
     "radical": true
+  },
+  "这儿": {
+    "pinzi": "zhè'er",
+    "means": "here; this place",
+    "radical": false
+  },
+  "我们的": {
+    "pinzi": "wǒ men de",
+    "means": "our; ours",
+    "radical": false
+  },
+  "家": {
+    "pinzi": "jiā",
+    "means": "home; family",
+    "radical": true
+  },
+  "们": {
+    "pinzi": "men",
+    "means": "plural marker for pronouns and some nouns",
+    "radical": false
   }
 }
