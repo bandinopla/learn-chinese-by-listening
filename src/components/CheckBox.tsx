@@ -6,7 +6,7 @@ export type CheckBoxState = [ number[], React.Dispatch<React.SetStateAction<numb
 export const CheckBox : FC<{ index:number, onlyOne?:boolean, state:CheckBoxState, correction:boolean|undefined, disabled?:boolean }> = ({ index, onlyOne, state, correction, disabled })=>{
     const marked = state[0].indexOf(index)>-1;
 
-    const onClick = ev => {
+    const onClick = () => {
 
         if( disabled || correction!==undefined ) return;
         
