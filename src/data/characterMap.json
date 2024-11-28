@@ -488,5 +488,30 @@
     "pinzi": "shì",
     "means": "affair; matter; thing",
     "radical": true
+  },
+"至": {
+    "pinzi": "zhì",
+    "means": "to; until; extremely",
+    "radical": false
+  },
+  "于": {
+    "pinzi": "yú",
+    "means": "in; at; on; to; from",
+    "radical": false
+  },
+  "他们": {
+    "pinzi": "tāmen",
+    "means": "they; them (for males or mixed genders)",
+    "radical": false
+  },
+  "谁": {
+    "pinzi": "shéi",
+    "means": "who",
+    "radical": false
+  },
+  "他": {
+    "pinzi": "tā",
+    "means": "he; him",
+    "radical": false
   }
 }

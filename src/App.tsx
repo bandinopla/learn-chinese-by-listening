@@ -4,6 +4,7 @@ import { data } from './data/data'
 import type { Line } from './data/types'
 import { ChineseAudio } from './components/ChineseAudio'
 import { Chinese } from './components/Chinese'
+import { AudiosFilter } from './components/AudiosFilter'
 
 //const props = ["audio", "ch", "en"];
 
@@ -17,9 +18,10 @@ type Question = {
 function App() {
   const [showDetails, setShowDetails] = useState(false);
   const [myLines, setMyLines] = useState<Line[]>([]);
-  const [myAvailableLines, setAvailableLines] = useState<Line[]>(data.lines.slice(0));
+  const [myAvailableLines, setAvailableLines] = useState<Line[]>([]);
   const [question, setQuestion] = useState<Question | null>(null);
   const typeIndex = useRef(0); 
+  const selectedLinesState = useState<number[]>(data.lines.map((_,i)=>i));
 
   useEffect(() => {
 
@@ -57,6 +59,11 @@ function App() {
       else if(ev.code == 'ArrowDown') {
         addRandomLine(true)
       }
+      else if( ev.code == 'Escape') {
+        setQuestion(null);
+        setAvailableLines([]); 
+        setMyLines([]);
+      }
     }
 
     window.addEventListener("keydown", onKeyDown);
@@ -65,6 +72,15 @@ function App() {
     }
 
   }, [myLines, showDetails]);
+
+  useEffect(()=>{
+
+    if( myAvailableLines.length>0 && !myLines.length )
+    { 
+      addRandomLine();
+    }
+
+  }, [myAvailableLines, question])
 
   const addRandomLine = ( quitar?:boolean ) => {
     const i = Math.floor(Math.random() * myAvailableLines.length);
@@ -94,7 +110,14 @@ function App() {
   }
 
   const startQuiz = () => {
-    addRandomLine();
+    //addRandomLine();
+    const lines = data.lines.filter( (_, i)=>selectedLinesState[0].indexOf(i)>-1 );
+    if( !lines.length){
+      alert("Select some lines to use...");
+      return;
+    };
+
+    setAvailableLines( lines ); 
   }
 
   const pickRandomQuestion = () => {
@@ -116,9 +139,7 @@ function App() {
     if( newLine==question?.line && myLines.length>1){  
       pickRandomQuestion();
       return;
-    }   
-
-    console.log("RANDOM: ", newLine.ch)
+    }    
 
     setQuestion({
       line: newLine,
@@ -128,11 +149,8 @@ function App() {
     });
 
 
-    typeIndex.current++
-
-  }
-
-  console.log(question)
+    typeIndex.current++ ;
+  } 
 
   return (
     <>
@@ -142,8 +160,7 @@ function App() {
 
       <div className='logo'>
       通<br/>过<br/>听<br/>来<br/>学<br/>习
-      </div>
-
+      </div> 
 
       {
         question && <div>
@@ -159,13 +176,14 @@ function App() {
           <div>
             <br/>
             <br/>
-            Pool size : <strong>{ myLines.length }</strong>  / Available: {myAvailableLines.length}
+            <h3>Lines in use: <strong className='statNum'>{ myLines.length }</strong>  --- Lines available: <strong className='statNum'>{myAvailableLines.length}</strong></h3>
             <br/>
             <br/>
             <div className='instructions'><strong>UP ↑</strong> to add a new line.
             <br/> <strong>DOWN ↓</strong> to remove a line.
             <br/> <strong>LEFT ←</strong> to repeat sound.
             <br/> <strong>RIGHT ←</strong> to move next.
+            <br/> <strong>ESC</strong> quit
             </div>
           </div>
         </div>
@@ -174,15 +192,21 @@ function App() {
       {
         myLines.length == 0 && <>
         <img src="/flag-400.png" alt='chinese flag'/>
-        <h3>Play audios, try to repeat them, then read what it said...</h3>
+        <h3>Play audio clips randomly, repeat them, and then read what they say.</h3>
         <div>Add or Remove lines as you need, it's up to you... ( work in progress )</div>
         <br/>
         <br/>
         <button onClick={startQuiz} style={{ fontSize: "3em"}}>
         开 始  →
         </button>
+
+        <div style={{ marginTop:40 }}>
+          <h3>Select audio lines to use (SHIFT+select for single selection)</h3> 
+          <AudiosFilter audioLinesState={selectedLinesState}/>
+        </div>
         </>
-      }
+      } 
+      
 
       <div style={{ position:"absolute", top: -10, left: 0, transform:"rotate(90deg)", transformOrigin:"bottom left", opacity: 0.5}}>
         by <a href="https://github.com/bandinopla" target='_blank'>Bandinopla</a></div>

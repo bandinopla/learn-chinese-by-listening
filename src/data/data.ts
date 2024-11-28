@@ -59,6 +59,12 @@ export const data = {
             source:"https://youtu.be/4Bjk6ZvAVmw?t=137",
             ch:"凭 你 自己的 真 本事... 打下我",
             en:"With your own true ability... defeat me (let's fight)"
+        },
+        {
+            audio:"whotheyare",
+            source:"https://youtu.be/ldSAl8azgp8?t=293",
+            ch:"至 于 他们 是 谁...",
+            en:"As for who they are..."
         }
     ]
 }

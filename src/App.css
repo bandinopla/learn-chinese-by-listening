@@ -64,3 +64,8 @@ a { color: var(--FLAG_RED) }
   color:#eee;
   padding: 3px 8px; 
 }
+
+.statNum {
+  color: yellow;
+  font-size: 1.3em;
+}
