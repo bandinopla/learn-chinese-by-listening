@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { CharacterInfo, Line } from "../data/types";
+import { Line } from "../data/types";
 import { ChineseAudio } from "./ChineseAudio";
 
 export const InlinePlayStopLine: FC<{ line:Line }> = ({ line }) => {
