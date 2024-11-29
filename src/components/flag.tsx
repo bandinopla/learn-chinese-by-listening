@@ -21,7 +21,11 @@ void main() {
   float period = 1.0;  // 周期
   float waveLength = 2.0 * scale;
 
-  v_UV = (mat3(0.625,0,0, 0,0.625,0, 0.5,0.5,1) * vec3(x, y, 1.0)).xy;
+// Option 1: Simple linear mapping
+v_UV = (a_Position.xy + 1.0) * 0.5;
+
+// Option 2: If you want to maintain some scaling
+v_UV = (mat3(0.60,0,0, 0,0.60,0, 0.5,0.5,1) * vec3(x, y, 1.0)).xy;
   y += amplitude * ( (x - (-scale)) / waveLength) * sin(2.0 * PI * (x - u_Distance));
 
   float x2 = x - 0.001;
@@ -36,16 +40,19 @@ uniform sampler2D u_Sampler;
 varying vec2 v_UV;
 varying float v_Slope;
 
-void main() {
+void main() { 
+
   vec4 color = texture2D( u_Sampler, v_UV );
-  if( v_Slope > 0.0 ) {
-    color = mix( color, vec4(0.0, 0.0, 0.0, 1.0), v_Slope * 400.0 );
+if (v_Slope > 0.0) {
+    color = mix(color, vec4(0.0, 0.0, 0.0, 1.0), v_Slope * 400.0);
   }
-  if( v_Slope < 0.0 ) {
-    color = mix( color, vec4(1.0), abs(v_Slope) * 300.0 );
+  if (v_Slope < 0.0) {
+    color = mix(color, vec4(1.0), abs(v_Slope) * 300.0);
   }
-  if(v_UV.x < 0.0 || v_UV.x > 1.0 || v_UV.y < 0.0 || v_UV.y > 1.0) {
-    color.a = 0.0;
+  
+  // Optional: additional UV coordinate check
+  if (v_UV.x < 0.0 || v_UV.x > 1.0 || v_UV.y < 0.0 || v_UV.y > 1.0) {
+    discard;
   }
   gl_FragColor = color;
 }`;
