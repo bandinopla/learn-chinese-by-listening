@@ -547,17 +547,17 @@
   "导": {
     "pinzi": "dǎo",
     "means": "to guide; to lead",
-    "radical": "寸"
+    "radical": true
   },
   "游": {
     "pinzi": "yóu",
     "means": "to travel; to roam",
-    "radical": "氵"
+    "radical": true
   },
   "通": {
     "pinzi": "tōng",
     "means": "to communicate; through; open",
-    "radical": "辶"
+    "radical": true
   },
   "知的": {
     "pinzi": "zhī de",
@@ -567,17 +567,17 @@
   "七": {
     "pinzi": "qī",
     "means": "seven",
-    "radical": "一"
+    "radical": true
   },
   "半": {
     "pinzi": "bàn",
     "means": "half",
-    "radical": "十"
+    "radical": true
   },
   "知": {
     "pinzi": "zhī",
     "means": "to know; knowledge",
-    "radical": "矢"
+    "radical": true
   },
   "你们": {
     "pinzi": "nǐmen",
