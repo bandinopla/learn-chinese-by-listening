@@ -578,5 +578,70 @@
     "pinzi": "zhī",
     "means": "to know; knowledge",
     "radical": "矢"
+  },
+  "你们": {
+    "pinzi": "nǐmen",
+    "means": "you (plural)",
+    "radical": true
+  },
+  "有人": {
+    "pinzi": "yǒurén",
+    "means": "someone",
+    "radical": false
+  },
+  "跟": {
+    "pinzi": "gēn",
+    "means": "to follow; with",
+    "radical": true
+  },
+  "迪迪": {
+    "pinzi": "dí dí",
+    "means": "Didi (a name or proper noun)",
+    "radical": false
+  },
+  "联系": {
+    "pinzi": "liánxì",
+    "means": "to contact; connection",
+    "radical": false
+  },
+  "上了": {
+    "pinzi": "shàng le",
+    "means": "got on; went on",
+    "radical": false
+  },
+  "吗": {
+    "pinzi": "ma",
+    "means": "(question particle)",
+    "radical": true
+  },
+  "有": {
+    "pinzi": "yǒu",
+    "means": "to have; there is/are",
+    "radical": true
+  },
+  "人": {
+    "pinzi": "rén",
+    "means": "person",
+    "radical": true
+  },
+  "迪": {
+    "pinzi": "dí",
+    "means": "enlighten; Didi (proper noun)",
+    "radical": false
+  },
+  "联": {
+    "pinzi": "lián",
+    "means": "to connect; to unite",
+    "radical": true
+  },
+  "系": {
+    "pinzi": "xì",
+    "means": "to connect; system",
+    "radical": false
+  },
+  "上": {
+    "pinzi": "shàng",
+    "means": "on; above; to go up",
+    "radical": true
   }
 }

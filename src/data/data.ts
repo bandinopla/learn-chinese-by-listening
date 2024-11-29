@@ -77,6 +77,12 @@ export const data = {
             source:"https://youtu.be/vbLEDqfTxVI?list=PLJKk4isdgkt9ShArtnkwBRfQrQEvG3ak3&t=233",
             ch:"导 游 通 知的 是 七 点 半",
             en:"The tour guide announced it was 7:30."
+        },
+        {
+            audio:"contacted",
+            source:"https://youtu.be/vbLEDqfTxVI?list=PLJKk4isdgkt9ShArtnkwBRfQrQEvG3ak3&t=615",
+            ch:"你们 有人 跟 迪迪 联系 上了 吗",
+            en:"Has any of you contacted Didi?"
         }
     ]
 }
