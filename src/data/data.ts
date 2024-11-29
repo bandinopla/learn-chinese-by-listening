@@ -65,6 +65,12 @@ export const data = {
             source:"https://youtu.be/ldSAl8azgp8?t=293",
             ch:"至 于 他们 是 谁...",
             en:"As for who they are..."
+        },
+        {
+            audio:"askingthesame",
+            source:"https://youtu.be/ldSAl8azgp8?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=1323",
+            ch:"我 刚 也 在 说 这个 问题",
+            en:"I was just asking the same question"
         }
     ]
 }
