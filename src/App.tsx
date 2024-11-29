@@ -5,6 +5,7 @@ import type { Line } from './data/types'
 import { ChineseAudio } from './components/ChineseAudio'
 import { Chinese } from './components/Chinese'
 import { AudiosFilter } from './components/AudiosFilter'
+import { Flag } from './components/flag'
 
 //const props = ["audio", "ch", "en"];
 
@@ -191,7 +192,8 @@ function App() {
 
       {
         myLines.length == 0 && <>
-        <img src="/flag-400.png" alt='chinese flag'/>
+        
+        <Flag/>
         <h3>Play audio clips randomly, repeat them, and then read what they say.</h3>
         <div>Add or Remove lines as you need, it's up to you... ( work in progress )</div>
         <br/>
