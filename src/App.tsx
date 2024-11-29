@@ -81,7 +81,13 @@ function App() {
       addRandomLine();
     }
 
-  }, [myAvailableLines, question])
+  }, [myAvailableLines, question]);
+
+  useEffect(()=>{
+    if( selectedLinesState[0].length==0 ) {
+      selectedLinesState[1](data.lines.map((_,i)=>i))
+    }
+  }, [selectedLinesState])
 
   const addRandomLine = ( quitar?:boolean ) => {
     const i = Math.floor(Math.random() * myAvailableLines.length);
