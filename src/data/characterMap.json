@@ -543,5 +543,40 @@
     "pinzi": "tí",
     "means": "topic, question",
     "radical": true
+  },
+  "导": {
+    "pinzi": "dǎo",
+    "means": "to guide; to lead",
+    "radical": "寸"
+  },
+  "游": {
+    "pinzi": "yóu",
+    "means": "to travel; to roam",
+    "radical": "氵"
+  },
+  "通": {
+    "pinzi": "tōng",
+    "means": "to communicate; through; open",
+    "radical": "辶"
+  },
+  "知的": {
+    "pinzi": "zhī de",
+    "means": "to know (possessive marker)",
+    "radical": false
+  },
+  "七": {
+    "pinzi": "qī",
+    "means": "seven",
+    "radical": "一"
+  },
+  "半": {
+    "pinzi": "bàn",
+    "means": "half",
+    "radical": "十"
+  },
+  "知": {
+    "pinzi": "zhī",
+    "means": "to know; knowledge",
+    "radical": "矢"
   }
 }

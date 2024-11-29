@@ -71,6 +71,12 @@ export const data = {
             source:"https://youtu.be/ldSAl8azgp8?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=1323",
             ch:"我 刚 也 在 说 这个 问题",
             en:"I was just asking the same question"
+        },
+        {
+            audio:"meetat",
+            source:"https://youtu.be/vbLEDqfTxVI?list=PLJKk4isdgkt9ShArtnkwBRfQrQEvG3ak3&t=233",
+            ch:"导 游 通 知的 是 七 点 半",
+            en:"The tour guide announced it was 7:30."
         }
     ]
 }
