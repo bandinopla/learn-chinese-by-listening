@@ -224,7 +224,7 @@ export const Flag = () => {
 
             if( gl )
             {
-                const loseContextExt = gl.getExtension("WEBGL_lose_context");
+                //const loseContextExt = gl.getExtension("WEBGL_lose_context");
                 let speed = 1 
                 let stop = false
                 let timeLast = Date.now()
