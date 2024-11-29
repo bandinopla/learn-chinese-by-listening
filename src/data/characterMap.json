@@ -489,7 +489,7 @@
     "means": "affair; matter; thing",
     "radical": true
   },
-"至": {
+  "至": {
     "pinzi": "zhì",
     "means": "to; until; extremely",
     "radical": false
@@ -513,5 +513,35 @@
     "pinzi": "tā",
     "means": "he; him",
     "radical": false
+  },
+  "刚": {
+    "pinzi": "gāng",
+    "means": "just, recently",
+    "radical": false
+  },
+  "在": {
+    "pinzi": "zài",
+    "means": "at, in, on; indicates ongoing action",
+    "radical": false
+  },
+  "说": {
+    "pinzi": "shuō",
+    "means": "to speak, to say",
+    "radical": false
+  },
+  "问题": {
+    "pinzi": "wèntí",
+    "means": "problem, question",
+    "radical": false
+  },
+  "问": {
+    "pinzi": "wèn",
+    "means": "to ask",
+    "radical": true
+  },
+  "题": {
+    "pinzi": "tí",
+    "means": "topic, question",
+    "radical": true
   }
 }
