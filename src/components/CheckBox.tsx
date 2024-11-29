@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { FC, MouseEvent } from "react";
 import style from "./CheckBox.module.css";
 
 export type CheckBoxState = [ number[], React.Dispatch<React.SetStateAction<number[]>> ];
@@ -6,13 +6,13 @@ export type CheckBoxState = [ number[], React.Dispatch<React.SetStateAction<numb
 export const CheckBox : FC<{ index:number, onlyOne?:boolean, shiftForSingleSelection?:boolean, state:CheckBoxState, correction?:boolean|undefined, disabled?:boolean }> = ({ index, onlyOne, state, correction, disabled, shiftForSingleSelection })=>{
     const marked = state[0].indexOf(index)>-1;
 
-    const handleMouseDown = (event) => {
+    const handleMouseDown = (event:MouseEvent) => {
         if (event.shiftKey) {
           event.preventDefault(); // Prevents text selection
         }
       };
 
-    const onClick = ev => {
+    const onClick = (ev:MouseEvent) => {
 
         if( disabled || correction!==undefined ) return;
 

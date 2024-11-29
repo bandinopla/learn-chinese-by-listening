@@ -279,8 +279,8 @@ export const Flag = () => {
                     }
 
                     function draw () {
-                        gl.clear(gl.COLOR_BUFFER_BIT)
-                        gl.drawArrays(gl.TRIANGLE_STRIP, 0, vertexCount)
+                        gl!.clear(gl!.COLOR_BUFFER_BIT)
+                        gl!.drawArrays(gl!.TRIANGLE_STRIP, 0, vertexCount)
                     }
     
                     function tick () {
@@ -290,7 +290,7 @@ export const Flag = () => {
                         if (delta > interval) {
                           timeLast = timeNow
                           distance += delta * 0.001 * speed
-                          gl.uniform1f(uDistance, distance)
+                          gl!.uniform1f(uDistance, distance)
                           draw()
                         } 
                         requestAnimationFrame(tick)
