@@ -224,6 +224,7 @@ export const Flag = () => {
 
             if( gl )
             {
+                const loseContextExt = gl.getExtension("WEBGL_lose_context");
                 let speed = 1 
                 let stop = false
                 let timeLast = Date.now()
@@ -232,12 +233,10 @@ export const Flag = () => {
                 let fps = 60
                 let interval = 1000 / fps 
                 let distance = 0 
- 
-                // Your logic here 
-                image.crossOrigin = 'anonymous'
-                image.onload = ()=>{
-                    if( !gl ) return;
 
+                const initializeFlagWidget = ()=>{
+                    image.style.display = "none";
+                    canvas.style.display = "inline-block";
                     canvas.width = image.width;
                     canvas.height = image.height; 
 
@@ -305,12 +304,30 @@ export const Flag = () => {
 
                     draw()
                     tick()
+                }
+ 
+                // Your logic here 
+                image.crossOrigin = 'anonymous'
+                image.onload = ()=>{
+                    if( !gl ) return;
+
+                    initializeFlagWidget();
                 } 
 
-                image.style.display = "none";
+                //image.style.display = "none";
+ 
+
+                const onWebGlContextLost = (event:Event) =>{
+                    event.preventDefault(); 
+                    canvas.style.display = "none";
+                    image.style.display = "inline-block";
+                }
+                canvas.addEventListener("webglcontextlost", onWebGlContextLost);
+                
 
                 return ()=> {  
-                        console.log("UNLOAD")
+                    canvas.removeEventListener("webglcontextlost", onWebGlContextLost); 
+                    //loseContextExt?.loseContext(); 
                 }
             }  
         }
@@ -318,7 +335,7 @@ export const Flag = () => {
     }, [imgRef, canvasRef]);
 
     return <div>
-        <canvas ref={canvasRef}></canvas>
+        <canvas ref={canvasRef} style={{ display:"none"}}></canvas>
         <img ref={imgRef} src="/flag-400.png" width={300} height={220} alt='flag'/>
         </div>
 }
