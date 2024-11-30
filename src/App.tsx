@@ -216,8 +216,8 @@ function App() {
       } 
       
 
-      <div style={{ position:"absolute", top: -10, left: 0, transform:"rotate(90deg)", transformOrigin:"bottom left", opacity: 0.5}}>
-        by <a href="https://github.com/bandinopla" target='_blank'>Bandinopla</a></div>
+      <div style={{ position:"absolute", top: -10, left: 0, transform:"rotate(90deg)", transformOrigin:"bottom left", opacity: 0.95}}>
+        by <a href="https://github.com/bandinopla" target='_blank'>Bandinopla</a> | <a href="https://github.com/bandinopla/learn-chinese-by-listening" target='_blank'>open source</a></div>
 
 
     </>
