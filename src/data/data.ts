@@ -87,7 +87,8 @@ export const data = {
         {
             source: "https://youtu.be/4mNGsx9umI0?t=3949",
             en:"I don’t know if you’ve ever been afraid of losing her.",
-            ch:"我 不 知道 你 有 没有 害怕 失去 过 她"
+            ch:"我 不 知道 你 有 没有 害怕 失去 过 她",
+            audio:"losingher"
         }
     ]
 }
