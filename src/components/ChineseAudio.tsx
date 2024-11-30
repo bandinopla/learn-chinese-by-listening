@@ -79,7 +79,7 @@ export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number }> = (
     return <div>
             <h2> 
                 <button onClick={()=>handleReplay()}>{ isPlaying?"Stop":"Play"} Sound</button> 
-                <div className="source" style={{ display:"inline", marginLeft:5}}>  <strong><a href={line.source} target="_blank">Audio Source ⍈</a></strong></div>
+                <div className="source" style={{ display:"inline", marginLeft:5}}>  <strong><a href={line.source} target="_blank">Source ⍈</a></strong></div>
                 </h2>
                 
             <audio ref={audioRef}>

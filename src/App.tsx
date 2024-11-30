@@ -174,7 +174,7 @@ function App() {
           <ChineseAudio line={question.line} autoplay num={question.num}/>
           {
             showDetails && <div style={{ fontSize:"2em"}}>
-              <h6>{ question.line.en }</h6>
+              <h6 style={{ color:"yellow"}}>{ question.line.en }</h6>
               <Chinese line={question.line} pinzi/>
                
             </div>
