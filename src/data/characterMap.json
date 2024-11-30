@@ -798,5 +798,10 @@
     "pinzi": "yǒu",
     "means": "friend",
     "radical": true
+  },
+  "有没有": {
+    "pinzi": "yǒu méiyǒu",
+    "means": "have or not have; whether or not",
+    "radical": true
   }
 }
