@@ -733,5 +733,25 @@
     "pinzi": "tōng zhī",
     "means": "to notify; notification",
     "radical": true
+  },
+  "现在": {
+    "pinzi": "xiàn zài",
+    "means": "now; at present",
+    "radical": true
+  },
+  "疑问": {
+    "pinzi": "yí wèn",
+    "means": "question; doubt",
+    "radical": true
+  },
+  "现": {
+    "pinzi": "xiàn",
+    "means": "present; current",
+    "radical": true
+  },
+  "疑": {
+    "pinzi": "yí",
+    "means": "doubt; suspicion",
+    "radical": true
   }
 }

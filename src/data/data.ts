@@ -95,6 +95,12 @@ export const data = {
             ch:"我 觉得 他 可能 ...",
             en:"I think he might...",
             audio:"hemight" 
+        },
+        {
+            ch:"现在 是 我 有 疑问!",
+            en:"Now I have doubts!",
+            souce:"https://youtu.be/svU2t3c1IL4?t=583",
+            audio:"doubts" 
         }
     ]
 }
