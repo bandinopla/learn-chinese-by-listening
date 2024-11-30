@@ -698,5 +698,30 @@
     "pinzi": "shī",
     "means": "to lose",
     "radical": true
+  },
+  "觉得": {
+    "pinzi": "jué de",
+    "means": "to think; to feel",
+    "radical": true
+  },
+  "可能": {
+    "pinzi": "kě néng",
+    "means": "might; possibly",
+    "radical": true
+  },
+  "觉": {
+    "pinzi": "jué / jiào",
+    "means": "to feel / sleep",
+    "radical": true
+  },
+  "得": {
+    "pinzi": "de / dé",
+    "means": "to get; particle indicating degree",
+    "radical": true
+  },
+  "可": {
+    "pinzi": "kě",
+    "means": "can; may; possible",
+    "radical": true
   }
 }

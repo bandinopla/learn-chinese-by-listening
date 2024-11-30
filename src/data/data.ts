@@ -89,6 +89,12 @@ export const data = {
             en:"I don’t know if you’ve ever been afraid of losing her.",
             ch:"我 不 知道 你 有 没有 害怕 失去 过 她",
             audio:"losingher"
+        },
+        {
+            source:"https://youtu.be/4mNGsx9umI0?t=6310",
+            ch:"我 觉得 他 可能 ...",
+            en:"I think he might...",
+            audio:"hemight" 
         }
     ]
 }
