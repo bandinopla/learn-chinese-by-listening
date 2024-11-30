@@ -803,5 +803,30 @@
     "pinzi": "yǒu méiyǒu",
     "means": "have or not have; whether or not",
     "radical": true
+  },
+  "早点": {
+    "pinzi": "zǎo diǎn",
+    "means":"Noun:Breakfast; Adverbial: A bit earlier",
+    "radical": false
+  },
+  "休息": {
+    "pinzi": "xiū xi",
+    "means": "To rest or take a break.",
+    "radical": false
+  },
+  "早": {
+    "pinzi": "zǎo",
+    "means": "Early; morning.",
+    "radical": true
+  },
+  "休": {
+    "pinzi": "xiū",
+    "means": "To rest or stop.",
+    "radical":true
+  },
+  "息": {
+    "pinzi": "xī",
+    "means": "Breath; rest; pause.",
+    "radical": true
   }
 }

@@ -107,6 +107,12 @@ export const data = {
             ch:"二十 年 的 朋友了 吧",
             en:"We've been friends for 20 years, right?",
             audio:"friends"
+        },
+        {
+            source:"https://youtu.be/eNv8saOz1Qk?t=344",
+            ch:"你 早点 休息 吧",
+            en:"You should go to bed(to rest) early.",
+            audio:"rest"
         }
     ]
 }
