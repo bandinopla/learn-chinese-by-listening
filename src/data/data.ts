@@ -99,7 +99,7 @@ export const data = {
         {
             ch:"现在 是 我 有 疑问!",
             en:"Now I have doubts!",
-            souce:"https://youtu.be/svU2t3c1IL4?t=583",
+            source:"https://youtu.be/svU2t3c1IL4?t=583",
             audio:"doubts" 
         },
         {
