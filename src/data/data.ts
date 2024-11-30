@@ -63,7 +63,7 @@ export const data = {
         {
             audio:"whotheyare",
             source:"https://youtu.be/ldSAl8azgp8?t=293",
-            ch:"至 于 他们 是 谁...",
+            ch:"至于 他们 是 谁...",
             en:"As for who they are..."
         },
         {
