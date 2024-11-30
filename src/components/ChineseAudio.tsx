@@ -50,7 +50,7 @@ export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number }> = (
     
       });
 
-    const handleReplay = ( forcePlay?:boolean ) => {
+    const handleReplay = ( forcePlay?:boolean, speed?:number ) => {
         if (audioRef.current) {   
 
           if(  $stopCurrentSound )
@@ -61,7 +61,7 @@ export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number }> = (
             audioRef.current.currentTime = 0; // Reset audio to the beginning
             setIsPlaying(true);  
   
-            console.log( line.audio)
+            audioRef.current.playbackRate = speed ?? 1;
             audioRef.current.play(); // Play from the start  
             $stopCurrentSound = ()=>{
                 audioRef.current?.pause();
@@ -78,7 +78,8 @@ export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number }> = (
 
     return <div>
             <h2> 
-                <button onClick={()=>handleReplay()}>{ isPlaying?"Stop":"Play"} Sound</button> 
+                <button onClick={()=>handleReplay(false, 1)}>{ isPlaying?"Stop":"Play"}</button> 
+                { !isPlaying && <button style={{ marginLeft:2}} onClick={()=>handleReplay(false, 0.5)}>Slowly</button> }
                 <div className="source" style={{ display:"inline", marginLeft:5}}>  <strong><a href={line.source} target="_blank">Source ⍈</a></strong></div>
                 </h2>
                 
