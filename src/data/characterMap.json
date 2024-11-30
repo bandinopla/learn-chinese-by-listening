@@ -723,5 +723,15 @@
     "pinzi": "kě",
     "means": "can; may; possible",
     "radical": true
+  },
+  "导游": {
+    "pinzi": "dǎo yóu",
+    "means": "tour guide",
+    "radical": true
+  },
+  "通知": {
+    "pinzi": "tōng zhī",
+    "means": "to notify; notification",
+    "radical": true
   }
 }

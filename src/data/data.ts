@@ -75,7 +75,7 @@ export const data = {
         {
             audio:"meetat",
             source:"https://youtu.be/vbLEDqfTxVI?list=PLJKk4isdgkt9ShArtnkwBRfQrQEvG3ak3&t=233",
-            ch:"导 游 通 知的 是 七 点 半",
+            ch:"导游 通知 的 是 七 点 半",
             en:"The tour guide announced it was 7:30."
         },
         {
