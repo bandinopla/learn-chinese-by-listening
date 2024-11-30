@@ -101,6 +101,12 @@ export const data = {
             en:"Now I have doubts!",
             souce:"https://youtu.be/svU2t3c1IL4?t=583",
             audio:"doubts" 
+        },
+        {
+            source:"https://youtu.be/svU2t3c1IL4?t=2784",
+            ch:"二十 年 的 朋友了 吧",
+            en:"We've been friends for 20 years, right?",
+            audio:"friends"
         }
     ]
 }

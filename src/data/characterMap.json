@@ -758,5 +758,45 @@
     "pinzi": "zhì yú",
     "means": "as for; regarding",
     "radical": true
+  },
+  "二十": {
+    "pinzi": "èr shí",
+    "means": "twenty",
+    "radical": true
+  },
+  "年": {
+    "pinzi": "nián",
+    "means": "year",
+    "radical": true
+  },
+  "朋友了": {
+    "pinzi": "péng yǒu le",
+    "means": "friend (as a state, implying past or ongoing friendship)",
+    "radical": true
+  },
+  "吧": {
+    "pinzi": "ba",
+    "means": "particle indicating suggestion or assumption",
+    "radical": true
+  },
+  "二": {
+    "pinzi": "èr",
+    "means": "two",
+    "radical": true
+  },
+  "十": {
+    "pinzi": "shí",
+    "means": "ten",
+    "radical": true
+  },
+  "朋": {
+    "pinzi": "péng",
+    "means": "friend",
+    "radical": true
+  },
+  "友": {
+    "pinzi": "yǒu",
+    "means": "friend",
+    "radical": true
   }
 }
