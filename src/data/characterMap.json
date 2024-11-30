@@ -643,5 +643,60 @@
     "pinzi": "shàng",
     "means": "on; above; to go up",
     "radical": true
+  },
+  "知道": {
+    "pinzi": "zhī dào",
+    "means": "to know",
+    "radical": true
+  },
+  "没有": {
+    "pinzi": "méi yǒu",
+    "means": "not have; didn't",
+    "radical": true
+  },
+  "害怕": {
+    "pinzi": "hài pà",
+    "means": "afraid",
+    "radical": true
+  },
+  "失去": {
+    "pinzi": "shī qù",
+    "means": "to lose",
+    "radical": true
+  },
+  "过": {
+    "pinzi": "guò",
+    "means": "to pass; past tense marker",
+    "radical": true
+  },
+  "她": {
+    "pinzi": "tā",
+    "means": "she; her",
+    "radical": true
+  },
+  "道": {
+    "pinzi": "dào",
+    "means": "way; path",
+    "radical": true
+  },
+  "没": {
+    "pinzi": "méi",
+    "means": "not; without",
+    "radical": true
+  },
+  "害": {
+    "pinzi": "hài",
+    "means": "harm; danger",
+    "radical": true
+  },
+  "怕": {
+    "pinzi": "pà",
+    "means": "to fear",
+    "radical": true
+  },
+  "失": {
+    "pinzi": "shī",
+    "means": "to lose",
+    "radical": true
   }
 }
