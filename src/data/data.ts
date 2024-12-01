@@ -113,6 +113,18 @@ export const data = {
             ch:"你 早点 休息 吧",
             en:"You should go to bed(to rest) early.",
             audio:"rest"
+        },
+        {
+            audio:"doacall",
+            source:"https://youtu.be/rXw367Uyxss?t=69", 
+            ch:"好 那 马上 视频 马上 视频",
+            en:"OK, video now, video now"
+        },
+        {
+            audio:"canuhearme",
+            source:"https://youtu.be/rXw367Uyxss?t=217",
+            ch:"听 得 见 吗",
+            en:"Can you hear me?"
         }
     ]
 }

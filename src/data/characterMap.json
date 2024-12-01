@@ -806,7 +806,7 @@
   },
   "早点": {
     "pinzi": "zǎo diǎn",
-    "means":"Noun:Breakfast; Adverbial: A bit earlier",
+    "means": "Noun:Breakfast; Adverbial: A bit earlier",
     "radical": false
   },
   "休息": {
@@ -822,11 +822,56 @@
   "休": {
     "pinzi": "xiū",
     "means": "To rest or stop.",
-    "radical":true
+    "radical": true
   },
   "息": {
     "pinzi": "xī",
     "means": "Breath; rest; pause.",
     "radical": true
+  },
+  "听": {
+    "pinzi": "tīng",
+    "means": "to listen, hear",
+    "radical": true
+  },
+  "见": {
+    "pinzi": "jiàn",
+    "means": "to see, meet",
+    "radical": true
+  },
+  "好": {
+    "pinzi": "hǎo",
+    "means": "good, well",
+    "radical": false
+  },
+  "那": {
+    "pinzi": "nà",
+    "means": "that, there",
+    "radical": false
+  },
+  "马上": {
+    "pinzi": "mǎ shàng",
+    "means": "immediately, at once",
+    "radical": false
+  },
+  "视频": {
+    "pinzi": "shì pín",
+    "means": "video",
+    "radical": false
+  },
+  "马": {
+    "pinzi": "mǎ",
+    "means": "horse",
+    "radical": true
+  },
+  "视": {
+    "pinzi": "shì",
+    "means": "to look at, view",
+    "radical": false
+  },
+  "频": {
+    "pinzi": "pín",
+    "means": "frequency",
+    "radical": false
   }
 }
