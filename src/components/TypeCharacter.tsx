@@ -87,7 +87,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
             else 
             {
                 setUserOption(optIndex);
-                setResult( char.pinzi==options[optIndex].pinzi )
+                setResult( char.hanzi==options[optIndex].hanzi && char.pinzi==options[optIndex].pinzi )
             } 
 
             return;
