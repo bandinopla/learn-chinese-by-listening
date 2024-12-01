@@ -74,7 +74,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
             return;
         }
 
-        if( key=='Enter' || !isNaN(Number(key)) )
+        if( key=='Enter' || (key=='ArrowRight' && utext.length>0) || !isNaN(Number(key)) )
         {
             const optIndex = options.length>1 && !isNaN(Number(key))? Math.min( parseInt(key) , options.length ) - 1 : 0;
             const char = soup[ index ];
