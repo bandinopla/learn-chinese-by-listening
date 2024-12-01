@@ -4,7 +4,7 @@ import type { Line } from "../data/types";
  
 let $stopCurrentSound : ()=>void;
  
-export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number }> = ({ line, autoplay, num }) => { 
+export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number, ignoreKeys?:boolean }> = ({ line, autoplay, num, ignoreKeys }) => { 
     const audioRef = useRef<HTMLAudioElement | null>(null);  
     const [isPlaying, setIsPlaying] = useState<boolean>(false); // State to track if audio is playing
 
@@ -36,6 +36,8 @@ export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number }> = (
     }, [num]); // Empty dependency array ensures this runs only once on mount
 
     useEffect(() => {
+
+        if( ignoreKeys ) return;
 
         const onKeyDown = (ev: KeyboardEvent) => {
           if (ev.code == 'ArrowLeft') { 

@@ -69,3 +69,12 @@ a { color: var(--FLAG_RED) }
   color: yellow;
   font-size: 1.3em;
 }
+
+.menu {
+  margin: 40px auto;
+}
+.menu > div {
+  display: flex;
+  flex-direction: column;
+  
+}

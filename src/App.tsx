@@ -6,6 +6,7 @@ import { ChineseAudio } from './components/ChineseAudio'
 import { Chinese } from './components/Chinese'
 import { AudiosFilter } from './components/AudiosFilter'
 import { Flag } from './components/flag'
+import { TypeCharacter } from './components/TypeCharacter'
 
 //const props = ["audio", "ch", "en"];
 
@@ -23,6 +24,7 @@ function App() {
   const [question, setQuestion] = useState<Question | null>(null);
   const typeIndex = useRef(0); 
   const selectedLinesState = useState<number[]>(data.lines.map((_,i)=>i));
+  const [mode, setMode] = useState(0);
 
   useEffect(() => {
 
@@ -32,15 +34,32 @@ function App() {
 
   }, [myLines, question]);
 
+  //
+  // handle keyboard input
+  //
   useEffect(() => {
 
     const onKeyDown = (ev: KeyboardEvent) => {
-      if (ev.code == 'ArrowRight') {
  
-        if (myLines.length == 0) {
-          startQuiz();
+      if( myLines.length == 0 )
+      {
+        if (ev.code == 'ArrowRight') { 
+          startQuiz(0);
         }
-        else {
+        else if ( ev.code == 'ArrowLeft') { 
+          startQuiz(1);
+        }
+        return;
+      }
+
+      if( ev.code == 'Escape') {
+        setQuestion(null);
+        setAvailableLines([]); 
+        setMyLines([]);
+        return;
+      }
+
+      if (ev.code == 'ArrowRight' && mode==0 ) { 
 
           if (!showDetails) {
             setShowDetails(true);
@@ -49,9 +68,7 @@ function App() {
   
           setShowDetails(false);
 
-          pickRandomQuestion();
-        }
-
+          pickRandomQuestion();  
       }
       else if( ev.code == 'ArrowUp' )
       {
@@ -59,12 +76,7 @@ function App() {
       }
       else if(ev.code == 'ArrowDown') {
         addRandomLine(true)
-      }
-      else if( ev.code == 'Escape') {
-        setQuestion(null);
-        setAvailableLines([]); 
-        setMyLines([]);
-      }
+      } 
     }
 
     window.addEventListener("keydown", onKeyDown);
@@ -116,7 +128,9 @@ function App() {
     setMyLines([...myLines, itm]);
   }
 
-  const startQuiz = () => {
+  const startQuiz = ( inMode:number=0 ) => {
+
+    setMode(inMode);
     //addRandomLine();
     const lines = data.lines.filter( (_, i)=>selectedLinesState[0].indexOf(i)>-1 );
     if( !lines.length){
@@ -171,14 +185,22 @@ function App() {
 
       {
         question && <div>
-          <ChineseAudio line={question.line} autoplay num={question.num}/>
-          {
-            showDetails && <div style={{ fontSize:"2em"}}>
-              <h6 style={{ color:"yellow"}}>{ question.line.en }</h6>
-              <Chinese line={question.line} pinzi/>
-               
-            </div>
-          }
+
+          { mode==0? <>
+                      <ChineseAudio line={question.line} autoplay num={question.num}/>
+                      {
+                        showDetails && <div style={{ fontSize:"2em"}}>
+                          <h6 style={{ color:"yellow"}}>{ question.line.en }</h6>
+                          <Chinese line={question.line} pinzi/>
+                          
+                        </div>
+                      }
+                      </> 
+            : 
+            <>
+            <TypeCharacter line={question.line} num={question.num} onFinish={()=>pickRandomQuestion()}/>
+            </>}
+          
 
           <div>
             <br/>
@@ -199,14 +221,25 @@ function App() {
       {
         myLines.length == 0 && <>
         
-        <Flag/>
-        <h3>Play audio clips randomly, repeat them, and then read what they say.</h3>
-        <div>Add or Remove lines as you need, it's up to you... ( work in progress )</div>
-        <br/>
-        <br/>
-        <button onClick={startQuiz} style={{ fontSize: "3em"}}>
-        开 始  →
-        </button>
+        <Flag/> 
+ 
+        <div style={{ display:"flex", gap:10, justifyContent:"space-around" }} className='menu'> 
+          <div>
+            Write...<br/><br/>
+            <button onClick={()=>startQuiz(1)} style={{ fontSize: "3em"}}>
+            ← 字符 
+            </button>
+          </div>
+          <div>
+            Hear...<br/><br/>
+            <button onClick={()=>startQuiz(0)} style={{ fontSize: "3em"}}>
+            听到  →
+            </button>
+          </div>
+          
+          
+        </div>
+        
 
         <div style={{ marginTop:40 }}>
           <h3>Select audio lines to use (SHIFT+select for single selection)</h3> 
