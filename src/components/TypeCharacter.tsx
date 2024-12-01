@@ -41,7 +41,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
 
         if( utext.length>1 ) 
             Object.entries(charMap).forEach(([key, value]) => {
-                if( value.pinzi.indexOf(" ")<0 && removeAccents(value.pinzi).indexOf(utext)>-1 && !ops.find(o=>o.pinzi==value.pinzi))
+                if( value.pinzi.indexOf(" ")<0 && removeAccents(value.pinzi).indexOf(utext)>-1 && !ops.find(o=>o.pinzi==value.pinzi && o.hanzi==key))
                 {
                     ops.push( {
                         hanzi: key,
@@ -49,6 +49,10 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
                     } )
                 }
             });
+
+        ops.sort( (a,b)=>a.pinzi.length-b.pinzi.length);
+
+        if( ops.length>=10 ) ops.length=9;
 
         return ops;
 
@@ -146,10 +150,10 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
             { soup[ index ].hanzi}
         </h1> 
         {
-            result != null? <>
+            result != null? <> 
                                 { userOption==-1 && utext.length>0 && <span className={classes.incorrect}>Incorrect → <strong>{utext}</strong></span> }
                                 { userOption!==-1 && <span className={ result? classes.correct : classes.incorrect }>{result?"Correct!":"Incorrect!" } → <strong>{userOption>-1? options[ userOption ].pinzi+" ( "+options[ userOption ].hanzi+" )"  :"..."}</strong></span> }
-                                <div>
+                                <div> 
                                     <h1 style={{ color:"yellow", marginBottom:3}}>{ soup[index].pinzi }</h1>
                                     <h3 style={{ color:"yellow", marginBottom:0}}>{ soup[index].means }</h3>
                                     <div style={{ marginTop:20}} className={ classes.example }>
@@ -165,8 +169,18 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
                 {utext}<span className={ classes.cursor }>|</span>
             </div>
             <div className={ classes.options }>
-                {options.map( (opt,i)=><div key={opt.pinzi}><span className={ classes.numpadKey}>{ options.length==1? "ENTER" : i+1}</span>{ opt.pinzi }</div> )}
-            </div>
+                {options.map( (opt,i)=><div key={i}>
+                    <span className={ classes.numpadKey}>{ options.length==1? "ENTER" : i+1}</span>
+                    { opt.pinzi }
+                    { options.filter(o=>o.pinzi==opt.pinzi)
+                             .reduce((out, o, j, arr)=>{ if(arr.length>1 && o.hanzi==opt.hanzi){ out = "*".repeat(j+1) }; return out; },"")
+                             }
+                </div> )}
+            </div> 
+            {
+                result==undefined && options.filter( o=>options.filter(op=>op.pinzi==o.pinzi).length>1 )
+                        .map( (o,i)=><div key={i}>[{"*".repeat(i+1)}] {o.means}</div> )
+            }
             </>
         }
         
