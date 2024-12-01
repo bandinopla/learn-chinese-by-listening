@@ -189,7 +189,7 @@ function App() {
             <div className='instructions'><strong>UP ↑</strong> to add a new line.
             <br/> <strong>DOWN ↓</strong> to remove a line.
             <br/> <strong>LEFT ←</strong> to repeat sound.
-            <br/> <strong>RIGHT ←</strong> to move next.
+            <br/> <strong>RIGHT →</strong> to move next.
             <br/> <strong>ESC</strong> quit
             </div>
           </div>
