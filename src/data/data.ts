@@ -143,6 +143,12 @@ export const data = {
             source:"https://youtu.be/M_Z0_OVZDv8?t=339",
             ch:"可不 可以 喝 点 水 啊？",
             en:"Can I have some water?"
+        },
+        {
+            source:"https://youtu.be/PN4gd45kLas?t=1151",
+            audio:"rememberme",
+            ch:"记得 我 吗?",
+            en:"remember me?"
         }
     ]
 }
