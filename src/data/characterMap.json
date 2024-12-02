@@ -918,5 +918,25 @@
     "pinzi": "fàn",
     "means": "rice, meal",
     "radical": true
+  },
+  "可不": {
+    "pinzi": "kě bù",
+    "means": "whether or not; can or cannot",
+    "radical": false
+  },
+  "可以": {
+    "pinzi": "kě yǐ",
+    "means": "can, may, be allowed to",
+    "radical": false
+  },
+  "喝": {
+    "pinzi": "hē",
+    "means": "to drink",
+    "radical": false
+  },
+  "啊": {
+    "pinzi": "a",
+    "means": "particle expressing surprise, emphasis, or inquiry",
+    "radical": false
   }
 }

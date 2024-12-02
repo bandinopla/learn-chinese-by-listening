@@ -137,6 +137,12 @@ export const data = {
             source:"https://youtu.be/M_Z0_OVZDv8?t=286",
             ch:"会 做 饭 吗？",
             en:"Can you cook?"
+        },
+        {
+            audio:"havewater",
+            source:"https://youtu.be/M_Z0_OVZDv8?t=339",
+            ch:"可不 可以 喝 点 水 啊？",
+            en:"Can I have some water?"
         }
     ]
 }
