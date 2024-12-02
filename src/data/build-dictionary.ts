@@ -38,8 +38,7 @@ function generateCharacterMap(data: { lines: Line[] }, characterMap:Result ): Re
             {
                 characterMap[ token ] = {
                     pinzi:"",
-                    means:"",
-                    radical:false
+                    means:"" 
                 }
             } 
 

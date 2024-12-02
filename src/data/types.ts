@@ -7,8 +7,7 @@ export interface Line {
 
 export type CharacterInfo = {
     pinzi: string;
-    means: string;
-    radical: boolean;
+    means: string; 
 };
 
 export type CharacterDicc = { [key: string]: CharacterInfo } ;

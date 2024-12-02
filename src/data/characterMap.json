@@ -1,942 +1,754 @@
 {
   "我": {
     "pinzi": "wǒ",
-    "means": "I, me",
-    "radical": true
+    "means": "I, me"
   },
   "去": {
     "pinzi": "qù",
-    "means": "to go",
-    "radical": true
+    "means": "to go"
   },
   "超市": {
     "pinzi": "chāo shì",
-    "means": "supermarket",
-    "radical": false
+    "means": "supermarket"
   },
   "买": {
     "pinzi": "mǎi",
-    "means": "to buy",
-    "radical": true
+    "means": "to buy"
   },
   "了": {
     "pinzi": "le",
-    "means": "particle indicating completed action",
-    "radical": false
+    "means": "particle indicating completed action"
   },
   "点": {
     "pinzi": "diǎn",
-    "means": "point, dot, o'clock",
-    "radical": true
+    "means": "point, dot, o'clock"
   },
   "东西": {
     "pinzi": "dōng xī",
-    "means": "thing, stuff",
-    "radical": false
+    "means": "thing, stuff"
   },
   "超": {
     "pinzi": "chāo",
-    "means": "to exceed, to surpass",
-    "radical": true
+    "means": "to exceed, to surpass"
   },
   "市": {
     "pinzi": "shì",
-    "means": "market, city",
-    "radical": true
+    "means": "market, city"
   },
   "东": {
     "pinzi": "dōng",
-    "means": "east",
-    "radical": true
+    "means": "east"
   },
   "西": {
     "pinzi": "xī",
-    "means": "west",
-    "radical": true
+    "means": "west"
   },
   "你": {
     "pinzi": "nǐ",
-    "means": "you",
-    "radical": true
+    "means": "you"
   },
   "什么": {
     "pinzi": "shén me",
-    "means": "what",
-    "radical": false
+    "means": "what"
   },
   "让": {
     "pinzi": "ràng",
-    "means": "to let, allow",
-    "radical": true
+    "means": "to let, allow"
   },
   "看看": {
     "pinzi": "kàn kan",
-    "means": "to look, to take a look",
-    "radical": false
+    "means": "to look, to take a look"
   },
   "什": {
     "pinzi": "shén",
-    "means": "what",
-    "radical": false
+    "means": "what"
   },
   "么": {
     "pinzi": "me",
-    "means": "question particle",
-    "radical": false
+    "means": "question particle"
   },
   "看": {
     "pinzi": "kàn",
-    "means": "to see, to look",
-    "radical": true
+    "means": "to see, to look"
   },
   "主要": {
     "pinzi": "zhǔ yào",
-    "means": "mainly; primarily",
-    "radical": false
+    "means": "mainly; primarily"
   },
   "真的": {
     "pinzi": "zhēn de",
-    "means": "really; truly",
-    "radical": false
+    "means": "really; truly"
   },
   "不怪我": {
     "pinzi": "bù guài wǒ",
-    "means": "it's not my fault",
-    "radical": false
+    "means": "it's not my fault"
   },
   "主": {
     "pinzi": "zhǔ",
-    "means": "master; main",
-    "radical": true
+    "means": "master; main"
   },
   "要": {
     "pinzi": "yào",
-    "means": "want; need; important",
-    "radical": false
+    "means": "want; need; important"
   },
   "真": {
     "pinzi": "zhēn",
-    "means": "real; true",
-    "radical": false
+    "means": "real; true"
   },
   "的": {
     "pinzi": "de",
-    "means": "possessive or descriptive particle",
-    "radical": false
+    "means": "possessive or descriptive particle"
   },
   "不": {
     "pinzi": "bù",
-    "means": "not; no",
-    "radical": false
+    "means": "not; no"
   },
   "怪": {
     "pinzi": "guài",
-    "means": "blame; strange",
-    "radical": true
+    "means": "blame; strange"
   },
   "就": {
     "pinzi": "jiù",
-    "means": "then; just; simply",
-    "radical": false
+    "means": "then; just; simply"
   },
   "搞": {
     "pinzi": "gǎo",
-    "means": "do; make; engage in",
-    "radical": false
+    "means": "do; make; engage in"
   },
   "清楚": {
     "pinzi": "qīng chǔ",
-    "means": "clear; understand",
-    "radical": false
+    "means": "clear; understand"
   },
   "清": {
     "pinzi": "qīng",
-    "means": "clear; pure",
-    "radical": true
+    "means": "clear; pure"
   },
   "楚": {
     "pinzi": "chǔ",
-    "means": "distinct; clear",
-    "radical": false
+    "means": "distinct; clear"
   },
   "两盒": {
     "pinzi": "liǎng hé",
-    "means": "two boxes",
-    "radical": false
+    "means": "two boxes"
   },
   "一些": {
     "pinzi": "yī xiē",
-    "means": "some, a few, several",
-    "radical": false
+    "means": "some, a few, several"
   },
   "牛奶": {
     "pinzi": "niú nǎi",
-    "means": "milk",
-    "radical": false
+    "means": "milk"
   },
   "水果": {
     "pinzi": "shuǐ guǒ",
-    "means": "fruit",
-    "radical": false
+    "means": "fruit"
   },
   "两": {
     "pinzi": "liǎng",
-    "means": "two",
-    "radical": false
+    "means": "two"
   },
   "盒": {
     "pinzi": "hé",
-    "means": "box",
-    "radical": false
+    "means": "box"
   },
   "牛": {
     "pinzi": "niú",
-    "means": "cow; ox",
-    "radical": true
+    "means": "cow; ox"
   },
   "奶": {
     "pinzi": "nǎi",
-    "means": "milk",
-    "radical": false
+    "means": "milk"
   },
   "一": {
     "pinzi": "yī",
-    "means": "one",
-    "radical": true
+    "means": "one"
   },
   "些": {
     "pinzi": "xiē",
-    "means": "some; a few",
-    "radical": false
+    "means": "some; a few"
   },
   "水": {
     "pinzi": "shuǐ",
-    "means": "water",
-    "radical": true
+    "means": "water"
   },
   "果": {
     "pinzi": "guǒ",
-    "means": "fruit; result",
-    "radical": false
+    "means": "fruit; result"
   },
   "当然": {
     "pinzi": "dāng rán",
-    "means": "of course",
-    "radical": false
+    "means": "of course"
   },
   "必须": {
     "pinzi": "bì xū",
-    "means": "must; have to",
-    "radical": false
+    "means": "must; have to"
   },
   "坚持": {
     "pinzi": "jiān chí",
-    "means": "persist; stick to",
-    "radical": false
+    "means": "persist; stick to"
   },
   "这个": {
     "pinzi": "zhè gè",
-    "means": "this",
-    "radical": false
+    "means": "this"
   },
   "项目": {
     "pinzi": "xiàng mù",
-    "means": "project",
-    "radical": false
+    "means": "project"
   },
   "全力以赴": {
     "pinzi": "quán lì yǐ fù",
-    "means": "go all out",
-    "radical": false
+    "means": "go all out"
   },
   "当": {
     "pinzi": "dāng",
-    "means": "act as; proper",
-    "radical": false
+    "means": "act as; proper"
   },
   "然": {
     "pinzi": "rán",
-    "means": "so; naturally",
-    "radical": false
+    "means": "so; naturally"
   },
   "必": {
     "pinzi": "bì",
-    "means": "must",
-    "radical": false
+    "means": "must"
   },
   "须": {
     "pinzi": "xū",
-    "means": "need",
-    "radical": false
+    "means": "need"
   },
   "坚": {
     "pinzi": "jiān",
-    "means": "firm; strong",
-    "radical": false
+    "means": "firm; strong"
   },
   "持": {
     "pinzi": "chí",
-    "means": "hold; support",
-    "radical": false
+    "means": "hold; support"
   },
   "这": {
     "pinzi": "zhè",
-    "means": "this",
-    "radical": false
+    "means": "this"
   },
   "个": {
     "pinzi": "gè",
-    "means": "individual; measure word",
-    "radical": false
+    "means": "individual; measure word"
   },
   "项": {
     "pinzi": "xiàng",
-    "means": "item; project",
-    "radical": false
+    "means": "item; project"
   },
   "目": {
     "pinzi": "mù",
-    "means": "eye; item",
-    "radical": false
+    "means": "eye; item"
   },
   "全": {
     "pinzi": "quán",
-    "means": "whole; complete",
-    "radical": false
+    "means": "whole; complete"
   },
   "力": {
     "pinzi": "lì",
-    "means": "strength; power",
-    "radical": true
+    "means": "strength; power"
   },
   "以": {
     "pinzi": "yǐ",
-    "means": "with; by means of",
-    "radical": false
+    "means": "with; by means of"
   },
   "赴": {
     "pinzi": "fù",
-    "means": "go to; attend",
-    "radical": false
+    "means": "go to; attend"
   },
   "也是": {
     "pinzi": "yě shì",
-    "means": "also is; is also",
-    "radical": false
+    "means": "also is; is also"
   },
   "来": {
     "pinzi": "lái",
-    "means": "to come",
-    "radical": false
+    "means": "to come"
   },
   "相亲": {
     "pinzi": "xiāng qīn",
-    "means": "blind date; arranged meeting for marriage",
-    "radical": false
+    "means": "blind date; arranged meeting for marriage"
   },
   "也": {
     "pinzi": "yě",
-    "means": "also; too",
-    "radical": true
+    "means": "also; too"
   },
   "是": {
     "pinzi": "shì",
-    "means": "is; are; to be",
-    "radical": true
+    "means": "is; are; to be"
   },
   "相": {
     "pinzi": "xiāng",
-    "means": "mutual; phase",
-    "radical": true
+    "means": "mutual; phase"
   },
   "亲": {
     "pinzi": "qīn",
-    "means": "relative; parent; close",
-    "radical": true
+    "means": "relative; parent; close"
   },
   "多少": {
     "pinzi": "duō shǎo",
-    "means": "how much; how many",
-    "radical": false
+    "means": "how much; how many"
   },
   "钱": {
     "pinzi": "qián",
-    "means": "money",
-    "radical": false
+    "means": "money"
   },
   "才能": {
     "pinzi": "cái néng",
-    "means": "only then can; ability",
-    "radical": false
+    "means": "only then can; ability"
   },
   "离开": {
     "pinzi": "lí kāi",
-    "means": "to leave; to depart",
-    "radical": false
+    "means": "to leave; to depart"
   },
   "儿子": {
     "pinzi": "ér zi",
-    "means": "son",
-    "radical": false
+    "means": "son"
   },
   "多": {
     "pinzi": "duō",
-    "means": "many; much; more",
-    "radical": true
+    "means": "many; much; more"
   },
   "少": {
     "pinzi": "shǎo",
-    "means": "few; less",
-    "radical": true
+    "means": "few; less"
   },
   "才": {
     "pinzi": "cái",
-    "means": "just; only; talent",
-    "radical": true
+    "means": "just; only; talent"
   },
   "能": {
     "pinzi": "néng",
-    "means": "can; able to",
-    "radical": true
+    "means": "can; able to"
   },
   "离": {
     "pinzi": "lí",
-    "means": "to leave; to separate",
-    "radical": true
+    "means": "to leave; to separate"
   },
   "开": {
     "pinzi": "kāi",
-    "means": "to open; to start; to leave",
-    "radical": true
+    "means": "to open; to start; to leave"
   },
   "儿": {
     "pinzi": "ér",
-    "means": "son; child",
-    "radical": true
+    "means": "son; child"
   },
   "子": {
     "pinzi": "zi",
-    "means": "child; son; seed",
-    "radical": true
+    "means": "child; son; seed"
   },
   "这儿": {
     "pinzi": "zhè'er",
-    "means": "here; this place",
-    "radical": false
+    "means": "here; this place"
   },
   "我们的": {
     "pinzi": "wǒ men de",
-    "means": "our; ours",
-    "radical": false
+    "means": "our; ours"
   },
   "家": {
     "pinzi": "jiā",
-    "means": "home; family",
-    "radical": true
+    "means": "home; family"
   },
   "们": {
     "pinzi": "men",
-    "means": "plural marker for pronouns and some nouns",
-    "radical": false
+    "means": "plural marker for pronouns and some nouns"
   },
   "凭": {
     "pinzi": "píng",
-    "means": "to rely on; based on; by means of",
-    "radical": true
+    "means": "to rely on; based on; by means of"
   },
   "自己的": {
     "pinzi": "Zìjǐ de",
-    "means": "Your own",
-    "radical": false
+    "means": "Your own"
   },
   "打下我": {
     "pinzi": "dǎxià wǒ",
-    "means": "hit me; fight me",
-    "radical": false
+    "means": "hit me; fight me"
   },
   "自": {
     "pinzi": "Zì",
-    "means": "since, from, self, oneself",
-    "radical": false
+    "means": "since, from, self, oneself"
   },
   "本事": {
     "pinzi": "běn shì",
-    "means": "ability; skill",
-    "radical": false
+    "means": "ability; skill"
   },
   "打": {
     "pinzi": "dǎ",
-    "means": "to hit; to strike; to play",
-    "radical": true
+    "means": "to hit; to strike; to play"
   },
   "下": {
     "pinzi": "xià",
-    "means": "down; below; to descend",
-    "radical": true
+    "means": "down; below; to descend"
   },
   "己": {
     "pinzi": "jǐ",
-    "means": "self; oneself",
-    "radical": true
+    "means": "self; oneself"
   },
   "本": {
     "pinzi": "běn",
-    "means": "root; origin; book",
-    "radical": true
+    "means": "root; origin; book"
   },
   "事": {
     "pinzi": "shì",
-    "means": "affair; matter; thing",
-    "radical": true
+    "means": "affair; matter; thing"
   },
   "至": {
     "pinzi": "zhì",
-    "means": "to; until; extremely",
-    "radical": false
+    "means": "to; until; extremely"
   },
   "于": {
     "pinzi": "yú",
-    "means": "in; at; on; to; from",
-    "radical": false
+    "means": "in; at; on; to; from"
   },
   "他们": {
     "pinzi": "tāmen",
-    "means": "they; them (for males or mixed genders)",
-    "radical": false
+    "means": "they; them (for males or mixed genders)"
   },
   "谁": {
     "pinzi": "shéi",
-    "means": "who",
-    "radical": false
+    "means": "who"
   },
   "他": {
     "pinzi": "tā",
-    "means": "he; him",
-    "radical": false
+    "means": "he; him"
   },
   "刚": {
     "pinzi": "gāng",
-    "means": "just, recently",
-    "radical": false
+    "means": "just, recently"
   },
   "在": {
     "pinzi": "zài",
-    "means": "at, in, on; indicates ongoing action",
-    "radical": false
+    "means": "at, in, on; indicates ongoing action"
   },
   "说": {
     "pinzi": "shuō",
-    "means": "to speak, to say",
-    "radical": false
+    "means": "to speak, to say"
   },
   "问题": {
     "pinzi": "wèntí",
-    "means": "problem, question",
-    "radical": false
+    "means": "problem, question"
   },
   "问": {
     "pinzi": "wèn",
-    "means": "to ask",
-    "radical": true
+    "means": "to ask"
   },
   "题": {
     "pinzi": "tí",
-    "means": "topic, question",
-    "radical": true
+    "means": "topic, question"
   },
   "导": {
     "pinzi": "dǎo",
-    "means": "to guide; to lead",
-    "radical": true
+    "means": "to guide; to lead"
   },
   "游": {
     "pinzi": "yóu",
-    "means": "to travel; to roam",
-    "radical": true
+    "means": "to travel; to roam"
   },
   "通": {
     "pinzi": "tōng",
-    "means": "to communicate; through; open",
-    "radical": true
+    "means": "to communicate; through; open"
   },
   "知的": {
     "pinzi": "zhī de",
-    "means": "to know (possessive marker)",
-    "radical": false
+    "means": "to know (possessive marker)"
   },
   "七": {
     "pinzi": "qī",
-    "means": "seven",
-    "radical": true
+    "means": "seven"
   },
   "半": {
     "pinzi": "bàn",
-    "means": "half",
-    "radical": true
+    "means": "half"
   },
   "知": {
     "pinzi": "zhī",
-    "means": "to know; knowledge",
-    "radical": true
+    "means": "to know; knowledge"
   },
   "你们": {
     "pinzi": "nǐmen",
-    "means": "you (plural)",
-    "radical": true
+    "means": "you (plural)"
   },
   "有人": {
     "pinzi": "yǒurén",
-    "means": "someone",
-    "radical": false
+    "means": "someone"
   },
   "跟": {
     "pinzi": "gēn",
-    "means": "to follow; with",
-    "radical": true
+    "means": "to follow; with"
   },
   "迪迪": {
     "pinzi": "dí dí",
-    "means": "Didi (a name or proper noun)",
-    "radical": false
+    "means": "Didi (a name or proper noun)"
   },
   "联系": {
     "pinzi": "liánxì",
-    "means": "to contact; connection",
-    "radical": false
+    "means": "to contact; connection"
   },
   "上了": {
     "pinzi": "shàng le",
-    "means": "got on; went on",
-    "radical": false
+    "means": "got on; went on"
   },
   "吗": {
     "pinzi": "ma",
-    "means": "(question particle)",
-    "radical": true
+    "means": "(question particle)"
   },
   "有": {
     "pinzi": "yǒu",
-    "means": "to have; there is/are",
-    "radical": true
+    "means": "to have; there is/are"
   },
   "人": {
     "pinzi": "rén",
-    "means": "person",
-    "radical": true
+    "means": "person"
   },
   "迪": {
     "pinzi": "dí",
-    "means": "enlighten; Didi (proper noun)",
-    "radical": false
+    "means": "enlighten; Didi (proper noun)"
   },
   "联": {
     "pinzi": "lián",
-    "means": "to connect; to unite",
-    "radical": true
+    "means": "to connect; to unite"
   },
   "系": {
     "pinzi": "xì",
-    "means": "to connect; system",
-    "radical": false
+    "means": "to connect; system"
   },
   "上": {
     "pinzi": "shàng",
-    "means": "on; above; to go up",
-    "radical": true
+    "means": "on; above; to go up"
   },
   "知道": {
     "pinzi": "zhī dào",
-    "means": "to know",
-    "radical": true
+    "means": "to know"
   },
   "没有": {
     "pinzi": "méi yǒu",
-    "means": "not have; didn't",
-    "radical": true
+    "means": "not have; didn't"
   },
   "害怕": {
     "pinzi": "hài pà",
-    "means": "afraid",
-    "radical": true
+    "means": "afraid"
   },
   "失去": {
     "pinzi": "shī qù",
-    "means": "to lose",
-    "radical": true
+    "means": "to lose"
   },
   "过": {
     "pinzi": "guò",
-    "means": "to pass; past tense marker",
-    "radical": true
+    "means": "to pass; past tense marker"
   },
   "她": {
     "pinzi": "tā",
-    "means": "she; her",
-    "radical": true
+    "means": "she; her"
   },
   "道": {
     "pinzi": "dào",
-    "means": "way; path",
-    "radical": true
+    "means": "way; path"
   },
   "没": {
     "pinzi": "méi",
-    "means": "not; without",
-    "radical": true
+    "means": "not; without"
   },
   "害": {
     "pinzi": "hài",
-    "means": "harm; danger",
-    "radical": true
+    "means": "harm; danger"
   },
   "怕": {
     "pinzi": "pà",
-    "means": "to fear",
-    "radical": true
+    "means": "to fear"
   },
   "失": {
     "pinzi": "shī",
-    "means": "to lose",
-    "radical": true
+    "means": "to lose"
   },
   "觉得": {
     "pinzi": "jué dé",
-    "means": "to think; to feel",
-    "radical": true
+    "means": "to think; to feel"
   },
   "可能": {
     "pinzi": "kě néng",
-    "means": "might; possibly",
-    "radical": true
+    "means": "might; possibly"
   },
   "觉": {
     "pinzi": "jué / jiào",
-    "means": "to feel / sleep",
-    "radical": true
+    "means": "to feel / sleep"
   },
   "得": {
     "pinzi": "dé",
-    "means": "to get; particle indicating degree",
-    "radical": true
+    "means": "to get; particle indicating degree"
   },
   "可": {
     "pinzi": "kě",
-    "means": "can; may; possible",
-    "radical": true
+    "means": "can; may; possible"
   },
   "导游": {
     "pinzi": "dǎo yóu",
-    "means": "tour guide",
-    "radical": true
+    "means": "tour guide"
   },
   "通知": {
     "pinzi": "tōng zhī",
-    "means": "to notify; notification",
-    "radical": true
+    "means": "to notify; notification"
   },
   "现在": {
     "pinzi": "xiàn zài",
-    "means": "now; at present",
-    "radical": true
+    "means": "now; at present"
   },
   "疑问": {
     "pinzi": "yí wèn",
-    "means": "question; doubt",
-    "radical": true
+    "means": "question; doubt"
   },
   "现": {
     "pinzi": "xiàn",
-    "means": "present; current",
-    "radical": true
+    "means": "present; current"
   },
   "疑": {
     "pinzi": "yí",
-    "means": "doubt; suspicion",
-    "radical": true
+    "means": "doubt; suspicion"
   },
   "至于": {
     "pinzi": "zhì yú",
-    "means": "as for; regarding",
-    "radical": true
+    "means": "as for; regarding"
   },
   "二十": {
     "pinzi": "èr shí",
-    "means": "twenty",
-    "radical": true
+    "means": "twenty"
   },
   "年": {
     "pinzi": "nián",
-    "means": "year",
-    "radical": true
+    "means": "year"
   },
   "朋友了": {
     "pinzi": "péng yǒu le",
-    "means": "friend (as a state, implying past or ongoing friendship)",
-    "radical": true
+    "means": "friend (as a state, implying past or ongoing friendship)"
   },
   "吧": {
     "pinzi": "ba",
-    "means": "particle indicating suggestion or assumption",
-    "radical": true
+    "means": "particle indicating suggestion or assumption"
   },
   "二": {
     "pinzi": "èr",
-    "means": "two",
-    "radical": true
+    "means": "two"
   },
   "十": {
     "pinzi": "shí",
-    "means": "ten",
-    "radical": true
+    "means": "ten"
   },
   "朋": {
     "pinzi": "péng",
-    "means": "friend",
-    "radical": true
+    "means": "friend"
   },
   "友": {
     "pinzi": "yǒu",
-    "means": "friend",
-    "radical": true
+    "means": "friend"
   },
   "有没有": {
     "pinzi": "yǒu méiyǒu",
-    "means": "have or not have; whether or not",
-    "radical": true
+    "means": "have or not have; whether or not"
   },
   "早点": {
     "pinzi": "zǎo diǎn",
-    "means": "Noun:Breakfast; Adverbial: A bit earlier",
-    "radical": false
+    "means": "Noun:Breakfast; Adverbial: A bit earlier"
   },
   "休息": {
     "pinzi": "xiū xī",
-    "means": "To rest or take a break.",
-    "radical": false
+    "means": "To rest or take a break."
   },
   "早": {
     "pinzi": "zǎo",
-    "means": "Early; morning.",
-    "radical": true
+    "means": "Early; morning."
   },
   "休": {
     "pinzi": "xiū",
-    "means": "To rest or stop.",
-    "radical": true
+    "means": "To rest or stop."
   },
   "息": {
     "pinzi": "xī",
-    "means": "Breath; rest; pause.",
-    "radical": true
+    "means": "Breath; rest; pause."
   },
   "听": {
     "pinzi": "tīng",
-    "means": "to listen, hear",
-    "radical": true
+    "means": "to listen, hear"
   },
   "见": {
     "pinzi": "jiàn",
-    "means": "to see, meet",
-    "radical": true
+    "means": "to see, meet"
   },
   "好": {
     "pinzi": "hǎo",
-    "means": "good, well",
-    "radical": false
+    "means": "good, well"
   },
   "那": {
     "pinzi": "nà",
-    "means": "that, there",
-    "radical": false
+    "means": "that, there"
   },
   "马上": {
     "pinzi": "mǎ shàng",
-    "means": "immediately, at once",
-    "radical": false
+    "means": "immediately, at once"
   },
   "视频": {
     "pinzi": "shì pín",
-    "means": "video",
-    "radical": false
+    "means": "video"
   },
   "马": {
     "pinzi": "mǎ",
-    "means": "horse",
-    "radical": true
+    "means": "horse"
   },
   "视": {
     "pinzi": "shì",
-    "means": "to look at, view",
-    "radical": false
+    "means": "to look at, view"
   },
   "频": {
     "pinzi": "pín",
-    "means": "frequency",
-    "radical": false
+    "means": "frequency"
   },
   "喜欢": {
     "pinzi": "xǐhuān",
-    "means": "to like",
-    "radical": true
+    "means": "to like"
   },
   "歌剧": {
     "pinzi": "gējù",
-    "means": "opera",
-    "radical": false
+    "means": "opera"
   },
   "喜": {
     "pinzi": "xǐ",
-    "means": "joy, happiness",
-    "radical": true
+    "means": "joy, happiness"
   },
   "欢": {
     "pinzi": "huān",
-    "means": "happy, joyous",
-    "radical": true
+    "means": "happy, joyous"
   },
   "歌": {
     "pinzi": "gē",
-    "means": "song",
-    "radical": true
+    "means": "song"
   },
   "剧": {
     "pinzi": "jù",
-    "means": "drama, play",
-    "radical": true
+    "means": "drama, play"
   },
   "会": {
     "pinzi": "huì",
-    "means": "can, know how to; meeting",
-    "radical": true
+    "means": "can, know how to; meeting"
   },
   "做": {
     "pinzi": "zuò",
-    "means": "to do, to make",
-    "radical": true
+    "means": "to do, to make"
   },
   "饭": {
     "pinzi": "fàn",
-    "means": "rice, meal",
-    "radical": true
+    "means": "rice, meal"
   },
   "可不": {
     "pinzi": "kě bù",
-    "means": "whether or not; can or cannot",
-    "radical": false
+    "means": "whether or not; can or cannot"
   },
   "可以": {
     "pinzi": "kě yǐ",
-    "means": "can, may, be allowed to",
-    "radical": false
+    "means": "can, may, be allowed to"
   },
   "喝": {
     "pinzi": "hē",
-    "means": "to drink",
-    "radical": false
+    "means": "to drink"
   },
   "啊": {
     "pinzi": "a",
-    "means": "particle expressing surprise, emphasis, or inquiry",
-    "radical": false
+    "means": "particle expressing surprise, emphasis, or inquiry"
   }
 }
