@@ -125,6 +125,18 @@ export const data = {
             source:"https://youtu.be/rXw367Uyxss?t=217",
             ch:"听 得 见 吗",
             en:"Can you hear me?"
+        },
+        {
+            audio:"opera",
+            source:"https://youtu.be/M_Z0_OVZDv8?t=142",
+            ch:"你 真 的 喜欢 歌剧 吗？",
+            en:"Do you really like opera?"
+        },
+        {
+            audio:"cook",
+            source:"https://youtu.be/M_Z0_OVZDv8?t=286",
+            ch:"会 做 饭 吗？",
+            en:"Can you cook?"
         }
     ]
 }

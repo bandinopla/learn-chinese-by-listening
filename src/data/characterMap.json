@@ -873,5 +873,50 @@
     "pinzi": "pín",
     "means": "frequency",
     "radical": false
+  },
+  "喜欢": {
+    "pinzi": "xǐhuān",
+    "means": "to like",
+    "radical": true
+  },
+  "歌剧": {
+    "pinzi": "gējù",
+    "means": "opera",
+    "radical": false
+  },
+  "喜": {
+    "pinzi": "xǐ",
+    "means": "joy, happiness",
+    "radical": true
+  },
+  "欢": {
+    "pinzi": "huān",
+    "means": "happy, joyous",
+    "radical": true
+  },
+  "歌": {
+    "pinzi": "gē",
+    "means": "song",
+    "radical": true
+  },
+  "剧": {
+    "pinzi": "jù",
+    "means": "drama, play",
+    "radical": true
+  },
+  "会": {
+    "pinzi": "huì",
+    "means": "can, know how to; meeting",
+    "radical": true
+  },
+  "做": {
+    "pinzi": "zuò",
+    "means": "to do, to make",
+    "radical": true
+  },
+  "饭": {
+    "pinzi": "fàn",
+    "means": "rice, meal",
+    "radical": true
   }
 }
