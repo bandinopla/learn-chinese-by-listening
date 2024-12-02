@@ -1,5 +1,5 @@
 
-<img src="./cover.png" alt="cover" />
+<a href="https://learn-chinese-by-listening.vercel.app/"><img style="border-radius:25px;box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="./cover.png" alt="cover" /></a>
 <br/>
 <br/>
 
