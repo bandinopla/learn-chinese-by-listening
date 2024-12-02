@@ -246,7 +246,7 @@ function App() {
 
         <div className='appStats'>
           <div>
-            <h3>Character used by audios...</h3> 
+            <h3>Characters used by audios...</h3> 
             <CharacterUseStats/>
           </div>
           <div >

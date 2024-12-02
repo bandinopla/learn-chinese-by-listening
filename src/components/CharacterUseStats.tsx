@@ -72,7 +72,7 @@ export const CharacterUseStats = ()=>{
 
     useEffect(()=>{
 
-        const charStats = normalizeFontSize(stats.perChar, 8, 100);
+        const charStats = normalizeFontSize(stats.perChar, 8, 120);
 
         function draw(words:CloudChar[]) {
             d3.select( divRef.current )
