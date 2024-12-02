@@ -4,7 +4,7 @@ import type { Line } from "../data/types";
  
 let $stopCurrentSound : ()=>void;
  
-export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number, ignoreKeys?:boolean }> = ({ line, autoplay, num, ignoreKeys }) => { 
+export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number, ignoreKeys?:boolean, hideSlowly?:boolean, hideSource?:boolean }> = ({ line, autoplay, num, ignoreKeys, hideSlowly, hideSource }) => { 
     const audioRef = useRef<HTMLAudioElement | null>(null);  
     const [isPlaying, setIsPlaying] = useState<boolean>(false); // State to track if audio is playing
 
@@ -76,18 +76,16 @@ export const ChineseAudio : FC<{ line:Line, autoplay?:boolean, num:number, ignor
           }
 
         }
-    };
+    }; 
 
-    return <div>
-            <h2> 
+    return <div > 
                 <button onClick={()=>handleReplay(false, 1)}>{ isPlaying?"Stop":"Play"}</button> 
-                { !isPlaying && <button style={{ marginLeft:2}} onClick={()=>handleReplay(false, 0.5)}>Slowly</button> }
-                <div className="source" style={{ display:"inline", marginLeft:5}}>  <strong><a href={line.source} target="_blank">Source ⍈</a></strong></div>
-                </h2>
-                
-            <audio ref={audioRef}>
-                <source src={`/audio/${line.audio}.mp3`} type="audio/mp3" />
-                Your browser does not support the audio element.
-            </audio>
-    </div>
+               { !hideSlowly && !isPlaying && <button style={{ marginLeft:2}} onClick={()=>handleReplay(false, 0.5)}>Slowly</button> }
+                { !hideSource && <div className="source" style={{ display:"inline", marginLeft:5, whiteSpace:"nowrap"}}>  <strong><a href={line.source} target="_blank">Source ⍈</a></strong></div> }
+             
+              
+                  <audio ref={audioRef} >
+                      <source src={`/audio/${line.audio}.mp3`} type="audio/mp3" /> 
+                  </audio>
+          </div>
 }

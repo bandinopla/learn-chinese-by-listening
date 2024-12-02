@@ -72,9 +72,47 @@ a { color: var(--FLAG_RED) }
 
 .menu {
   margin: 40px auto;
+  display:flex;
+  gap:40px; 
+  justify-content:center; 
+  flex-direction: column;
 }
 .menu > div {
   display: flex;
-  flex-direction: column;
-  
+  flex-direction: column; 
+}
+.menu button {
+  white-space:nowrap;
+  font-size: 14px;
+}
+.smUp .menu {
+  flex-direction: row;
+}
+
+.appStats {
+  margin-top:40px;
+  display:flex;
+  gap:40px;
+  flex-direction: column-reverse;
+}
+.source {
+  display: none !important;
+}
+.smUp .appStats  {
+  flex-direction: row;
+} 
+.smUp .source {
+  display: inline !important;;
+}
+ 
+svg {
+  width: 100%;      /* Scale to fit the container width */
+  height: auto;     /* Maintain aspect ratio */
+}
+.audiosFilterCH {  
+  text-align: left;
+  flex-grow: 1;
+} 
+.smUp .audiosFilterCH {
+  flex-grow: 0;
 }

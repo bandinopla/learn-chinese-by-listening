@@ -60,6 +60,13 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
 
     const [userOption, setUserOption] = useState(-1);
 
+    const onOptionSelected = (option:Char)=>{
+        const optIndex = options.indexOf( option );
+        const char = soup[ index ];
+        setUserOption(optIndex);
+        setResult( char.hanzi==options[optIndex].hanzi && char.pinzi==options[optIndex].pinzi )
+    }
+
     useEffect(() => {
       const handleKeyPress = (event:KeyboardEvent) => {
         const { key } = event;
@@ -77,7 +84,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
         if( key=='Enter' || (key=='ArrowRight' && utext.length>0) || !isNaN(Number(key)) )
         {
             const optIndex = options.length>1 && !isNaN(Number(key))? Math.min( parseInt(key) , options.length ) - 1 : 0;
-            const char = soup[ index ];
+            
 
             if( options.length==0 )
             {
@@ -86,8 +93,9 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
             }
             else 
             {
-                setUserOption(optIndex);
-                setResult( char.hanzi==options[optIndex].hanzi && char.pinzi==options[optIndex].pinzi )
+                // setUserOption(optIndex);
+                // setResult( char.hanzi==options[optIndex].hanzi && char.pinzi==options[optIndex].pinzi )
+                onOptionSelected( options[optIndex] )
             } 
 
             return;
@@ -157,7 +165,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
                                     <h1 style={{ color:"yellow", marginBottom:3}}>{ soup[index].pinzi }</h1>
                                     <h3 style={{ color:"yellow", marginBottom:0}}>{ soup[index].means }</h3>
                                     <div style={{ marginTop:20}} className={ classes.example }>
-                                        Example of use: <br/><ExampleOfCharacterUse hanzi={ soup[index].hanzi } />
+                                        Example of use: <br/><br/><ExampleOfCharacterUse hanzi={ soup[index].hanzi } />
                                     </div>
                                 </div>
                             </> :
@@ -169,7 +177,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
                 {utext}<span className={ classes.cursor }>|</span>
             </div>
             <div className={ classes.options }>
-                {options.map( (opt,i)=><div key={i}>
+                {options.map( (opt,i)=><div key={i} onClick={_=>onOptionSelected(opt)}>
                     <span className={ classes.numpadKey}>{ options.length==1? "ENTER" : i+1}</span>
                     { opt.pinzi }
                     { options.filter(o=>o.pinzi==opt.pinzi)

@@ -2,7 +2,7 @@ import { FC, useMemo } from "react";
 import dicc from "../data/characterMap.json";
 import { removeNonChinese } from "../data/data";
 import type { CharacterDicc, CharacterInfo, Line } from "../data/types";
-
+import classes from "./Chinese.module.css";
 
 const typedDicc: CharacterDicc = dicc;
 type CharInfo = { ch:string } & CharacterInfo;
@@ -49,8 +49,8 @@ export const Chinese: FC<{ line: Line, pinzi?:boolean }> = ({ line, pinzi }) => 
 
     return <div>
 
-        <div style={{ display: "flex", gap:20, justifyContent: "center" }}>
-            {words.map((word, i) => <div key={i} style={{ display: "flex", flexDirection: "column", justifyItems: "center" }}>
+        <div className={classes.line}>
+            {words.map((word, i) => <div key={i} className={classes.char} >
                 <div style={{ fontSize: "1.5em" }}>{word}</div>
                 { pinzi && <div style={{ opacity:0.8}}>
                     { wordInfo[ removeNonChinese(word) ]?.map( (info, j)=><div key={j}>

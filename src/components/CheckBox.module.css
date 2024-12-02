@@ -5,6 +5,7 @@
     background-color: white;
     transition: all 0.3s ease-in-out;
     border: 10px solid white;
+    display: inline-block;
 }
 
 .marked {

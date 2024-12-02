@@ -8,9 +8,11 @@ export const ExampleOfCharacterUse : FC<{ hanzi:string }> = ({ hanzi }) => {
 
     const line = shuffleArray( data.lines ).find( line=>line.ch.indexOf( hanzi )>-1 )!;
 
-    return <div style={{ fontSize:"2em"}}> 
+    return <div> 
     <InlinePlayStopLine line={line}/>
-    <div style={{ color:"#aaf", fontWeight:"bold"}}>{ line.en }</div>
-    <Chinese pinzi line={line}/>
+    <div style={{ color:"#aaf", fontWeight:"bold", margin:"10px 0"}}>{ line.en }</div>
+    <div style={{ fontSize:"2em"}}>
+        <Chinese pinzi line={line}/>
+    </div>
     </div>
 }

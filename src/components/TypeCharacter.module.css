@@ -11,11 +11,14 @@
     display: flex;
     gap: 10;
     justify-content: space-around;
-    font-size: 40px;
+    font-size: 30px;
+    flex-wrap: wrap;
+    flex:1;
 }
 .options > div {
     padding: 20px;
 }
+
 
 .numpadKey {
     background-color: yellow;
@@ -48,8 +51,16 @@
 
 .example {
     border: 1px dashed yellow;
-    padding: 20px;
+    padding: 20px; 
+    font-size: 0.5em;
 }
+
+:global(.mdUp) { 
+    .example { 
+        font-size: 1em;
+    }
+}
+
 
 @keyframes pulse {
     from {opacity: 1;} 

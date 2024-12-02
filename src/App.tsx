@@ -7,6 +7,7 @@ import { Chinese } from './components/Chinese'
 import { AudiosFilter } from './components/AudiosFilter'
 import { Flag } from './components/flag'
 import { TypeCharacter } from './components/TypeCharacter'
+import { CharacterUseStats } from './components/CharacterUseStats'
 
 //const props = ["audio", "ch", "en"];
 
@@ -187,7 +188,9 @@ function App() {
         question && <div>
 
           { mode==0? <>
+                      <div style={{ fontSize:"2em"}}>
                       <ChineseAudio line={question.line} autoplay num={question.num}/>
+                      </div>
                       {
                         showDetails && <div style={{ fontSize:"2em"}}>
                           <h6 style={{ color:"yellow"}}>{ question.line.en }</h6>
@@ -223,16 +226,16 @@ function App() {
         
         <Flag/> 
  
-        <div style={{ display:"flex", gap:10, justifyContent:"space-around" }} className='menu'> 
+        <div className='menu'> 
           <div>
             Write...<br/><br/>
-            <button onClick={()=>startQuiz(1)} style={{ fontSize: "3em"}}>
+            <button onClick={()=>startQuiz(1)} style={{ fontSize: "2em"}}>
             ← 字符 
             </button>
           </div>
           <div>
             Hear...<br/><br/>
-            <button onClick={()=>startQuiz(0)} style={{ fontSize: "3em"}}>
+            <button onClick={()=>startQuiz(0)} style={{ fontSize: "2em"}}>
             听到  →
             </button>
           </div>
@@ -241,9 +244,18 @@ function App() {
         </div>
         
 
-        <div style={{ marginTop:40 }}>
-          <h3>Select audio lines to use (SHIFT+select for single selection)</h3> 
-          <AudiosFilter audioLinesState={selectedLinesState}/>
+        <div className='appStats'>
+          <div>
+            <h3>Character used by audios...</h3> 
+            <CharacterUseStats/>
+          </div>
+          <div >
+            <h3>Select audio lines to use (SHIFT+select for single selection)</h3> 
+            
+            <div style={{ display:"block"}}>
+              <AudiosFilter audioLinesState={selectedLinesState}/>
+            </div>
+          </div> 
         </div>
         </>
       } 
