@@ -1,7 +1,8 @@
 
-<img src="./public/flag-400.png" width="100" alt="Description of the image" />
+<img src="./cover.png" alt="cover" />
+<br/>
+<br/>
 
----
 # Learn Chinese mandarin  
 Audios taken from youtube are used to get material to learn. From those audios this webapp will present a way to practise both hearing natural speakers and reading characters.
 
