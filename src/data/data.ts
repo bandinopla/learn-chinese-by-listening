@@ -155,6 +155,12 @@ export const data = {
             source:"https://youtu.be/PN4gd45kLas?t=1155",
             ch:"你 怎么 在 这儿?",
             en:"Why are you here?"
+        },
+        {
+            audio:"mychoice",
+            source:"https://youtu.be/kxxPHK1atkU?t=1768",
+            ch:"这 是 我自己的 选择",
+            en:"This is my own choice"
         }
     ]
 }

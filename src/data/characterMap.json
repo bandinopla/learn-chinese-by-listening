@@ -766,5 +766,21 @@
   "怎": {
     "pinzi": "zěn",
     "means": "how; why (used in questions)"
+  },
+  "选择": {
+    "pinzi": "xuǎnzé",
+    "means": "choice; to choose"
+  },
+  "选": {
+    "pinzi": "xuǎn",
+    "means": "to select; to choose"
+  },
+  "择": {
+    "pinzi": "zé",
+    "means": "to select; to pick"
+  },
+  "我自己的": {
+    "pinzi": "wǒ zìjǐ de",
+    "means": "my own"
   }
 }
