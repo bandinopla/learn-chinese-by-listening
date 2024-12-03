@@ -14,3 +14,6 @@ In this mode you'll hear a sound, and the goal is to repeat it in your head and 
 
 # 2. Type the pinzi mode | 字符
 You will see a character and you will have to type the corresponding pinzi.
+
+# 3. HSK vocabulary test
+You will be presented with a character or word, and you will have to guess it in your head, then hit "next" to see the meaning and then reply honestly if you got it or not. A map of characters in that HSK level will be colored with red or green to help you gauge your grasp how much you known in that level.
