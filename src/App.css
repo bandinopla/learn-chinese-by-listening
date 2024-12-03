@@ -75,7 +75,8 @@ a { color: var(--FLAG_RED) }
   display:flex;
   gap:40px; 
   justify-content:center; 
-  flex-direction: column;
+  flex-direction: column; 
+  align-items: center;
 }
 .menu > div {
   display: flex;
@@ -83,7 +84,7 @@ a { color: var(--FLAG_RED) }
 }
 .menu button {
   white-space:nowrap;
-  font-size: 14px;
+  font-size: 2em;
 }
 .smUp .menu {
   flex-direction: row;

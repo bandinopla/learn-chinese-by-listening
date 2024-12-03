@@ -8,6 +8,8 @@ import { AudiosFilter } from './components/AudiosFilter'
 import { Flag } from './components/flag'
 import { TypeCharacter } from './components/TypeCharacter'
 import { CharacterUseStats } from './components/CharacterUseStats'
+import hsk from "./data/hsk.json"
+import { HSK } from './components/HSK'
 
 //const props = ["audio", "ch", "en"];
 
@@ -41,6 +43,16 @@ function App() {
   useEffect(() => {
 
     const onKeyDown = (ev: KeyboardEvent) => {
+
+      if( ev.code == 'Escape') {
+        setQuestion(null);
+        setAvailableLines([]); 
+        setMyLines([]);
+        setMode(0);
+        return;
+      }
+
+      if( mode>1 ) return;
  
       if( myLines.length == 0 )
       {
@@ -53,12 +65,7 @@ function App() {
         return;
       }
 
-      if( ev.code == 'Escape') {
-        setQuestion(null);
-        setAvailableLines([]); 
-        setMyLines([]);
-        return;
-      }
+
 
       if (ev.code == 'ArrowRight' && mode==0 ) { 
 
@@ -85,7 +92,7 @@ function App() {
       window.removeEventListener("keydown", onKeyDown);
     }
 
-  }, [myLines, showDetails]);
+  }, [myLines, showDetails, mode]);
 
   useEffect(()=>{
 
@@ -140,6 +147,10 @@ function App() {
     };
 
     setAvailableLines( lines ); 
+  }
+
+  const startHSK = (v:number) => {
+    setMode(1+v); 
   }
 
   const pickRandomQuestion = () => {
@@ -222,25 +233,36 @@ function App() {
       }
 
       {
-        myLines.length == 0 && <>
+        mode>1 && <div><HSK level={mode-1}/></div>
+      }
+
+      {
+        (mode<2 && myLines.length == 0) && <>
         
         <Flag/> 
  
         <div className='menu'> 
           <div>
             Write...<br/><br/>
-            <button onClick={()=>startQuiz(1)} style={{ fontSize: "2em"}}>
+            <button onClick={()=>startQuiz(1)}>
             ← 字符 
             </button>
           </div>
           <div>
             Hear...<br/><br/>
-            <button onClick={()=>startQuiz(0)} style={{ fontSize: "2em"}}>
+            <button onClick={()=>startQuiz(0)}>
             听到  →
             </button>
-          </div>
-          
-          
+          </div> 
+        </div>
+
+        <div className='menu'> 
+          <div>
+            Test your vocabulary<br/><a href={hsk.source} target='_blank'>Source</a>
+          </div> 
+            <button onClick={()=>startHSK(1)}>HSK 1</button>
+            <button onClick={()=>startHSK(2)}>HSK 2</button>
+            <button onClick={()=>startHSK(3)}>HSK 3</button>
         </div>
         
 
