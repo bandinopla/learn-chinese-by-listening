@@ -898,5 +898,29 @@
   "行": {
     "pinyin": "xíng",
     "means": "to move; to go; to do"
+  },
+  "第一": {
+    "pinyin": "dì yī",
+    "means": "first"
+  },
+  "页": {
+    "pinyin": "yè",
+    "means": "page"
+  },
+  "查": {
+    "pinyin": "chá",
+    "means": "to check, to investigate"
+  },
+  "到": {
+    "pinyin": "dào",
+    "means": "to arrive, to reach"
+  },
+  "解": {
+    "pinyin": "jiě",
+    "means": "to understand, to solve"
+  },
+  "第": {
+    "pinyin": "dì",
+    "means": "ordinal prefix"
   }
 }

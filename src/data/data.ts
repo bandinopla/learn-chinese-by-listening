@@ -179,6 +179,12 @@ export const data = {
             en:"Why was she dragged repeatedly for a few times?",
             source:"https://youtu.be/4p8cfG1O4JA?t=2299",
             audio:"dragged"
+        },
+        {
+            ch:"第一 页 可以 查 到 我, 你 去 了 解 一 下",
+            en:"You can find me on the first page, Go check it out.",
+            source:"https://youtu.be/OlOgSHTG4sU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=1413",
+            audio:"firstpage"
         }
     ]
 }
