@@ -810,5 +810,45 @@
   "面": {
     "pinyin": "miàn",
     "means": "side; surface; face"
+  },
+  "样": {
+    "pinyin": "yàng",
+    "means": "kind; type; manner"
+  },
+  "苦难": {
+    "pinyin": "kǔ nàn",
+    "means": "hardship; suffering"
+  },
+  "我都": {
+    "pinyin": "wǒ dōu",
+    "means": "I am all (willing)"
+  },
+  "愿意": {
+    "pinyin": "yuàn yì",
+    "means": "willing"
+  },
+  "吃": {
+    "pinyin": "chī",
+    "means": "eat; endure"
+  },
+  "苦": {
+    "pinyin": "kǔ",
+    "means": "bitterness; hardship"
+  },
+  "难": {
+    "pinyin": "nàn",
+    "means": "difficulty; trouble"
+  },
+  "都": {
+    "pinyin": "dōu",
+    "means": "all; both"
+  },
+  "愿": {
+    "pinyin": "yuàn",
+    "means": "wish; desire; willing"
+  },
+  "意": {
+    "pinyin": "yì",
+    "means": "intention; will; meaning"
   }
 }

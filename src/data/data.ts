@@ -167,6 +167,12 @@ export const data = {
             audio:"intelligence",
             ch:"情报 组 在 里面 吗",
             source:"https://youtu.be/5GUvds-UbVU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=187"
+        },
+        {
+            en:"I am willing to endure any kind of suffering.",
+            ch:"什么 样 的 苦难 我 都 愿意 去 吃",
+            source:"https://youtu.be/5GUvds-UbVU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=331",
+            audio:"suffering"
         }
     ]
 }
