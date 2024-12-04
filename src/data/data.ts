@@ -4,13 +4,13 @@ export const data = {
             audio:"a1",
             ch:"我 去 超市 买 了 点 东西。",
             en:"I went to the supermarket (and) bought some groceries/things.",
-            source:"https://youtu.be/FN6iUHwieho?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=14"
+            source:"https://youtu.be/FN6iUHwieho?t=14"
         },
         {
             audio:"letmesee",
             ch:"你 买 什么 了 ？ 让 我 看看。",
             en:"What did you buy? Let me see.",
-            source:"https://youtu.be/FN6iUHwieho?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=16"
+            source:"https://youtu.be/FN6iUHwieho?t=16"
         },
         {
             ch:"主要 真的 不怪我",
@@ -22,7 +22,7 @@ export const data = {
             audio:"ibought",
             ch:"我 买 了 两盒 牛奶， 一些 水果",
             en:"I bought two boxes of milk, some fruits,",
-            source:"https://youtu.be/FN6iUHwieho?list=PLwU1UURoj-SFpKuz23fPwHuiNfViWSyV8&t=19"
+            source:"https://youtu.be/FN6iUHwieho?t=19"
         },
         {
             audio:"cantfigureitout",
@@ -68,19 +68,19 @@ export const data = {
         },
         {
             audio:"askingthesame",
-            source:"https://youtu.be/ldSAl8azgp8?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=1323",
+            source:"https://youtu.be/ldSAl8azgp8?t=1323",
             ch:"我 刚 也 在 说 这个 问题",
             en:"I was just asking the same question"
         },
         {
             audio:"meetat",
-            source:"https://youtu.be/vbLEDqfTxVI?list=PLJKk4isdgkt9ShArtnkwBRfQrQEvG3ak3&t=233",
+            source:"https://youtu.be/vbLEDqfTxVI?t=233",
             ch:"导游 通知 的 是 七 点 半",
             en:"The tour guide announced it was 7:30."
         },
         {
             audio:"contacted",
-            source:"https://youtu.be/vbLEDqfTxVI?list=PLJKk4isdgkt9ShArtnkwBRfQrQEvG3ak3&t=615",
+            source:"https://youtu.be/vbLEDqfTxVI?t=615",
             ch:"你们 有人 跟 迪迪 联系 上了 吗",
             en:"Has any of you contacted Didi?"
         },
@@ -166,12 +166,12 @@ export const data = {
             en:"Is the intelligence team inside?",
             audio:"intelligence",
             ch:"情报 组 在 里面 吗",
-            source:"https://youtu.be/5GUvds-UbVU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=187"
+            source:"https://youtu.be/5GUvds-UbVU?t=187"
         },
         {
             en:"I am willing to endure any kind of suffering.",
             ch:"什么 样 的 苦难 我 都 愿意 去 吃",
-            source:"https://youtu.be/5GUvds-UbVU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=331",
+            source:"https://youtu.be/5GUvds-UbVU?t=331",
             audio:"suffering"
         },
         {
@@ -183,8 +183,14 @@ export const data = {
         {
             ch:"第一 页 可以 查 到 我, 你 去 了 解 一 下",
             en:"You can find me on the first page, Go check it out.",
-            source:"https://youtu.be/OlOgSHTG4sU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=1413",
+            source:"https://youtu.be/OlOgSHTG4sU?t=1413",
             audio:"firstpage"
+        },
+        {
+            audio:"whoiam",
+            ch:"你 知道 我 是 谁 吗?",
+            en:"Do you know who I am?",
+            source:"https://youtu.be/OlOgSHTG4sU?t=1400"
         }
     ]
 }
