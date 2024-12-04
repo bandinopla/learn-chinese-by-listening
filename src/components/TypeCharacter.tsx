@@ -41,7 +41,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
 
         if( utext.length>1 ) 
             Object.entries(charMap).forEach(([key, value]) => {
-                if( value.pinzi.indexOf(" ")<0 && removeAccents(value.pinzi).indexOf(utext)>-1 && !ops.find(o=>o.pinzi==value.pinzi && o.hanzi==key))
+                if( value.pinyin.indexOf(" ")<0 && removeAccents(value.pinyin).indexOf(utext)>-1 && !ops.find(o=>o.pinyin==value.pinyin && o.hanzi==key))
                 {
                     ops.push( {
                         hanzi: key,
@@ -50,7 +50,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
                 }
             });
 
-        ops.sort( (a,b)=>a.pinzi.length-b.pinzi.length);
+        ops.sort( (a,b)=>a.pinyin.length-b.pinyin.length);
 
         if( ops.length>=10 ) ops.length=9;
 
@@ -64,7 +64,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
         const optIndex = options.indexOf( option );
         const char = soup[ index ];
         setUserOption(optIndex);
-        setResult( char.hanzi==options[optIndex].hanzi && char.pinzi==options[optIndex].pinzi )
+        setResult( char.hanzi==options[optIndex].hanzi && char.pinyin==options[optIndex].pinyin )
     }
 
     useEffect(() => {
@@ -94,7 +94,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
             else 
             {
                 // setUserOption(optIndex);
-                // setResult( char.hanzi==options[optIndex].hanzi && char.pinzi==options[optIndex].pinzi )
+                // setResult( char.hanzi==options[optIndex].hanzi && char.pinyin==options[optIndex].pinyin )
                 onOptionSelected( options[optIndex] )
             } 
 
@@ -160,9 +160,9 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
         {
             result != null? <> 
                                 { userOption==-1 && utext.length>0 && <span className={classes.incorrect}>Incorrect → <strong>{utext}</strong></span> }
-                                { userOption!==-1 && <span className={ result? classes.correct : classes.incorrect }>{result?"Correct!":"Incorrect!" } → <strong>{userOption>-1? options[ userOption ].pinzi+" ( "+options[ userOption ].hanzi+" )"  :"..."}</strong></span> }
+                                { userOption!==-1 && <span className={ result? classes.correct : classes.incorrect }>{result?"Correct!":"Incorrect!" } → <strong>{userOption>-1? options[ userOption ].pinyin+" ( "+options[ userOption ].hanzi+" )"  :"..."}</strong></span> }
                                 <div> 
-                                    <h1 style={{ color:"yellow", marginBottom:3}}>{ soup[index].pinzi }</h1>
+                                    <h1 style={{ color:"yellow", marginBottom:3}}>{ soup[index].pinyin }</h1>
                                     <h3 style={{ color:"yellow", marginBottom:0}}>{ soup[index].means }</h3>
                                     <div style={{ marginTop:20}} className={ classes.example }>
                                         Example of use: <br/><br/><ExampleOfCharacterUse hanzi={ soup[index].hanzi } />
@@ -171,7 +171,7 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
                             </> :
             <>
             <div>
-                <h3>Type the pinzi then ENTER (or NUMBER):</h3>
+                <h3>Type the pinyin then ENTER (or NUMBER):</h3>
             </div>
             <div className={ classes.userInput }>
                 {utext}<span className={ classes.cursor }>|</span>
@@ -179,14 +179,14 @@ export const TypeCharacter:FC<{ line:Line, num:number, onFinish:()=>void }> = ({
             <div className={ classes.options }>
                 {options.map( (opt,i)=><div key={i} onClick={_=>onOptionSelected(opt)}>
                     <span className={ classes.numpadKey}>{ options.length==1? "ENTER" : i+1}</span>
-                    { opt.pinzi }
-                    { options.filter(o=>o.pinzi==opt.pinzi)
+                    { opt.pinyin }
+                    { options.filter(o=>o.pinyin==opt.pinyin)
                              .reduce((out, o, j, arr)=>{ if(arr.length>1 && o.hanzi==opt.hanzi){ out = "*".repeat(j+1) }; return out; },"")
                              }
                 </div> )}
             </div> 
             {
-                result==undefined && options.filter( o=>options.filter(op=>op.pinzi==o.pinzi).length>1 )
+                result==undefined && options.filter( o=>options.filter(op=>op.pinyin==o.pinyin).length>1 )
                         .map( (o,i)=><div key={i}>[{"*".repeat(i+1)}] {o.means}</div> )
             }
             </>

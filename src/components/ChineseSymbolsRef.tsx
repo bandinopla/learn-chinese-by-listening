@@ -53,7 +53,7 @@ export const ChineseSymbolsRef : FC<{ line:Line, num:number }> = ({ line, num  }
                 return <div key={i} style={{ display:"flex", gap:10, padding:20, border:"1px solid rgba(255,255,255,0.3)" }}>
                     <div style={{ }}>{ info.ch}</div>
                     <div style={{ display:"flex", flexDirection:"column", alignItems:"flex-start", fontSize:"0.5em" }}>
-                        <div>{ info.pinzi }</div>
+                        <div>{ info.pinyin }</div>
                         <div style={{ color:"yellow"}}>{ info.means }</div>
                     </div>
                 </div>

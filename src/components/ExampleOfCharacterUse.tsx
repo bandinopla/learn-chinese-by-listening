@@ -12,7 +12,7 @@ export const ExampleOfCharacterUse : FC<{ hanzi:string }> = ({ hanzi }) => {
     <InlinePlayStopLine line={line}/>
     <div style={{ color:"#aaf", fontWeight:"bold", margin:"10px 0"}}>{ line.en }</div>
     <div style={{ fontSize:"2em"}}>
-        <Chinese pinzi line={line}/>
+        <Chinese pinyin line={line}/>
     </div>
     </div>
 }

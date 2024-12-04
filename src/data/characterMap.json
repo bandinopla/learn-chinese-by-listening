@@ -1,786 +1,786 @@
 {
   "我": {
-    "pinzi": "wǒ",
+    "pinyin": "wǒ",
     "means": "I, me"
   },
   "去": {
-    "pinzi": "qù",
+    "pinyin": "qù",
     "means": "to go"
   },
   "超市": {
-    "pinzi": "chāo shì",
+    "pinyin": "chāo shì",
     "means": "supermarket"
   },
   "买": {
-    "pinzi": "mǎi",
+    "pinyin": "mǎi",
     "means": "to buy"
   },
   "了": {
-    "pinzi": "le",
+    "pinyin": "le",
     "means": "particle indicating completed action"
   },
   "点": {
-    "pinzi": "diǎn",
+    "pinyin": "diǎn",
     "means": "point, dot, o'clock"
   },
   "东西": {
-    "pinzi": "dōng xī",
+    "pinyin": "dōng xī",
     "means": "thing, stuff"
   },
   "超": {
-    "pinzi": "chāo",
+    "pinyin": "chāo",
     "means": "to exceed, to surpass"
   },
   "市": {
-    "pinzi": "shì",
+    "pinyin": "shì",
     "means": "market, city"
   },
   "东": {
-    "pinzi": "dōng",
+    "pinyin": "dōng",
     "means": "east"
   },
   "西": {
-    "pinzi": "xī",
+    "pinyin": "xī",
     "means": "west"
   },
   "你": {
-    "pinzi": "nǐ",
+    "pinyin": "nǐ",
     "means": "you"
   },
   "什么": {
-    "pinzi": "shén me",
+    "pinyin": "shén me",
     "means": "what"
   },
   "让": {
-    "pinzi": "ràng",
+    "pinyin": "ràng",
     "means": "to let, allow"
   },
   "看看": {
-    "pinzi": "kàn kan",
+    "pinyin": "kàn kan",
     "means": "to look, to take a look"
   },
   "什": {
-    "pinzi": "shén",
+    "pinyin": "shén",
     "means": "what"
   },
   "么": {
-    "pinzi": "me",
+    "pinyin": "me",
     "means": "question particle"
   },
   "看": {
-    "pinzi": "kàn",
+    "pinyin": "kàn",
     "means": "to see, to look"
   },
   "主要": {
-    "pinzi": "zhǔ yào",
+    "pinyin": "zhǔ yào",
     "means": "mainly; primarily"
   },
   "真的": {
-    "pinzi": "zhēn de",
+    "pinyin": "zhēn de",
     "means": "really; truly"
   },
   "不怪我": {
-    "pinzi": "bù guài wǒ",
+    "pinyin": "bù guài wǒ",
     "means": "it's not my fault"
   },
   "主": {
-    "pinzi": "zhǔ",
+    "pinyin": "zhǔ",
     "means": "master; main"
   },
   "要": {
-    "pinzi": "yào",
+    "pinyin": "yào",
     "means": "want; need; important"
   },
   "真": {
-    "pinzi": "zhēn",
+    "pinyin": "zhēn",
     "means": "real; true"
   },
   "的": {
-    "pinzi": "de",
+    "pinyin": "de",
     "means": "possessive or descriptive particle"
   },
   "不": {
-    "pinzi": "bù",
+    "pinyin": "bù",
     "means": "not; no"
   },
   "怪": {
-    "pinzi": "guài",
+    "pinyin": "guài",
     "means": "blame; strange"
   },
   "就": {
-    "pinzi": "jiù",
+    "pinyin": "jiù",
     "means": "then; just; simply"
   },
   "搞": {
-    "pinzi": "gǎo",
+    "pinyin": "gǎo",
     "means": "do; make; engage in"
   },
   "清楚": {
-    "pinzi": "qīng chǔ",
+    "pinyin": "qīng chǔ",
     "means": "clear; understand"
   },
   "清": {
-    "pinzi": "qīng",
+    "pinyin": "qīng",
     "means": "clear; pure"
   },
   "楚": {
-    "pinzi": "chǔ",
+    "pinyin": "chǔ",
     "means": "distinct; clear"
   },
   "两盒": {
-    "pinzi": "liǎng hé",
+    "pinyin": "liǎng hé",
     "means": "two boxes"
   },
   "一些": {
-    "pinzi": "yī xiē",
+    "pinyin": "yī xiē",
     "means": "some, a few, several"
   },
   "牛奶": {
-    "pinzi": "niú nǎi",
+    "pinyin": "niú nǎi",
     "means": "milk"
   },
   "水果": {
-    "pinzi": "shuǐ guǒ",
+    "pinyin": "shuǐ guǒ",
     "means": "fruit"
   },
   "两": {
-    "pinzi": "liǎng",
+    "pinyin": "liǎng",
     "means": "two"
   },
   "盒": {
-    "pinzi": "hé",
+    "pinyin": "hé",
     "means": "box"
   },
   "牛": {
-    "pinzi": "niú",
+    "pinyin": "niú",
     "means": "cow; ox"
   },
   "奶": {
-    "pinzi": "nǎi",
+    "pinyin": "nǎi",
     "means": "milk"
   },
   "一": {
-    "pinzi": "yī",
+    "pinyin": "yī",
     "means": "one"
   },
   "些": {
-    "pinzi": "xiē",
+    "pinyin": "xiē",
     "means": "some; a few"
   },
   "水": {
-    "pinzi": "shuǐ",
+    "pinyin": "shuǐ",
     "means": "water"
   },
   "果": {
-    "pinzi": "guǒ",
+    "pinyin": "guǒ",
     "means": "fruit; result"
   },
   "当然": {
-    "pinzi": "dāng rán",
+    "pinyin": "dāng rán",
     "means": "of course"
   },
   "必须": {
-    "pinzi": "bì xū",
+    "pinyin": "bì xū",
     "means": "must; have to"
   },
   "坚持": {
-    "pinzi": "jiān chí",
+    "pinyin": "jiān chí",
     "means": "persist; stick to"
   },
   "这个": {
-    "pinzi": "zhè gè",
+    "pinyin": "zhè gè",
     "means": "this"
   },
   "项目": {
-    "pinzi": "xiàng mù",
+    "pinyin": "xiàng mù",
     "means": "project"
   },
   "全力以赴": {
-    "pinzi": "quán lì yǐ fù",
+    "pinyin": "quán lì yǐ fù",
     "means": "go all out"
   },
   "当": {
-    "pinzi": "dāng",
+    "pinyin": "dāng",
     "means": "act as; proper"
   },
   "然": {
-    "pinzi": "rán",
+    "pinyin": "rán",
     "means": "so; naturally"
   },
   "必": {
-    "pinzi": "bì",
+    "pinyin": "bì",
     "means": "must"
   },
   "须": {
-    "pinzi": "xū",
+    "pinyin": "xū",
     "means": "need"
   },
   "坚": {
-    "pinzi": "jiān",
+    "pinyin": "jiān",
     "means": "firm; strong"
   },
   "持": {
-    "pinzi": "chí",
+    "pinyin": "chí",
     "means": "hold; support"
   },
   "这": {
-    "pinzi": "zhè",
+    "pinyin": "zhè",
     "means": "this"
   },
   "个": {
-    "pinzi": "gè",
+    "pinyin": "gè",
     "means": "individual; measure word"
   },
   "项": {
-    "pinzi": "xiàng",
+    "pinyin": "xiàng",
     "means": "item; project"
   },
   "目": {
-    "pinzi": "mù",
+    "pinyin": "mù",
     "means": "eye; item"
   },
   "全": {
-    "pinzi": "quán",
+    "pinyin": "quán",
     "means": "whole; complete"
   },
   "力": {
-    "pinzi": "lì",
+    "pinyin": "lì",
     "means": "strength; power"
   },
   "以": {
-    "pinzi": "yǐ",
+    "pinyin": "yǐ",
     "means": "with; by means of"
   },
   "赴": {
-    "pinzi": "fù",
+    "pinyin": "fù",
     "means": "go to; attend"
   },
   "也是": {
-    "pinzi": "yě shì",
+    "pinyin": "yě shì",
     "means": "also is; is also"
   },
   "来": {
-    "pinzi": "lái",
+    "pinyin": "lái",
     "means": "to come"
   },
   "相亲": {
-    "pinzi": "xiāng qīn",
+    "pinyin": "xiāng qīn",
     "means": "blind date; arranged meeting for marriage"
   },
   "也": {
-    "pinzi": "yě",
+    "pinyin": "yě",
     "means": "also; too"
   },
   "是": {
-    "pinzi": "shì",
+    "pinyin": "shì",
     "means": "is; are; to be"
   },
   "相": {
-    "pinzi": "xiāng",
+    "pinyin": "xiāng",
     "means": "mutual; phase"
   },
   "亲": {
-    "pinzi": "qīn",
+    "pinyin": "qīn",
     "means": "relative; parent; close"
   },
   "多少": {
-    "pinzi": "duō shǎo",
+    "pinyin": "duō shǎo",
     "means": "how much; how many"
   },
   "钱": {
-    "pinzi": "qián",
+    "pinyin": "qián",
     "means": "money"
   },
   "才能": {
-    "pinzi": "cái néng",
+    "pinyin": "cái néng",
     "means": "only then can; ability"
   },
   "离开": {
-    "pinzi": "lí kāi",
+    "pinyin": "lí kāi",
     "means": "to leave; to depart"
   },
   "儿子": {
-    "pinzi": "ér zi",
+    "pinyin": "ér zi",
     "means": "son"
   },
   "多": {
-    "pinzi": "duō",
+    "pinyin": "duō",
     "means": "many; much; more"
   },
   "少": {
-    "pinzi": "shǎo",
+    "pinyin": "shǎo",
     "means": "few; less"
   },
   "才": {
-    "pinzi": "cái",
+    "pinyin": "cái",
     "means": "just; only; talent"
   },
   "能": {
-    "pinzi": "néng",
+    "pinyin": "néng",
     "means": "can; able to"
   },
   "离": {
-    "pinzi": "lí",
+    "pinyin": "lí",
     "means": "to leave; to separate"
   },
   "开": {
-    "pinzi": "kāi",
+    "pinyin": "kāi",
     "means": "to open; to start; to leave"
   },
   "儿": {
-    "pinzi": "ér",
+    "pinyin": "ér",
     "means": "son; child"
   },
   "子": {
-    "pinzi": "zi",
+    "pinyin": "zi",
     "means": "child; son; seed"
   },
   "这儿": {
-    "pinzi": "zhè'er",
+    "pinyin": "zhè'er",
     "means": "here; this place"
   },
   "我们的": {
-    "pinzi": "wǒ men de",
+    "pinyin": "wǒ men de",
     "means": "our; ours"
   },
   "家": {
-    "pinzi": "jiā",
+    "pinyin": "jiā",
     "means": "home; family"
   },
   "们": {
-    "pinzi": "men",
+    "pinyin": "men",
     "means": "plural marker for pronouns and some nouns"
   },
   "凭": {
-    "pinzi": "píng",
+    "pinyin": "píng",
     "means": "to rely on; based on; by means of"
   },
   "自己的": {
-    "pinzi": "Zìjǐ de",
+    "pinyin": "Zìjǐ de",
     "means": "Your own"
   },
   "打下我": {
-    "pinzi": "dǎxià wǒ",
+    "pinyin": "dǎxià wǒ",
     "means": "hit me; fight me"
   },
   "自": {
-    "pinzi": "Zì",
+    "pinyin": "Zì",
     "means": "since, from, self, oneself"
   },
   "本事": {
-    "pinzi": "běn shì",
+    "pinyin": "běn shì",
     "means": "ability; skill"
   },
   "打": {
-    "pinzi": "dǎ",
+    "pinyin": "dǎ",
     "means": "to hit; to strike; to play"
   },
   "下": {
-    "pinzi": "xià",
+    "pinyin": "xià",
     "means": "down; below; to descend"
   },
   "己": {
-    "pinzi": "jǐ",
+    "pinyin": "jǐ",
     "means": "self; oneself"
   },
   "本": {
-    "pinzi": "běn",
+    "pinyin": "běn",
     "means": "root; origin; book"
   },
   "事": {
-    "pinzi": "shì",
+    "pinyin": "shì",
     "means": "affair; matter; thing"
   },
   "至": {
-    "pinzi": "zhì",
+    "pinyin": "zhì",
     "means": "to; until; extremely"
   },
   "于": {
-    "pinzi": "yú",
+    "pinyin": "yú",
     "means": "in; at; on; to; from"
   },
   "他们": {
-    "pinzi": "tāmen",
+    "pinyin": "tāmen",
     "means": "they; them (for males or mixed genders)"
   },
   "谁": {
-    "pinzi": "shéi",
+    "pinyin": "shéi",
     "means": "who"
   },
   "他": {
-    "pinzi": "tā",
+    "pinyin": "tā",
     "means": "he; him"
   },
   "刚": {
-    "pinzi": "gāng",
+    "pinyin": "gāng",
     "means": "just, recently"
   },
   "在": {
-    "pinzi": "zài",
+    "pinyin": "zài",
     "means": "at, in, on; indicates ongoing action"
   },
   "说": {
-    "pinzi": "shuō",
+    "pinyin": "shuō",
     "means": "to speak, to say"
   },
   "问题": {
-    "pinzi": "wèntí",
+    "pinyin": "wèntí",
     "means": "problem, question"
   },
   "问": {
-    "pinzi": "wèn",
+    "pinyin": "wèn",
     "means": "to ask"
   },
   "题": {
-    "pinzi": "tí",
+    "pinyin": "tí",
     "means": "topic, question"
   },
   "导": {
-    "pinzi": "dǎo",
+    "pinyin": "dǎo",
     "means": "to guide; to lead"
   },
   "游": {
-    "pinzi": "yóu",
+    "pinyin": "yóu",
     "means": "to travel; to roam"
   },
   "通": {
-    "pinzi": "tōng",
+    "pinyin": "tōng",
     "means": "to communicate; through; open"
   },
   "知的": {
-    "pinzi": "zhī de",
+    "pinyin": "zhī de",
     "means": "to know (possessive marker)"
   },
   "七": {
-    "pinzi": "qī",
+    "pinyin": "qī",
     "means": "seven"
   },
   "半": {
-    "pinzi": "bàn",
+    "pinyin": "bàn",
     "means": "half"
   },
   "知": {
-    "pinzi": "zhī",
+    "pinyin": "zhī",
     "means": "to know; knowledge"
   },
   "你们": {
-    "pinzi": "nǐmen",
+    "pinyin": "nǐmen",
     "means": "you (plural)"
   },
   "有人": {
-    "pinzi": "yǒurén",
+    "pinyin": "yǒurén",
     "means": "someone"
   },
   "跟": {
-    "pinzi": "gēn",
+    "pinyin": "gēn",
     "means": "to follow; with"
   },
   "迪迪": {
-    "pinzi": "dí dí",
+    "pinyin": "dí dí",
     "means": "Didi (a name or proper noun)"
   },
   "联系": {
-    "pinzi": "liánxì",
+    "pinyin": "liánxì",
     "means": "to contact; connection"
   },
   "上了": {
-    "pinzi": "shàng le",
+    "pinyin": "shàng le",
     "means": "got on; went on"
   },
   "吗": {
-    "pinzi": "ma",
+    "pinyin": "ma",
     "means": "(question particle)"
   },
   "有": {
-    "pinzi": "yǒu",
+    "pinyin": "yǒu",
     "means": "to have; there is/are"
   },
   "人": {
-    "pinzi": "rén",
+    "pinyin": "rén",
     "means": "person"
   },
   "迪": {
-    "pinzi": "dí",
+    "pinyin": "dí",
     "means": "enlighten; Didi (proper noun)"
   },
   "联": {
-    "pinzi": "lián",
+    "pinyin": "lián",
     "means": "to connect; to unite"
   },
   "系": {
-    "pinzi": "xì",
+    "pinyin": "xì",
     "means": "to connect; system"
   },
   "上": {
-    "pinzi": "shàng",
+    "pinyin": "shàng",
     "means": "on; above; to go up"
   },
   "知道": {
-    "pinzi": "zhī dào",
+    "pinyin": "zhī dào",
     "means": "to know"
   },
   "没有": {
-    "pinzi": "méi yǒu",
+    "pinyin": "méi yǒu",
     "means": "not have; didn't"
   },
   "害怕": {
-    "pinzi": "hài pà",
+    "pinyin": "hài pà",
     "means": "afraid"
   },
   "失去": {
-    "pinzi": "shī qù",
+    "pinyin": "shī qù",
     "means": "to lose"
   },
   "过": {
-    "pinzi": "guò",
+    "pinyin": "guò",
     "means": "to pass; past tense marker"
   },
   "她": {
-    "pinzi": "tā",
+    "pinyin": "tā",
     "means": "she; her"
   },
   "道": {
-    "pinzi": "dào",
+    "pinyin": "dào",
     "means": "way; path"
   },
   "没": {
-    "pinzi": "méi",
+    "pinyin": "méi",
     "means": "not; without"
   },
   "害": {
-    "pinzi": "hài",
+    "pinyin": "hài",
     "means": "harm; danger"
   },
   "怕": {
-    "pinzi": "pà",
+    "pinyin": "pà",
     "means": "to fear"
   },
   "失": {
-    "pinzi": "shī",
+    "pinyin": "shī",
     "means": "to lose"
   },
   "觉得": {
-    "pinzi": "jué dé",
+    "pinyin": "jué dé",
     "means": "to think; to feel"
   },
   "可能": {
-    "pinzi": "kě néng",
+    "pinyin": "kě néng",
     "means": "might; possibly"
   },
   "觉": {
-    "pinzi": "jué / jiào",
+    "pinyin": "jué / jiào",
     "means": "to feel / sleep"
   },
   "得": {
-    "pinzi": "dé",
+    "pinyin": "dé",
     "means": "to get; particle indicating degree"
   },
   "可": {
-    "pinzi": "kě",
+    "pinyin": "kě",
     "means": "can; may; possible"
   },
   "导游": {
-    "pinzi": "dǎo yóu",
+    "pinyin": "dǎo yóu",
     "means": "tour guide"
   },
   "通知": {
-    "pinzi": "tōng zhī",
+    "pinyin": "tōng zhī",
     "means": "to notify; notification"
   },
   "现在": {
-    "pinzi": "xiàn zài",
+    "pinyin": "xiàn zài",
     "means": "now; at present"
   },
   "疑问": {
-    "pinzi": "yí wèn",
+    "pinyin": "yí wèn",
     "means": "question; doubt"
   },
   "现": {
-    "pinzi": "xiàn",
+    "pinyin": "xiàn",
     "means": "present; current"
   },
   "疑": {
-    "pinzi": "yí",
+    "pinyin": "yí",
     "means": "doubt; suspicion"
   },
   "至于": {
-    "pinzi": "zhì yú",
+    "pinyin": "zhì yú",
     "means": "as for; regarding"
   },
   "二十": {
-    "pinzi": "èr shí",
+    "pinyin": "èr shí",
     "means": "twenty"
   },
   "年": {
-    "pinzi": "nián",
+    "pinyin": "nián",
     "means": "year"
   },
   "朋友了": {
-    "pinzi": "péng yǒu le",
+    "pinyin": "péng yǒu le",
     "means": "friend (as a state, implying past or ongoing friendship)"
   },
   "吧": {
-    "pinzi": "ba",
+    "pinyin": "ba",
     "means": "particle indicating suggestion or assumption"
   },
   "二": {
-    "pinzi": "èr",
+    "pinyin": "èr",
     "means": "two"
   },
   "十": {
-    "pinzi": "shí",
+    "pinyin": "shí",
     "means": "ten"
   },
   "朋": {
-    "pinzi": "péng",
+    "pinyin": "péng",
     "means": "friend"
   },
   "友": {
-    "pinzi": "yǒu",
+    "pinyin": "yǒu",
     "means": "friend"
   },
   "有没有": {
-    "pinzi": "yǒu méiyǒu",
+    "pinyin": "yǒu méiyǒu",
     "means": "have or not have; whether or not"
   },
   "早点": {
-    "pinzi": "zǎo diǎn",
+    "pinyin": "zǎo diǎn",
     "means": "Noun:Breakfast; Adverbial: A bit earlier"
   },
   "休息": {
-    "pinzi": "xiū xī",
+    "pinyin": "xiū xī",
     "means": "To rest or take a break."
   },
   "早": {
-    "pinzi": "zǎo",
+    "pinyin": "zǎo",
     "means": "Early; morning."
   },
   "休": {
-    "pinzi": "xiū",
+    "pinyin": "xiū",
     "means": "To rest or stop."
   },
   "息": {
-    "pinzi": "xī",
+    "pinyin": "xī",
     "means": "Breath; rest; pause."
   },
   "听": {
-    "pinzi": "tīng",
+    "pinyin": "tīng",
     "means": "to listen, hear"
   },
   "见": {
-    "pinzi": "jiàn",
+    "pinyin": "jiàn",
     "means": "to see, meet"
   },
   "好": {
-    "pinzi": "hǎo",
+    "pinyin": "hǎo",
     "means": "good, well"
   },
   "那": {
-    "pinzi": "nà",
+    "pinyin": "nà",
     "means": "that, there"
   },
   "马上": {
-    "pinzi": "mǎ shàng",
+    "pinyin": "mǎ shàng",
     "means": "immediately, at once"
   },
   "视频": {
-    "pinzi": "shì pín",
+    "pinyin": "shì pín",
     "means": "video"
   },
   "马": {
-    "pinzi": "mǎ",
+    "pinyin": "mǎ",
     "means": "horse"
   },
   "视": {
-    "pinzi": "shì",
+    "pinyin": "shì",
     "means": "to look at, view"
   },
   "频": {
-    "pinzi": "pín",
+    "pinyin": "pín",
     "means": "frequency"
   },
   "喜欢": {
-    "pinzi": "xǐhuān",
+    "pinyin": "xǐhuān",
     "means": "to like"
   },
   "歌剧": {
-    "pinzi": "gējù",
+    "pinyin": "gējù",
     "means": "opera"
   },
   "喜": {
-    "pinzi": "xǐ",
+    "pinyin": "xǐ",
     "means": "joy, happiness"
   },
   "欢": {
-    "pinzi": "huān",
+    "pinyin": "huān",
     "means": "happy, joyous"
   },
   "歌": {
-    "pinzi": "gē",
+    "pinyin": "gē",
     "means": "song"
   },
   "剧": {
-    "pinzi": "jù",
+    "pinyin": "jù",
     "means": "drama, play"
   },
   "会": {
-    "pinzi": "huì",
+    "pinyin": "huì",
     "means": "can, know how to; meeting"
   },
   "做": {
-    "pinzi": "zuò",
+    "pinyin": "zuò",
     "means": "to do, to make"
   },
   "饭": {
-    "pinzi": "fàn",
+    "pinyin": "fàn",
     "means": "rice, meal"
   },
   "可不": {
-    "pinzi": "kě bù",
+    "pinyin": "kě bù",
     "means": "whether or not; can or cannot"
   },
   "可以": {
-    "pinzi": "kě yǐ",
+    "pinyin": "kě yǐ",
     "means": "can, may, be allowed to"
   },
   "喝": {
-    "pinzi": "hē",
+    "pinyin": "hē",
     "means": "to drink"
   },
   "啊": {
-    "pinzi": "a",
+    "pinyin": "a",
     "means": "particle expressing surprise, emphasis, or inquiry"
   },
   "记得": {
-    "pinzi": "jì dé",
+    "pinyin": "jì dé",
     "means": "to remember"
   },
   "记": {
-    "pinzi": "jì",
+    "pinyin": "jì",
     "means": "to note; to remember; to record"
   },
   "怎么": {
-    "pinzi": "zěnme",
+    "pinyin": "zěnme",
     "means": "how; why"
   },
   "怎": {
-    "pinzi": "zěn",
+    "pinyin": "zěn",
     "means": "how; why (used in questions)"
   },
   "选择": {
-    "pinzi": "xuǎnzé",
+    "pinyin": "xuǎnzé",
     "means": "choice; to choose"
   },
   "选": {
-    "pinzi": "xuǎn",
+    "pinyin": "xuǎn",
     "means": "to select; to choose"
   },
   "择": {
-    "pinzi": "zé",
+    "pinyin": "zé",
     "means": "to select; to pick"
   },
   "我自己的": {
-    "pinzi": "wǒ zìjǐ de",
+    "pinyin": "wǒ zìjǐ de",
     "means": "my own"
   },
   "情报": {

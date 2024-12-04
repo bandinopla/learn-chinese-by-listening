@@ -205,7 +205,7 @@ function App() {
                       {
                         showDetails && <div style={{ fontSize:"2em"}}>
                           <h6 style={{ color:"yellow"}}>{ question.line.en }</h6>
-                          <Chinese line={question.line} pinzi/>
+                          <Chinese line={question.line} pinyin/>
                           
                         </div>
                       }

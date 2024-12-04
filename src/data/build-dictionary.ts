@@ -37,7 +37,7 @@ function generateCharacterMap(data: { lines: Line[] }, characterMap:Result ): Re
             if( !characterMap[ token ] )
             {
                 characterMap[ token ] = {
-                    pinzi:"",
+                    pinyin:"",
                     means:"" 
                 }
             } 

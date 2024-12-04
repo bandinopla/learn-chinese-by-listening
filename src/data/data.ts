@@ -141,7 +141,7 @@ export const data = {
         {
             audio:"havewater",
             source:"https://youtu.be/M_Z0_OVZDv8?t=339",
-            ch:"可不 可以 喝 点 水 啊？",
+            ch:"可不可 以 喝 点 水 啊？",
             en:"Can I have some water?"
         },
         {

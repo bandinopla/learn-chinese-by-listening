@@ -7,7 +7,7 @@ import classes from "./Chinese.module.css";
 const typedDicc: CharacterDicc = dicc;
 type CharInfo = { ch:string } & CharacterInfo;
 
-export const Chinese: FC<{ line: Line, pinzi?:boolean }> = ({ line, pinzi }) => {
+export const Chinese: FC<{ line: Line, pinyin?:boolean }> = ({ line, pinyin }) => {
     const words = line.ch.split(" ");
 
     
@@ -52,10 +52,10 @@ export const Chinese: FC<{ line: Line, pinzi?:boolean }> = ({ line, pinzi }) => 
         <div className={classes.line}>
             {words.map((word, i) => <div key={i} className={classes.char} >
                 <div style={{ fontSize: "1.5em" }}>{word}</div>
-                { pinzi && <div style={{ opacity:0.8}}>
+                { pinyin && <div style={{ opacity:0.8}}>
                     { wordInfo[ removeNonChinese(word) ]?.map( (info, j)=><div key={j}>
                         { j>0 && <div>{info.ch}</div> }
-                        <div style={{ opacity: 0.6, fontSize:"0.8em" }}>{info.pinzi}</div>
+                        <div style={{ opacity: 0.6, fontSize:"0.8em" }}>{info.pinyin}</div>
                         <div style={{ color:"yellow", fontSize:"0.5em"}}>{info.means}</div>
                     </div> )}
                 </div> }

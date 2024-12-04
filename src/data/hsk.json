@@ -2,4137 +2,4137 @@
     "source":"https://www.digmandarin.com/hsk-test",
     "hsk1":{
         "我": {
-          "pinzi": "wǒ",
+          "pinyin": "wǒ",
           "en": "I, me"
         },
         "我们": {
-          "pinzi": "wǒmen",
+          "pinyin": "wǒmen",
           "en": "we, us (pl.)"
         },
         "你": {
-          "pinzi": "nǐ",
+          "pinyin": "nǐ",
           "en": "you"
         },
         "你们": {
-          "pinzi": "nǐmen",
+          "pinyin": "nǐmen",
           "en": "you (pl.)"
         },
         "他": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "he, him"
         },
         "她": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "she, her"
         },
         "他们": {
-          "pinzi": "tāmen",
+          "pinyin": "tāmen",
           "en": "they (male+female / male, pl.)"
         },
         "她们": {
-          "pinzi": "tāmen",
+          "pinyin": "tāmen",
           "en": "they (females, pl.)"
         },
         "这": {
-          "pinzi": "zhè ( zhèr)",
+          "pinyin": "zhè ( zhèr)",
           "en": "here, this"
         },
         "那": {
-          "pinzi": "nà (nàr)",
+          "pinyin": "nà (nàr)",
           "en": "there, that"
         },
         "哪（哪儿）": {
-          "pinzi": "nǎ (nǎr)",
+          "pinyin": "nǎ (nǎr)",
           "en": "where"
         },
         "谁": {
-          "pinzi": "shuí",
+          "pinyin": "shuí",
           "en": "who"
         },
         "什么": {
-          "pinzi": "shén me",
+          "pinyin": "shén me",
           "en": "what, why"
         },
         "多少": {
-          "pinzi": "duōshǎo",
+          "pinyin": "duōshǎo",
           "en": "how many, how much"
         },
         "几": {
-          "pinzi": "jǐ",
+          "pinyin": "jǐ",
           "en": "a few, how many"
         },
         "怎么": {
-          "pinzi": "zěnme",
+          "pinyin": "zěnme",
           "en": "how"
         },
         "怎么样": {
-          "pinzi": "zěnmeyàng",
+          "pinyin": "zěnmeyàng",
           "en": "how about"
         },
         "一": {
-          "pinzi": "yī",
+          "pinyin": "yī",
           "en": "one"
         },
         "二": {
-          "pinzi": "èr",
+          "pinyin": "èr",
           "en": "two"
         },
         "三": {
-          "pinzi": "sān",
+          "pinyin": "sān",
           "en": "three"
         },
         "四": {
-          "pinzi": "sì",
+          "pinyin": "sì",
           "en": "four"
         },
         "五": {
-          "pinzi": "wǔ",
+          "pinyin": "wǔ",
           "en": "five"
         },
         "六": {
-          "pinzi": "liù",
+          "pinyin": "liù",
           "en": "six"
         },
         "七": {
-          "pinzi": "qī",
+          "pinyin": "qī",
           "en": "seven"
         },
         "八": {
-          "pinzi": "bā",
+          "pinyin": "bā",
           "en": "eight"
         },
         "九": {
-          "pinzi": "jiǔ",
+          "pinyin": "jiǔ",
           "en": "nine"
         },
         "十": {
-          "pinzi": "shí",
+          "pinyin": "shí",
           "en": "ten"
         },
         "零": {
-          "pinzi": "líng",
+          "pinyin": "líng",
           "en": "zero"
         },
         "个": {
-          "pinzi": "gè",
+          "pinyin": "gè",
           "en": "one, a, an"
         },
         "岁": {
-          "pinzi": "suì",
+          "pinyin": "suì",
           "en": "year"
         },
         "本": {
-          "pinzi": "běn",
+          "pinyin": "běn",
           "en": "volume"
         },
         "些": {
-          "pinzi": "xiē",
+          "pinyin": "xiē",
           "en": "some"
         },
         "块": {
-          "pinzi": "kuài",
+          "pinyin": "kuài",
           "en": "piece"
         },
         "不": {
-          "pinzi": "bù",
+          "pinyin": "bù",
           "en": "no"
         },
         "没": {
-          "pinzi": "méi",
+          "pinyin": "méi",
           "en": "no"
         },
         "很": {
-          "pinzi": "hěn",
+          "pinyin": "hěn",
           "en": "quite, very"
         },
         "太": {
-          "pinzi": "tài",
+          "pinyin": "tài",
           "en": "too"
         },
         "都": {
-          "pinzi": "dōu",
+          "pinyin": "dōu",
           "en": "all"
         },
         "和": {
-          "pinzi": "hé",
+          "pinyin": "hé",
           "en": "and"
         },
         "在": {
-          "pinzi": "zài",
+          "pinyin": "zài",
           "en": "in, at"
         },
         "喂": {
-          "pinzi": "wèi",
+          "pinyin": "wèi",
           "en": "hello"
         },
         "家": {
-          "pinzi": "jiā",
+          "pinyin": "jiā",
           "en": "home"
         },
         "学校": {
-          "pinzi": "xuéxiào",
+          "pinyin": "xuéxiào",
           "en": "school"
         },
         "饭店": {
-          "pinzi": "fàndiàn",
+          "pinyin": "fàndiàn",
           "en": "restaurant"
         },
         "商店": {
-          "pinzi": "shāngdiàn",
+          "pinyin": "shāngdiàn",
           "en": "store"
         },
         "医院": {
-          "pinzi": "yīyuàn",
+          "pinyin": "yīyuàn",
           "en": "hospital"
         },
         "火车站": {
-          "pinzi": "huǒchēzhàn",
+          "pinyin": "huǒchēzhàn",
           "en": "train station"
         },
         "中国": {
-          "pinzi": "zhōng guó",
+          "pinyin": "zhōng guó",
           "en": "China"
         },
         "北京": {
-          "pinzi": "běijīng",
+          "pinyin": "běijīng",
           "en": "Beijing"
         },
         "上": {
-          "pinzi": "shàng",
+          "pinyin": "shàng",
           "en": "up"
         },
         "下": {
-          "pinzi": "xià",
+          "pinyin": "xià",
           "en": "down"
         },
         "前面": {
-          "pinzi": "qiánmiàn",
+          "pinyin": "qiánmiàn",
           "en": "front"
         },
         "后面": {
-          "pinzi": "hòumiàn",
+          "pinyin": "hòumiàn",
           "en": "behind"
         },
         "里": {
-          "pinzi": "lǐmiàn",
+          "pinyin": "lǐmiàn",
           "en": "inside"
         },
         "今天": {
-          "pinzi": "jīntiān",
+          "pinyin": "jīntiān",
           "en": "today"
         },
         "明天": {
-          "pinzi": "míngtiān",
+          "pinyin": "míngtiān",
           "en": "tomorrow"
         },
         "昨天": {
-          "pinzi": "zuótiān",
+          "pinyin": "zuótiān",
           "en": "yesterday"
         },
         "上午": {
-          "pinzi": "shàngwǔ",
+          "pinyin": "shàngwǔ",
           "en": "morning"
         },
         "中午": {
-          "pinzi": "zhōngwǔ",
+          "pinyin": "zhōngwǔ",
           "en": "noon"
         },
         "下午": {
-          "pinzi": "xiàwǔ",
+          "pinyin": "xiàwǔ",
           "en": "afternoon"
         },
         "年": {
-          "pinzi": "nián",
+          "pinyin": "nián",
           "en": "year"
         },
         "月": {
-          "pinzi": "yuè",
+          "pinyin": "yuè",
           "en": "month"
         },
         "日": {
-          "pinzi": "rì",
+          "pinyin": "rì",
           "en": "day"
         },
         "星期": {
-          "pinzi": "xīngqī",
+          "pinyin": "xīngqī",
           "en": "week"
         },
         "点": {
-          "pinzi": "diǎn",
+          "pinyin": "diǎn",
           "en": "dot, spot"
         },
         "分钟": {
-          "pinzi": "fēnzhōng",
+          "pinyin": "fēnzhōng",
           "en": "minute"
         },
         "现在": {
-          "pinzi": "xiànzài",
+          "pinyin": "xiànzài",
           "en": "now"
         },
         "时候": {
-          "pinzi": "shíhou",
+          "pinyin": "shíhou",
           "en": "time"
         },
         "爸爸": {
-          "pinzi": "bàba",
+          "pinyin": "bàba",
           "en": "father"
         },
         "妈妈": {
-          "pinzi": "māma",
+          "pinyin": "māma",
           "en": "mother"
         },
         "儿子": {
-          "pinzi": "érzi",
+          "pinyin": "érzi",
           "en": "son"
         },
         "女儿": {
-          "pinzi": "nǚér",
+          "pinyin": "nǚér",
           "en": "daughter"
         },
         "老师": {
-          "pinzi": "lǎoshī",
+          "pinyin": "lǎoshī",
           "en": "teacher"
         },
         "学生": {
-          "pinzi": "xuéshēng",
+          "pinyin": "xuéshēng",
           "en": "student"
         },
         "同学": {
-          "pinzi": "tóngxué",
+          "pinyin": "tóngxué",
           "en": "shoolmate"
         },
         "朋友": {
-          "pinzi": "péngyou",
+          "pinyin": "péngyou",
           "en": "friend"
         },
         "医生": {
-          "pinzi": "yīshēng",
+          "pinyin": "yīshēng",
           "en": "doctor"
         },
         "先生": {
-          "pinzi": "xiānsheng",
+          "pinyin": "xiānsheng",
           "en": "sir"
         },
         "小姐": {
-          "pinzi": "xiǎojiě",
+          "pinyin": "xiǎojiě",
           "en": "Miss"
         },
         "衣服": {
-          "pinzi": "yīfu",
+          "pinyin": "yīfu",
           "en": "cloth"
         },
         "水": {
-          "pinzi": "shuǐ",
+          "pinyin": "shuǐ",
           "en": "water"
         },
         "菜": {
-          "pinzi": "cài",
+          "pinyin": "cài",
           "en": "vegetable"
         },
         "米饭": {
-          "pinzi": "mǐfàn",
+          "pinyin": "mǐfàn",
           "en": "rice"
         },
         "水果": {
-          "pinzi": "shuǐguǒ",
+          "pinyin": "shuǐguǒ",
           "en": "fruit"
         },
         "苹果": {
-          "pinzi": "píngguǒ",
+          "pinyin": "píngguǒ",
           "en": "apple"
         },
         "茶": {
-          "pinzi": "chá",
+          "pinyin": "chá",
           "en": "tea"
         },
         "杯子": {
-          "pinzi": "bēizi",
+          "pinyin": "bēizi",
           "en": "cup"
         },
         "钱": {
-          "pinzi": "qián",
+          "pinyin": "qián",
           "en": "money"
         },
         "飞机": {
-          "pinzi": "fēijī",
+          "pinyin": "fēijī",
           "en": "airplane"
         },
         "出租车": {
-          "pinzi": "chūzūchē",
+          "pinyin": "chūzūchē",
           "en": "taxi"
         },
         "电视": {
-          "pinzi": "diànshì",
+          "pinyin": "diànshì",
           "en": "television"
         },
         "电脑": {
-          "pinzi": "diànnǎo",
+          "pinyin": "diànnǎo",
           "en": "computer"
         },
         "电影": {
-          "pinzi": "diànyǐng",
+          "pinyin": "diànyǐng",
           "en": "movie"
         },
         "天气": {
-          "pinzi": "tiānqì",
+          "pinyin": "tiānqì",
           "en": "weather"
         },
         "猫": {
-          "pinzi": "māo",
+          "pinyin": "māo",
           "en": "cat"
         },
         "狗": {
-          "pinzi": "gǒu",
+          "pinyin": "gǒu",
           "en": "dog"
         },
         "东西": {
-          "pinzi": "dōngxi",
+          "pinyin": "dōngxi",
           "en": "thing"
         },
         "人": {
-          "pinzi": "rén",
+          "pinyin": "rén",
           "en": "person"
         },
         "名字": {
-          "pinzi": "míngzi",
+          "pinyin": "míngzi",
           "en": "name"
         },
         "书": {
-          "pinzi": "shū",
+          "pinyin": "shū",
           "en": "book"
         },
         "汉语": {
-          "pinzi": "hànyǔ",
+          "pinyin": "hànyǔ",
           "en": "mandarin Chinese"
         },
         "字": {
-          "pinzi": "zì",
+          "pinyin": "zì",
           "en": "character"
         },
         "桌子": {
-          "pinzi": "zhuōzi",
+          "pinyin": "zhuōzi",
           "en": "desk"
         },
         "椅子": {
-          "pinzi": "yǐzi",
+          "pinyin": "yǐzi",
           "en": "chair"
         },
         "谢谢": {
-          "pinzi": "xièxie",
+          "pinyin": "xièxie",
           "en": "thank"
         },
         "不客气": {
-          "pinzi": "búkèqì",
+          "pinyin": "búkèqì",
           "en": "you are welcome"
         },
         "再见": {
-          "pinzi": "zàijiàn",
+          "pinyin": "zàijiàn",
           "en": "good-bye"
         },
         "请": {
-          "pinzi": "qǐng",
+          "pinyin": "qǐng",
           "en": "please"
         },
         "对不起": {
-          "pinzi": "duìbùqǐ",
+          "pinyin": "duìbùqǐ",
           "en": "sorry"
         },
         "没关系": {
-          "pinzi": "méiguānxì",
+          "pinyin": "méiguānxì",
           "en": "It doesn’t matter"
         },
         "是": {
-          "pinzi": "shì",
+          "pinyin": "shì",
           "en": "be (am, is, are)"
         },
         "有": {
-          "pinzi": "yǒu",
+          "pinyin": "yǒu",
           "en": "have"
         },
         "看": {
-          "pinzi": "kàn",
+          "pinyin": "kàn",
           "en": "look"
         },
         "听": {
-          "pinzi": "tīng",
+          "pinyin": "tīng",
           "en": "listen"
         },
         "说话": {
-          "pinzi": "shuōhuà",
+          "pinyin": "shuōhuà",
           "en": "speak"
         },
         "读": {
-          "pinzi": "dú",
+          "pinyin": "dú",
           "en": "read"
         },
         "写": {
-          "pinzi": "xiě",
+          "pinyin": "xiě",
           "en": "write"
         },
         "看见": {
-          "pinzi": "kànjiàn",
+          "pinyin": "kànjiàn",
           "en": "see"
         },
         "叫": {
-          "pinzi": "jiào",
+          "pinyin": "jiào",
           "en": "call"
         },
         "来": {
-          "pinzi": "lái",
+          "pinyin": "lái",
           "en": "come"
         },
         "回": {
-          "pinzi": "huí",
+          "pinyin": "huí",
           "en": "return"
         },
         "去": {
-          "pinzi": "qù",
+          "pinyin": "qù",
           "en": "go"
         },
         "吃": {
-          "pinzi": "chī",
+          "pinyin": "chī",
           "en": "eat"
         },
         "喝": {
-          "pinzi": "hē",
+          "pinyin": "hē",
           "en": "drink"
         },
         "睡觉": {
-          "pinzi": "shuìjiào",
+          "pinyin": "shuìjiào",
           "en": "sleep"
         },
         "打电话": {
-          "pinzi": "dǎdiànhuà",
+          "pinyin": "dǎdiànhuà",
           "en": "call up"
         },
         "做": {
-          "pinzi": "zuò",
+          "pinyin": "zuò",
           "en": "do"
         },
         "买": {
-          "pinzi": "mǎi",
+          "pinyin": "mǎi",
           "en": "buy"
         },
         "开": {
-          "pinzi": "kāi",
+          "pinyin": "kāi",
           "en": "open"
         },
         "坐": {
-          "pinzi": "zuò",
+          "pinyin": "zuò",
           "en": "sit"
         },
         "住": {
-          "pinzi": "zhù",
+          "pinyin": "zhù",
           "en": "live"
         },
         "学习": {
-          "pinzi": "xuéxí",
+          "pinyin": "xuéxí",
           "en": "study"
         },
         "工作": {
-          "pinzi": "gōngzuò",
+          "pinyin": "gōngzuò",
           "en": "work"
         },
         "下雨": {
-          "pinzi": "xiàyǔ",
+          "pinyin": "xiàyǔ",
           "en": "rain"
         },
         "爱": {
-          "pinzi": "ài",
+          "pinyin": "ài",
           "en": "love"
         },
         "喜欢": {
-          "pinzi": "xǐhuān",
+          "pinyin": "xǐhuān",
           "en": "love, like"
         },
         "想": {
-          "pinzi": "xiǎng",
+          "pinyin": "xiǎng",
           "en": "want"
         },
         "认识": {
-          "pinzi": "rènshi",
+          "pinyin": "rènshi",
           "en": "know"
         },
         "会": {
-          "pinzi": "huì",
+          "pinyin": "huì",
           "en": "can"
         },
         "能": {
-          "pinzi": "néng",
+          "pinyin": "néng",
           "en": "can, be able to"
         },
         "好": {
-          "pinzi": "hǎo",
+          "pinyin": "hǎo",
           "en": "good"
         },
         "大": {
-          "pinzi": "dà",
+          "pinyin": "dà",
           "en": "big"
         },
         "小": {
-          "pinzi": "xiǎo",
+          "pinyin": "xiǎo",
           "en": "small"
         },
         "多": {
-          "pinzi": "duō",
+          "pinyin": "duō",
           "en": "many, much"
         },
         "少": {
-          "pinzi": "shǎo",
+          "pinyin": "shǎo",
           "en": "few, little"
         },
         "冷": {
-          "pinzi": "lěng",
+          "pinyin": "lěng",
           "en": "cold"
         },
         "热": {
-          "pinzi": "rè",
+          "pinyin": "rè",
           "en": "hot"
         },
         "高兴": {
-          "pinzi": "gāoxìng",
+          "pinyin": "gāoxìng",
           "en": "happy"
         },
         "漂亮": {
-          "pinzi": "piàoliàng",
+          "pinyin": "piàoliàng",
           "en": "beautiful"
         }
       },
 
     "hsk2": {
         "我": {
-          "pinzi": "wǒ",
+          "pinyin": "wǒ",
           "en": "I, me"
         },
         "我们": {
-          "pinzi": "wǒmen",
+          "pinyin": "wǒmen",
           "en": "we, us （pl.）"
         },
         "你": {
-          "pinzi": "nǐ",
+          "pinyin": "nǐ",
           "en": "you"
         },
         "你们": {
-          "pinzi": "nǐmen",
+          "pinyin": "nǐmen",
           "en": "you (pl.)"
         },
         "他": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "he, him"
         },
         "她": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "she, her"
         },
         "他们": {
-          "pinzi": "tāmen",
+          "pinyin": "tāmen",
           "en": "they (male+female / male，pl.)"
         },
         "她们": {
-          "pinzi": "tāmen",
+          "pinyin": "tāmen",
           "en": "they (females, pl.)"
         },
         "这": {
-          "pinzi": "zhè ( zhèr)",
+          "pinyin": "zhè ( zhèr)",
           "en": "here, this"
         },
         "那": {
-          "pinzi": "nà (nàr)",
+          "pinyin": "nà (nàr)",
           "en": "there, that"
         },
         "哪（哪儿）": {
-          "pinzi": "nǎ (nǎr)",
+          "pinyin": "nǎ (nǎr)",
           "en": "where"
         },
         "谁": {
-          "pinzi": "shéi",
+          "pinyin": "shéi",
           "en": "who"
         },
         "什么": {
-          "pinzi": "shénme",
+          "pinyin": "shénme",
           "en": "what, why"
         },
         "多少": {
-          "pinzi": "duōshǎo",
+          "pinyin": "duōshǎo",
           "en": "how many, how much"
         },
         "几": {
-          "pinzi": "jǐ",
+          "pinyin": "jǐ",
           "en": "a few, how many"
         },
         "怎么": {
-          "pinzi": "zěnme",
+          "pinyin": "zěnme",
           "en": "how"
         },
         "怎么样": {
-          "pinzi": "zěnmeyàng",
+          "pinyin": "zěnmeyàng",
           "en": "how about"
         },
         "您": {
-          "pinzi": "nín",
+          "pinyin": "nín",
           "en": "you"
         },
         "它": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "it"
         },
         "大家": {
-          "pinzi": "dàjiā",
+          "pinyin": "dàjiā",
           "en": "everyone"
         },
         "每": {
-          "pinzi": "měi",
+          "pinyin": "měi",
           "en": "every"
         },
         "为什么": {
-          "pinzi": "wèishénme",
+          "pinyin": "wèishénme",
           "en": "why"
         },
         "一": {
-          "pinzi": "yī",
+          "pinyin": "yī",
           "en": "one"
         },
         "二": {
-          "pinzi": "èr",
+          "pinyin": "èr",
           "en": "two"
         },
         "三": {
-          "pinzi": "sān",
+          "pinyin": "sān",
           "en": "three"
         },
         "四": {
-          "pinzi": "sì",
+          "pinyin": "sì",
           "en": "four"
         },
         "五": {
-          "pinzi": "wǔ",
+          "pinyin": "wǔ",
           "en": "five"
         },
         "六": {
-          "pinzi": "liù",
+          "pinyin": "liù",
           "en": "six"
         },
         "七": {
-          "pinzi": "qī",
+          "pinyin": "qī",
           "en": "seven"
         },
         "八": {
-          "pinzi": "bā",
+          "pinyin": "bā",
           "en": "eight"
         },
         "九": {
-          "pinzi": "jiǔ",
+          "pinyin": "jiǔ",
           "en": "nine"
         },
         "十": {
-          "pinzi": "shí",
+          "pinyin": "shí",
           "en": "ten"
         },
         "零": {
-          "pinzi": "líng",
+          "pinyin": "líng",
           "en": "zero"
         },
         "两": {
-          "pinzi": "liǎng",
+          "pinyin": "liǎng",
           "en": "two"
         },
         "百": {
-          "pinzi": "bǎi",
+          "pinyin": "bǎi",
           "en": "hundred"
         },
         "千": {
-          "pinzi": "qiān",
+          "pinyin": "qiān",
           "en": "thousand"
         },
         "第一": {
-          "pinzi": "dìyī",
+          "pinyin": "dìyī",
           "en": "first"
         },
         "个": {
-          "pinzi": "gè",
+          "pinyin": "gè",
           "en": "one, a, an"
         },
         "岁": {
-          "pinzi": "suì",
+          "pinyin": "suì",
           "en": "year"
         },
         "本": {
-          "pinzi": "běn",
+          "pinyin": "běn",
           "en": "volume"
         },
         "些": {
-          "pinzi": "xiē",
+          "pinyin": "xiē",
           "en": "some"
         },
         "块": {
-          "pinzi": "kuài",
+          "pinyin": "kuài",
           "en": "piece"
         },
         "次": {
-          "pinzi": "cì",
+          "pinyin": "cì",
           "en": "number"
         },
         "公斤": {
-          "pinzi": "gōngjīn",
+          "pinyin": "gōngjīn",
           "en": "kilogram"
         },
         "元": {
-          "pinzi": "yuán",
+          "pinyin": "yuán",
           "en": "yuan"
         },
         "件": {
-          "pinzi": "jiàn",
+          "pinyin": "jiàn",
           "en": "piece"
         },
         "张": {
-          "pinzi": "zhāng",
+          "pinyin": "zhāng",
           "en": "sheet"
         },
         "不": {
-          "pinzi": "bù",
+          "pinyin": "bù",
           "en": "no"
         },
         "没": {
-          "pinzi": "méi",
+          "pinyin": "méi",
           "en": "no"
         },
         "很": {
-          "pinzi": "hěn",
+          "pinyin": "hěn",
           "en": "quite, very"
         },
         "太": {
-          "pinzi": "tài",
+          "pinyin": "tài",
           "en": "too"
         },
         "都": {
-          "pinzi": "dōu",
+          "pinyin": "dōu",
           "en": "all"
         },
         "别": {
-          "pinzi": "bié",
+          "pinyin": "bié",
           "en": "other"
         },
         "非常": {
-          "pinzi": "fēicháng",
+          "pinyin": "fēicháng",
           "en": "very"
         },
         "也": {
-          "pinzi": "yě",
+          "pinyin": "yě",
           "en": "likewise"
         },
         "还": {
-          "pinzi": "hái",
+          "pinyin": "hái",
           "en": "repay"
         },
         "最": {
-          "pinzi": "zuì",
+          "pinyin": "zuì",
           "en": "most"
         },
         "真": {
-          "pinzi": "zhēn",
+          "pinyin": "zhēn",
           "en": "real"
         },
         "正在": {
-          "pinzi": "zhèngzài",
+          "pinyin": "zhèngzài",
           "en": "be being"
         },
         "已经": {
-          "pinzi": "yǐjīng",
+          "pinyin": "yǐjīng",
           "en": "already"
         },
         "一起": {
-          "pinzi": "yìqǐ",
+          "pinyin": "yìqǐ",
           "en": "together"
         },
         "再": {
-          "pinzi": "zài",
+          "pinyin": "zài",
           "en": "again"
         },
         "就": {
-          "pinzi": "jiǜ",
+          "pinyin": "jiǜ",
           "en": "at once"
         },
         "和": {
-          "pinzi": "hé",
+          "pinyin": "hé",
           "en": "and"
         },
         "因为": {
-          "pinzi": "yīnwèi",
+          "pinyin": "yīnwèi",
           "en": "because"
         },
         "所以": {
-          "pinzi": "suǒyǐ",
+          "pinyin": "suǒyǐ",
           "en": "so"
         },
         "但是": {
-          "pinzi": "dànshì",
+          "pinyin": "dànshì",
           "en": "but"
         },
         "在": {
-          "pinzi": "zài",
+          "pinyin": "zài",
           "en": "in, at"
         },
         "从": {
-          "pinzi": "cóng",
+          "pinyin": "cóng",
           "en": "from"
         },
         "对": {
-          "pinzi": "duì",
+          "pinyin": "duì",
           "en": "right"
         },
         "此": {
-          "pinzi": "cǐ",
+          "pinyin": "cǐ",
           "en": "this"
         },
         "向": {
-          "pinzi": "xiàng",
+          "pinyin": "xiàng",
           "en": "towards"
         },
         "离": {
-          "pinzi": "lí",
+          "pinyin": "lí",
           "en": "leave"
         },
         "喂": {
-          "pinzi": "wèi",
+          "pinyin": "wèi",
           "en": "hello"
         },
         "家": {
-          "pinzi": "jiā",
+          "pinyin": "jiā",
           "en": "home"
         },
         "学校": {
-          "pinzi": "xuéxiào",
+          "pinyin": "xuéxiào",
           "en": "school"
         },
         "饭馆": {
-          "pinzi": "fàn guǎn",
+          "pinyin": "fàn guǎn",
           "en": "restaurant"
         },
         "商店": {
-          "pinzi": "shāngdiàn",
+          "pinyin": "shāngdiàn",
           "en": "store"
         },
         "医院": {
-          "pinzi": "yīyuàn",
+          "pinyin": "yīyuàn",
           "en": "hospital"
         },
         "火车站": {
-          "pinzi": "huǒchēzhàn",
+          "pinyin": "huǒchēzhàn",
           "en": "train station"
         },
         "中国": {
-          "pinzi": "zhōngguó",
+          "pinyin": "zhōngguó",
           "en": "China"
         },
         "机场": {
-          "pinzi": "jīchǎng",
+          "pinyin": "jīchǎng",
           "en": "airport"
         },
         "教室": {
-          "pinzi": "jiàoshì",
+          "pinyin": "jiàoshì",
           "en": "classroom"
         },
         "房间": {
-          "pinzi": "fángjiān",
+          "pinyin": "fángjiān",
           "en": "room"
         },
         "路": {
-          "pinzi": "lù",
+          "pinyin": "lù",
           "en": "road"
         },
         "北京": {
-          "pinzi": "běijīng",
+          "pinyin": "běijīng",
           "en": "Beijing"
         },
         "上": {
-          "pinzi": "shàng",
+          "pinyin": "shàng",
           "en": "up"
         },
         "下": {
-          "pinzi": "xià",
+          "pinyin": "xià",
           "en": "below"
         },
         "前面": {
-          "pinzi": "qiánmiàn",
+          "pinyin": "qiánmiàn",
           "en": "front"
         },
         "后面": {
-          "pinzi": "hòumiàn",
+          "pinyin": "hòumiàn",
           "en": "behind"
         },
         "左边": {
-          "pinzi": "zuǒbiān",
+          "pinyin": "zuǒbiān",
           "en": "left"
         },
         "右边": {
-          "pinzi": "yòubiān",
+          "pinyin": "yòubiān",
           "en": "right"
         },
         "外": {
-          "pinzi": "wài",
+          "pinyin": "wài",
           "en": "out"
         },
         "旁边": {
-          "pinzi": "pángbiān",
+          "pinyin": "pángbiān",
           "en": "side"
         },
         "里面": {
-          "pinzi": "lǐmiàn",
+          "pinyin": "lǐmiàn",
           "en": "inside"
         },
         "今天": {
-          "pinzi": "jīntiān",
+          "pinyin": "jīntiān",
           "en": "today"
         },
         "明天": {
-          "pinzi": "míngtiān",
+          "pinyin": "míngtiān",
           "en": "tomorrow"
         },
         "昨天": {
-          "pinzi": "zuótiān",
+          "pinyin": "zuótiān",
           "en": "yesterday"
         },
         "上午": {
-          "pinzi": "shàngwǔ",
+          "pinyin": "shàngwǔ",
           "en": "morning"
         },
         "中午": {
-          "pinzi": "zhōngwǔ",
+          "pinyin": "zhōngwǔ",
           "en": "noon"
         },
         "下午": {
-          "pinzi": "xiàwǔ",
+          "pinyin": "xiàwǔ",
           "en": "afternoon"
         },
         "年": {
-          "pinzi": "nián",
+          "pinyin": "nián",
           "en": "year"
         },
         "月": {
-          "pinzi": "yuè",
+          "pinyin": "yuè",
           "en": "month"
         },
         "日": {
-          "pinzi": "rì",
+          "pinyin": "rì",
           "en": "day"
         },
         "星期": {
-          "pinzi": "xīngqī",
+          "pinyin": "xīngqī",
           "en": "week"
         },
         "点": {
-          "pinzi": "diǎn",
+          "pinyin": "diǎn",
           "en": "dot, spot"
         },
         "分钟": {
-          "pinzi": "fēnzhōng",
+          "pinyin": "fēnzhōng",
           "en": "minute"
         },
         "现在": {
-          "pinzi": "xiànzài",
+          "pinyin": "xiànzài",
           "en": "now"
         },
         "时候": {
-          "pinzi": "shíhóu",
+          "pinyin": "shíhóu",
           "en": "time"
         },
         "早上": {
-          "pinzi": "zǎoshàng",
+          "pinyin": "zǎoshàng",
           "en": "morning"
         },
         "晚上": {
-          "pinzi": "wǎnshàng",
+          "pinyin": "wǎnshàng",
           "en": "night"
         },
         "小时": {
-          "pinzi": "xiǎoshí",
+          "pinyin": "xiǎoshí",
           "en": "hour"
         },
         "时间": {
-          "pinzi": "shíjiān",
+          "pinyin": "shíjiān",
           "en": "time"
         },
         "去年": {
-          "pinzi": "qùnián",
+          "pinyin": "qùnián",
           "en": "last year"
         },
         "号": {
-          "pinzi": "hào",
+          "pinyin": "hào",
           "en": "number"
         },
         "生日": {
-          "pinzi": "shēngrì",
+          "pinyin": "shēngrì",
           "en": "birthday"
         },
         "爸爸": {
-          "pinzi": "bàba",
+          "pinyin": "bàba",
           "en": "father"
         },
         "妈妈": {
-          "pinzi": "māma",
+          "pinyin": "māma",
           "en": "mother"
         },
         "儿子": {
-          "pinzi": "érzi",
+          "pinyin": "érzi",
           "en": "son"
         },
         "女儿": {
-          "pinzi": "nǚér",
+          "pinyin": "nǚér",
           "en": "daughter"
         },
         "老师": {
-          "pinzi": "lǎoshī",
+          "pinyin": "lǎoshī",
           "en": "teacher"
         },
         "学生": {
-          "pinzi": "xuéshēng",
+          "pinyin": "xuéshēng",
           "en": "student"
         },
         "同学": {
-          "pinzi": "tóngxué",
+          "pinyin": "tóngxué",
           "en": "shoolmate"
         },
         "朋友": {
-          "pinzi": "péngyǒu",
+          "pinyin": "péngyǒu",
           "en": "friend"
         },
         "医生": {
-          "pinzi": "yīshēng",
+          "pinyin": "yīshēng",
           "en": "doctor"
         },
         "先生": {
-          "pinzi": "xiānshēng",
+          "pinyin": "xiānshēng",
           "en": "sir"
         },
         "小姐": {
-          "pinzi": "xiǎojiě",
+          "pinyin": "xiǎojiě",
           "en": "Miss"
         },
         "哥哥": {
-          "pinzi": "gēge",
+          "pinyin": "gēge",
           "en": "brother"
         },
         "姐姐": {
-          "pinzi": "jiějie",
+          "pinyin": "jiějie",
           "en": "sister"
         },
         "弟弟": {
-          "pinzi": "dìdi",
+          "pinyin": "dìdi",
           "en": "younger brother"
         },
         "妹妹": {
-          "pinzi": "mèimei",
+          "pinyin": "mèimei",
           "en": "sis"
         },
         "丈夫": {
-          "pinzi": "zhàngfu",
+          "pinyin": "zhàngfu",
           "en": "husband"
         },
         "妻子": {
-          "pinzi": "qīzi",
+          "pinyin": "qīzi",
           "en": "wife"
         },
         "孩子": {
-          "pinzi": "háizi",
+          "pinyin": "háizi",
           "en": "child"
         },
         "男人": {
-          "pinzi": "nánrén",
+          "pinyin": "nánrén",
           "en": "man"
         },
         "女人": {
-          "pinzi": "nǚrén",
+          "pinyin": "nǚrén",
           "en": "woman"
         },
         "服务员": {
-          "pinzi": "fúwùyuán",
+          "pinyin": "fúwùyuán",
           "en": "waiter"
         },
         "衣服": {
-          "pinzi": "yīfu",
+          "pinyin": "yīfu",
           "en": "cloth"
         },
         "水": {
-          "pinzi": "shuǐ",
+          "pinyin": "shuǐ",
           "en": "water"
         },
         "菜": {
-          "pinzi": "cài",
+          "pinyin": "cài",
           "en": "vegetable"
         },
         "米饭": {
-          "pinzi": "mǐfàn",
+          "pinyin": "mǐfàn",
           "en": "rice"
         },
         "水果": {
-          "pinzi": "shuǐguǒ",
+          "pinyin": "shuǐguǒ",
           "en": "fruit"
         },
         "苹果": {
-          "pinzi": "píngguǒ",
+          "pinyin": "píngguǒ",
           "en": "apple"
         },
         "茶": {
-          "pinzi": "chá",
+          "pinyin": "chá",
           "en": "tea"
         },
         "杯子": {
-          "pinzi": "bēizi",
+          "pinyin": "bēizi",
           "en": "cup"
         },
         "钱": {
-          "pinzi": "qián",
+          "pinyin": "qián",
           "en": "money"
         },
         "飞机": {
-          "pinzi": "fēijī",
+          "pinyin": "fēijī",
           "en": "airplane"
         },
         "出租车": {
-          "pinzi": "chūzūchē",
+          "pinyin": "chūzūchē",
           "en": "taxi"
         },
         "电视": {
-          "pinzi": "diànshì",
+          "pinyin": "diànshì",
           "en": "television"
         },
         "电脑": {
-          "pinzi": "diànnǎo",
+          "pinyin": "diànnǎo",
           "en": "computer"
         },
         "电影": {
-          "pinzi": "diànyǐng",
+          "pinyin": "diànyǐng",
           "en": "movie"
         },
         "天气": {
-          "pinzi": "tiānqì",
+          "pinyin": "tiānqì",
           "en": "weather"
         },
         "猫": {
-          "pinzi": "māo",
+          "pinyin": "māo",
           "en": "cat"
         },
         "狗": {
-          "pinzi": "gǒu",
+          "pinyin": "gǒu",
           "en": "dog"
         },
         "东西": {
-          "pinzi": "dōngxī",
+          "pinyin": "dōngxī",
           "en": "thing"
         },
         "鱼": {
-          "pinzi": "yú",
+          "pinyin": "yú",
           "en": "fish"
         },
         "羊肉": {
-          "pinzi": "yángròu",
+          "pinyin": "yángròu",
           "en": "mutton"
         },
         "牛奶": {
-          "pinzi": "niúnǎi",
+          "pinyin": "niúnǎi",
           "en": "milk"
         },
         "鸡蛋": {
-          "pinzi": "jīdàn",
+          "pinyin": "jīdàn",
           "en": "egg"
         },
         "西瓜": {
-          "pinzi": "xīguā",
+          "pinyin": "xīguā",
           "en": "watermelon"
         },
         "咖啡": {
-          "pinzi": "kāfēi",
+          "pinyin": "kāfēi",
           "en": "coffee"
         },
         "自行车": {
-          "pinzi": "zìxíngchē",
+          "pinyin": "zìxíngchē",
           "en": "bike"
         },
         "船": {
-          "pinzi": "chuán",
+          "pinyin": "chuán",
           "en": "boat"
         },
         "雪": {
-          "pinzi": "xué",
+          "pinyin": "xué",
           "en": "snow"
         },
         "药": {
-          "pinzi": "yào",
+          "pinyin": "yào",
           "en": "medicine"
         },
         "手机": {
-          "pinzi": "shǒujī",
+          "pinyin": "shǒujī",
           "en": "phone"
         },
         "手表": {
-          "pinzi": "shǒubiǎo",
+          "pinyin": "shǒubiǎo",
           "en": "watch"
         },
         "眼睛": {
-          "pinzi": "yǎnjīng",
+          "pinyin": "yǎnjīng",
           "en": "eye"
         },
         "身体": {
-          "pinzi": "shēntǐ",
+          "pinyin": "shēntǐ",
           "en": "body"
         },
         "公共汽车": {
-          "pinzi": "gōnggòngqìchē",
+          "pinyin": "gōnggòngqìchē",
           "en": "bus"
         },
         "报纸": {
-          "pinzi": "bàozhǐ",
+          "pinyin": "bàozhǐ",
           "en": "newspaper"
         },
         "人": {
-          "pinzi": "rén",
+          "pinyin": "rén",
           "en": "person"
         },
         "名字": {
-          "pinzi": "míngzi",
+          "pinyin": "míngzi",
           "en": "name"
         },
         "书": {
-          "pinzi": "shū",
+          "pinyin": "shū",
           "en": "book"
         },
         "汉语": {
-          "pinzi": "hànyǔ",
+          "pinyin": "hànyǔ",
           "en": "Chinese"
         },
         "字": {
-          "pinzi": "zì",
+          "pinyin": "zì",
           "en": "character"
         },
         "桌子": {
-          "pinzi": "zhuōōzi",
+          "pinyin": "zhuōōzi",
           "en": "desk"
         },
         "椅子": {
-          "pinzi": "yǐzi",
+          "pinyin": "yǐzi",
           "en": "chair"
         },
         "门": {
-          "pinzi": "mén",
+          "pinyin": "mén",
           "en": "door"
         },
         "题": {
-          "pinzi": "tí",
+          "pinyin": "tí",
           "en": "topic"
         },
         "课": {
-          "pinzi": "kè",
+          "pinyin": "kè",
           "en": "lesson"
         },
         "姓": {
-          "pinzi": "xìng",
+          "pinyin": "xìng",
           "en": "surname"
         },
         "问题": {
-          "pinzi": "wèntí",
+          "pinyin": "wèntí",
           "en": "question"
         },
         "事情": {
-          "pinzi": "shìqing",
+          "pinyin": "shìqing",
           "en": "matter"
         },
         "考试": {
-          "pinzi": "kǎoshì",
+          "pinyin": "kǎoshì",
           "en": "exam"
         },
         "票": {
-          "pinzi": "piào",
+          "pinyin": "piào",
           "en": "ticket"
         },
         "意思": {
-          "pinzi": "yìsi",
+          "pinyin": "yìsi",
           "en": "meaning"
         },
         "颜色": {
-          "pinzi": "yánsè",
+          "pinyin": "yánsè",
           "en": "color"
         },
         "谢谢": {
-          "pinzi": "xièxiè",
+          "pinyin": "xièxiè",
           "en": "thank"
         },
         "不客气": {
-          "pinzi": "búkèqì",
+          "pinyin": "búkèqì",
           "en": "you are welcome"
         },
         "再见": {
-          "pinzi": "zàijiàn",
+          "pinyin": "zàijiàn",
           "en": "good-bye"
         },
         "请": {
-          "pinzi": "qǐng",
+          "pinyin": "qǐng",
           "en": "please"
         },
         "对不起": {
-          "pinzi": "duìbùqǐ",
+          "pinyin": "duìbùqǐ",
           "en": "sorry"
         },
         "没关系": {
-          "pinzi": "méiguānxì",
+          "pinyin": "méiguānxì",
           "en": "It doesn’t matter"
         },
         "欢迎": {
-          "pinzi": "huānyíng",
+          "pinyin": "huānyíng",
           "en": "welcome"
         },
         "是": {
-          "pinzi": "shì",
+          "pinyin": "shì",
           "en": "am, is, are"
         },
         "有": {
-          "pinzi": "yǒu",
+          "pinyin": "yǒu",
           "en": "have"
         },
         "看": {
-          "pinzi": "kàn",
+          "pinyin": "kàn",
           "en": "look"
         },
         "听": {
-          "pinzi": "tīng",
+          "pinyin": "tīng",
           "en": "listen"
         },
         "说话": {
-          "pinzi": "shuōhuà",
+          "pinyin": "shuōhuà",
           "en": "speak"
         },
         "读": {
-          "pinzi": "dú",
+          "pinyin": "dú",
           "en": "read"
         },
         "写": {
-          "pinzi": "xiě",
+          "pinyin": "xiě",
           "en": "write"
         },
         "看见": {
-          "pinzi": "kànjiàn",
+          "pinyin": "kànjiàn",
           "en": "see"
         },
         "叫": {
-          "pinzi": "jiào",
+          "pinyin": "jiào",
           "en": "call"
         },
         "来": {
-          "pinzi": "lái",
+          "pinyin": "lái",
           "en": "come"
         },
         "回": {
-          "pinzi": "huí",
+          "pinyin": "huí",
           "en": "return"
         },
         "去": {
-          "pinzi": "qù",
+          "pinyin": "qù",
           "en": "go"
         },
         "吃": {
-          "pinzi": "chī",
+          "pinyin": "chī",
           "en": "eat"
         },
         "喝": {
-          "pinzi": "hē",
+          "pinyin": "hē",
           "en": "drink"
         },
         "睡觉": {
-          "pinzi": "shuìjiào",
+          "pinyin": "shuìjiào",
           "en": "sleep"
         },
         "打电话": {
-          "pinzi": "dǎdiànhuà",
+          "pinyin": "dǎdiànhuà",
           "en": "call up"
         },
         "做": {
-          "pinzi": "zuò",
+          "pinyin": "zuò",
           "en": "do"
         },
         "买": {
-          "pinzi": "mǎi",
+          "pinyin": "mǎi",
           "en": "buy"
         },
         "开": {
-          "pinzi": "kāi",
+          "pinyin": "kāi",
           "en": "open"
         },
         "坐": {
-          "pinzi": "zuò",
+          "pinyin": "zuò",
           "en": "sit"
         },
         "住": {
-          "pinzi": "zhù",
+          "pinyin": "zhù",
           "en": "live"
         },
         "学习": {
-          "pinzi": "xuéxí",
+          "pinyin": "xuéxí",
           "en": "study"
         },
         "工作": {
-          "pinzi": "gōngzuò",
+          "pinyin": "gōngzuò",
           "en": "work"
         },
         "下雨": {
-          "pinzi": "xiàyǔ",
+          "pinyin": "xiàyǔ",
           "en": "rain"
         },
         "问": {
-          "pinzi": "wèn",
+          "pinyin": "wèn",
           "en": "ask"
         },
         "走": {
-          "pinzi": "zǒu",
+          "pinyin": "zǒu",
           "en": "walk"
         },
         "进": {
-          "pinzi": "jìn",
+          "pinyin": "jìn",
           "en": "enter"
         },
         "出": {
-          "pinzi": "chū",
+          "pinyin": "chū",
           "en": "come"
         },
         "跑步": {
-          "pinzi": "pǎobù",
+          "pinyin": "pǎobù",
           "en": "run"
         },
         "到": {
-          "pinzi": "dào",
+          "pinyin": "dào",
           "en": "arrive"
         },
         "穿": {
-          "pinzi": "chuān",
+          "pinyin": "chuān",
           "en": "wear"
         },
         "洗": {
-          "pinzi": "xǐ",
+          "pinyin": "xǐ",
           "en": "wash"
         },
         "给": {
-          "pinzi": "gěi",
+          "pinyin": "gěi",
           "en": "give"
         },
         "找": {
-          "pinzi": "zhǎo",
+          "pinyin": "zhǎo",
           "en": "find"
         },
         "懂": {
-          "pinzi": "dǒng",
+          "pinyin": "dǒng",
           "en": "understand"
         },
         "笑": {
-          "pinzi": "xiào",
+          "pinyin": "xiào",
           "en": "smile"
         },
         "回答": {
-          "pinzi": "huídá",
+          "pinyin": "huídá",
           "en": "answer"
         },
         "告诉": {
-          "pinzi": "gàosù",
+          "pinyin": "gàosù",
           "en": "tell"
         },
         "准备": {
-          "pinzi": "zhǔnbèi",
+          "pinyin": "zhǔnbèi",
           "en": "prepare"
         },
         "开始": {
-          "pinzi": "kāishǐ",
+          "pinyin": "kāishǐ",
           "en": "begin"
         },
         "介绍": {
-          "pinzi": "jièshào",
+          "pinyin": "jièshào",
           "en": "introduce"
         },
         "帮助": {
-          "pinzi": "bāngzhù",
+          "pinyin": "bāngzhù",
           "en": "help"
         },
         "玩": {
-          "pinzi": "wán",
+          "pinyin": "wán",
           "en": "play"
         },
         "送": {
-          "pinzi": "sòng",
+          "pinyin": "sòng",
           "en": "present"
         },
         "等": {
-          "pinzi": "děng",
+          "pinyin": "děng",
           "en": "wait"
         },
         "让": {
-          "pinzi": "ràng",
+          "pinyin": "ràng",
           "en": "let"
         },
         "起床": {
-          "pinzi": "qǐchuáng",
+          "pinyin": "qǐchuáng",
           "en": "get up"
         },
         "唱歌": {
-          "pinzi": "chànggē",
+          "pinyin": "chànggē",
           "en": "sing"
         },
         "跳舞": {
-          "pinzi": "tiàowǔ",
+          "pinyin": "tiàowǔ",
           "en": "dance"
         },
         "旅游": {
-          "pinzi": "lǚyóu",
+          "pinyin": "lǚyóu",
           "en": "travel"
         },
         "上班": {
-          "pinzi": "shàngbān",
+          "pinyin": "shàngbān",
           "en": "be on duty"
         },
         "生病": {
-          "pinzi": "shēngbìng",
+          "pinyin": "shēngbìng",
           "en": "fall ill"
         },
         "休息": {
-          "pinzi": "xiūxi",
+          "pinyin": "xiūxi",
           "en": "rest"
         },
         "运动": {
-          "pinzi": "yùndòng",
+          "pinyin": "yùndòng",
           "en": "exercise"
         },
         "游泳": {
-          "pinzi": "yóuyǒng",
+          "pinyin": "yóuyǒng",
           "en": "swim"
         },
         "踢足球": {
-          "pinzi": "tīzúqiú",
+          "pinyin": "tīzúqiú",
           "en": "play footbal"
         },
         "打篮球": {
-          "pinzi": "dǎlánqiú",
+          "pinyin": "dǎlánqiú",
           "en": "play basketball"
         },
         "完": {
-          "pinzi": "wán",
+          "pinyin": "wán",
           "en": "finish"
         },
         "爱": {
-          "pinzi": "ài",
+          "pinyin": "ài",
           "en": "love"
         },
         "喜欢": {
-          "pinzi": "xǐhuān",
+          "pinyin": "xǐhuān",
           "en": "love, like"
         },
         "想": {
-          "pinzi": "xiǎng",
+          "pinyin": "xiǎng",
           "en": "want"
         },
         "认识": {
-          "pinzi": "rènshi",
+          "pinyin": "rènshi",
           "en": "know"
         },
         "觉得": {
-          "pinzi": "juédé",
+          "pinyin": "juédé",
           "en": "think"
         },
         "知道": {
-          "pinzi": "zhīdào",
+          "pinyin": "zhīdào",
           "en": "know"
         },
         "希望": {
-          "pinzi": "xīwàng",
+          "pinyin": "xīwàng",
           "en": "hope"
         },
         "会": {
-          "pinzi": "huì",
+          "pinyin": "huì",
           "en": "can"
         },
         "能": {
-          "pinzi": "néng",
+          "pinyin": "néng",
           "en": "can, be able to"
         },
         "可以": {
-          "pinzi": "kěyǐ",
+          "pinyin": "kěyǐ",
           "en": "can"
         },
         "要": {
-          "pinzi": "yào",
+          "pinyin": "yào",
           "en": "ask for"
         },
         "可能": {
-          "pinzi": "kěnéng",
+          "pinyin": "kěnéng",
           "en": "may"
         },
         "好": {
-          "pinzi": "hǎo",
+          "pinyin": "hǎo",
           "en": "good"
         },
         "大": {
-          "pinzi": "dà",
+          "pinyin": "dà",
           "en": "big"
         },
         "小": {
-          "pinzi": "xiǎo",
+          "pinyin": "xiǎo",
           "en": "small"
         },
         "多": {
-          "pinzi": "duō",
+          "pinyin": "duō",
           "en": "many, much"
         },
         "少": {
-          "pinzi": "shǎo",
+          "pinyin": "shǎo",
           "en": "few, little"
         },
         "冷": {
-          "pinzi": "lěng",
+          "pinyin": "lěng",
           "en": "cold"
         },
         "热": {
-          "pinzi": "rè",
+          "pinyin": "rè",
           "en": "hot"
         },
         "高兴": {
-          "pinzi": "gāoxìng",
+          "pinyin": "gāoxìng",
           "en": "happy"
         },
         "漂亮": {
-          "pinzi": "piàoliàng",
+          "pinyin": "piàoliàng",
           "en": "beautiful"
         },
         "高": {
-          "pinzi": "gāo",
+          "pinyin": "gāo",
           "en": "tall"
         },
         "红": {
-          "pinzi": "hóng",
+          "pinyin": "hóng",
           "en": "red"
         },
         "白": {
-          "pinzi": "bái",
+          "pinyin": "bái",
           "en": "white"
         },
         "黑": {
-          "pinzi": "hēi",
+          "pinyin": "hēi",
           "en": "black"
         },
         "忙": {
-          "pinzi": "máng",
+          "pinyin": "máng",
           "en": "busy"
         },
         "快": {
-          "pinzi": "kuài",
+          "pinyin": "kuài",
           "en": "fast"
         },
         "慢": {
-          "pinzi": "màn",
+          "pinyin": "màn",
           "en": "slow"
         },
         "远": {
-          "pinzi": "yuǎn",
+          "pinyin": "yuǎn",
           "en": "far"
         },
         "近": {
-          "pinzi": "jìn",
+          "pinyin": "jìn",
           "en": "close"
         },
         "好吃": {
-          "pinzi": "hǎochī",
+          "pinyin": "hǎochī",
           "en": "delicious"
         },
         "累": {
-          "pinzi": "lèi",
+          "pinyin": "lèi",
           "en": "tired"
         },
         "长": {
-          "pinzi": "cháng",
+          "pinyin": "cháng",
           "en": "long"
         },
         "新": {
-          "pinzi": "xīn",
+          "pinyin": "xīn",
           "en": "new"
         },
         "贵": {
-          "pinzi": "guì",
+          "pinyin": "guì",
           "en": "expensive"
         },
         "便宜": {
-          "pinzi": "piányi",
+          "pinyin": "piányi",
           "en": "cheap"
         },
         "晴": {
-          "pinzi": "qíng",
+          "pinyin": "qíng",
           "en": "fine"
         },
         "阴": {
-          "pinzi": "yīn",
+          "pinyin": "yīn",
           "en": "cloudy"
         },
         "错": {
-          "pinzi": "cuò",
+          "pinyin": "cuò",
           "en": "wrong"
         },
         "快乐": {
-          "pinzi": "kuàilè",
+          "pinyin": "kuàilè",
           "en": "happy"
         }
       },
 
     "hsk3": {
         "阿姨": {
-          "pinzi": "āyí",
+          "pinyin": "āyí",
           "en": "aunt"
         },
         "啊": {
-          "pinzi": "a",
+          "pinyin": "a",
           "en": "ah"
         },
         "矮": {
-          "pinzi": "ǎi",
+          "pinyin": "ǎi",
           "en": "short"
         },
         "爱": {
-          "pinzi": "ài",
+          "pinyin": "ài",
           "en": "love"
         },
         "爱好": {
-          "pinzi": "àihào",
+          "pinyin": "àihào",
           "en": "hobby"
         },
         "安静": {
-          "pinzi": "ānjìng",
+          "pinyin": "ānjìng",
           "en": "Be quiet"
         },
         "八": {
-          "pinzi": "bā",
+          "pinyin": "bā",
           "en": "Eight"
         },
         "把": {
-          "pinzi": "bǎ",
+          "pinyin": "bǎ",
           "en": "hold"
         },
         "爸爸": {
-          "pinzi": "bàba",
+          "pinyin": "bàba",
           "en": "Dad"
         },
         "白": {
-          "pinzi": "bái",
+          "pinyin": "bái",
           "en": "white"
         },
         "百": {
-          "pinzi": "bǎi",
+          "pinyin": "bǎi",
           "en": "hundred"
         },
         "班": {
-          "pinzi": "bān",
+          "pinyin": "bān",
           "en": "class"
         },
         "搬": {
-          "pinzi": "bān",
+          "pinyin": "bān",
           "en": "turn; pull"
         },
         "半": {
-          "pinzi": "bàn",
+          "pinyin": "bàn",
           "en": "half"
         },
         "办法": {
-          "pinzi": "bànfǎ",
+          "pinyin": "bànfǎ",
           "en": "Way"
         },
         "办公室": {
-          "pinzi": "bàngōngshì",
+          "pinyin": "bàngōngshì",
           "en": "Office"
         },
         "帮忙": {
-          "pinzi": "bāngmáng",
+          "pinyin": "bāngmáng",
           "en": "Help"
         },
         "帮助": {
-          "pinzi": "bāngzhù",
+          "pinyin": "bāngzhù",
           "en": "Help"
         },
         "包": {
-          "pinzi": "bāo",
+          "pinyin": "bāo",
           "en": "package"
         },
         "饱": {
-          "pinzi": "bǎo",
+          "pinyin": "bǎo",
           "en": "full"
         },
         "报纸": {
-          "pinzi": "bàozhǐ",
+          "pinyin": "bàozhǐ",
           "en": "Newspaper"
         },
         "杯子": {
-          "pinzi": "bēizi",
+          "pinyin": "bēizi",
           "en": "glass"
         },
         "北方": {
-          "pinzi": "běifāng",
+          "pinyin": "běifāng",
           "en": "north"
         },
         "北京": {
-          "pinzi": "běijīng",
+          "pinyin": "běijīng",
           "en": "Beijing"
         },
         "被": {
-          "pinzi": "bèi",
+          "pinyin": "bèi",
           "en": "cover"
         },
         "本": {
-          "pinzi": "běn",
+          "pinyin": "běn",
           "en": "book"
         },
         "鼻子": {
-          "pinzi": "bízi",
+          "pinyin": "bízi",
           "en": "nose"
         },
         "比": {
-          "pinzi": "bǐ",
+          "pinyin": "bǐ",
           "en": "than"
         },
         "比较": {
-          "pinzi": "bǐjiào",
+          "pinyin": "bǐjiào",
           "en": "compare"
         },
         "比赛": {
-          "pinzi": "bǐsài",
+          "pinyin": "bǐsài",
           "en": "Match"
         },
         "必须": {
-          "pinzi": "bìxū",
+          "pinyin": "bìxū",
           "en": "Must"
         },
         "变化": {
-          "pinzi": "biànhuà",
+          "pinyin": "biànhuà",
           "en": "change"
         },
         "表示": {
-          "pinzi": "biǎoshì",
+          "pinyin": "biǎoshì",
           "en": "Express"
         },
         "表演": {
-          "pinzi": "biǎoyǎn",
+          "pinyin": "biǎoyǎn",
           "en": "perform"
         },
         "别": {
-          "pinzi": "bié",
+          "pinyin": "bié",
           "en": "other"
         },
         "别人": {
-          "pinzi": "biéren",
+          "pinyin": "biéren",
           "en": "Others"
         },
         "宾馆": {
-          "pinzi": "bīnguǎn",
+          "pinyin": "bīnguǎn",
           "en": "hotel"
         },
         "冰箱": {
-          "pinzi": "bīngxiāng",
+          "pinyin": "bīngxiāng",
           "en": "Refrigerator"
         },
         "不客气": {
-          "pinzi": "búkèqi",
+          "pinyin": "búkèqi",
           "en": "You are welcome"
         },
         "不": {
-          "pinzi": "bù",
+          "pinyin": "bù",
           "en": "No"
         },
         "才": {
-          "pinzi": "cái",
+          "pinyin": "cái",
           "en": "just"
         },
         "菜": {
-          "pinzi": "cài",
+          "pinyin": "cài",
           "en": "food"
         },
         "菜单": {
-          "pinzi": "càidān",
+          "pinyin": "càidān",
           "en": "menu"
         },
         "参加": {
-          "pinzi": "cānjiā",
+          "pinyin": "cānjiā",
           "en": "participate in"
         },
         "草": {
-          "pinzi": "cǎo",
+          "pinyin": "cǎo",
           "en": "grass"
         },
         "层": {
-          "pinzi": "céng",
+          "pinyin": "céng",
           "en": "layer"
         },
         "茶": {
-          "pinzi": "chá",
+          "pinyin": "chá",
           "en": "tea"
         },
         "差": {
-          "pinzi": "chà",
+          "pinyin": "chà",
           "en": "difference"
         },
         "长": {
-          "pinzi": "zhǎng",
+          "pinyin": "zhǎng",
           "en": "long"
         },
         "唱歌": {
-          "pinzi": "chànggē",
+          "pinyin": "chànggē",
           "en": "Sing"
         },
         "超市": {
-          "pinzi": "chāoshì",
+          "pinyin": "chāoshì",
           "en": "Supermarket"
         },
         "衬衫": {
-          "pinzi": "chènshān",
+          "pinyin": "chènshān",
           "en": "shirt"
         },
         "成绩": {
-          "pinzi": "chéngjì",
+          "pinyin": "chéngjì",
           "en": "achievement"
         },
         "城市": {
-          "pinzi": "chéngshì",
+          "pinyin": "chéngshì",
           "en": "City"
         },
         "吃": {
-          "pinzi": "chī",
+          "pinyin": "chī",
           "en": "eat"
         },
         "迟到": {
-          "pinzi": "chídào",
+          "pinyin": "chídào",
           "en": "Late"
         },
         "出": {
-          "pinzi": "chū",
+          "pinyin": "chū",
           "en": "come out"
         },
         "出现": {
-          "pinzi": "chūxiàn",
+          "pinyin": "chūxiàn",
           "en": "Appear"
         },
         "出租车": {
-          "pinzi": "chūzūchē",
+          "pinyin": "chūzūchē",
           "en": "Taxi"
         },
         "厨房": {
-          "pinzi": "chúfáng",
+          "pinyin": "chúfáng",
           "en": "Kitchen"
         },
         "除了": {
-          "pinzi": "chúle",
+          "pinyin": "chúle",
           "en": "except"
         },
         "穿": {
-          "pinzi": "chuān",
+          "pinyin": "chuān",
           "en": "Wear"
         },
         "船": {
-          "pinzi": "chuán",
+          "pinyin": "chuán",
           "en": "ship"
         },
         "春": {
-          "pinzi": "chūn",
+          "pinyin": "chūn",
           "en": "spring"
         },
         "词语": {
-          "pinzi": "cíyǔ",
+          "pinyin": "cíyǔ",
           "en": "terms"
         },
         "次": {
-          "pinzi": "cì",
+          "pinyin": "cì",
           "en": "second"
         },
         "聪明": {
-          "pinzi": "cōngming",
+          "pinyin": "cōngming",
           "en": "clever"
         },
         "从": {
-          "pinzi": "cóng",
+          "pinyin": "cóng",
           "en": "from"
         },
         "错": {
-          "pinzi": "cuò",
+          "pinyin": "cuò",
           "en": "Wrong"
         },
         "打电话": {
-          "pinzi": "dǎdiànhuà",
+          "pinyin": "dǎdiànhuà",
           "en": "Phone"
         },
         "打篮球": {
-          "pinzi": "dǎlánqiú",
+          "pinyin": "dǎlánqiú",
           "en": "Play basketball"
         },
         "打扫": {
-          "pinzi": "dǎsǎo",
+          "pinyin": "dǎsǎo",
           "en": "Clean"
         },
         "打算": {
-          "pinzi": "dǎsuàn",
+          "pinyin": "dǎsuàn",
           "en": "Plan"
         },
         "大": {
-          "pinzi": "dà",
+          "pinyin": "dà",
           "en": "large"
         },
         "大家": {
-          "pinzi": "dàjiā",
+          "pinyin": "dàjiā",
           "en": "everybody"
         },
         "带": {
-          "pinzi": "dài",
+          "pinyin": "dài",
           "en": "belt"
         },
         "担心": {
-          "pinzi": "dānxīn",
+          "pinyin": "dānxīn",
           "en": "Worry"
         },
         "蛋糕": {
-          "pinzi": "dàngāo",
+          "pinyin": "dàngāo",
           "en": "Cake"
         },
         "但是": {
-          "pinzi": "dànshì",
+          "pinyin": "dànshì",
           "en": "however"
         },
         "当然": {
-          "pinzi": "dāngrán",
+          "pinyin": "dāngrán",
           "en": "Of course"
         },
         "到": {
-          "pinzi": "dào",
+          "pinyin": "dào",
           "en": "reach"
         },
         "灯": {
-          "pinzi": "dēng",
+          "pinyin": "dēng",
           "en": "lamp"
         },
         "等": {
-          "pinzi": "děng",
+          "pinyin": "děng",
           "en": "etc."
         },
         "低": {
-          "pinzi": "dī",
+          "pinyin": "dī",
           "en": "low"
         },
         "弟弟": {
-          "pinzi": "dìdi",
+          "pinyin": "dìdi",
           "en": "Younger brother"
         },
         "地方": {
-          "pinzi": "dìfang",
+          "pinyin": "dìfang",
           "en": "local"
         },
         "地铁": {
-          "pinzi": "dìtiě",
+          "pinyin": "dìtiě",
           "en": "metro"
         },
         "地图": {
-          "pinzi": "dìtú",
+          "pinyin": "dìtú",
           "en": "Map"
         },
         "第一": {
-          "pinzi": "dìyī",
+          "pinyin": "dìyī",
           "en": "first"
         },
         "点": {
-          "pinzi": "diǎn",
+          "pinyin": "diǎn",
           "en": "spot"
         },
         "电脑": {
-          "pinzi": "diànnǎo",
+          "pinyin": "diànnǎo",
           "en": "Computer"
         },
         "电视": {
-          "pinzi": "diànshì",
+          "pinyin": "diànshì",
           "en": "television"
         },
         "电梯": {
-          "pinzi": "diàntī",
+          "pinyin": "diàntī",
           "en": "Elevator."
         },
         "电影": {
-          "pinzi": "diànyǐng",
+          "pinyin": "diànyǐng",
           "en": "Film"
         },
         "电子邮件": {
-          "pinzi": "diànzǐyóujiàn",
+          "pinyin": "diànzǐyóujiàn",
           "en": "E-mail"
         },
         "东": {
-          "pinzi": "dōng",
+          "pinyin": "dōng",
           "en": "east"
         },
         "东西": {
-          "pinzi": "dōngxi",
+          "pinyin": "dōngxi",
           "en": "thing"
         },
         "冬": {
-          "pinzi": "dōng",
+          "pinyin": "dōng",
           "en": "winter"
         },
         "懂": {
-          "pinzi": "dǒng",
+          "pinyin": "dǒng",
           "en": "understand"
         },
         "动物": {
-          "pinzi": "dòngwù",
+          "pinyin": "dòngwù",
           "en": "Animal"
         },
         "都": {
-          "pinzi": "dōu",
+          "pinyin": "dōu",
           "en": "all"
         },
         "读": {
-          "pinzi": "dú",
+          "pinyin": "dú",
           "en": "read"
         },
         "短": {
-          "pinzi": "duǎn",
+          "pinyin": "duǎn",
           "en": "short"
         },
         "段": {
-          "pinzi": "duàn",
+          "pinyin": "duàn",
           "en": "paragraph"
         },
         "锻炼": {
-          "pinzi": "duànliàn",
+          "pinyin": "duànliàn",
           "en": "Physical exercise"
         },
         "对": {
-          "pinzi": "duì",
+          "pinyin": "duì",
           "en": "Yes"
         },
         "对不起": {
-          "pinzi": "duìbuqǐ",
+          "pinyin": "duìbuqǐ",
           "en": "I’m sorry."
         },
         "多": {
-          "pinzi": "duō",
+          "pinyin": "duō",
           "en": "many"
         },
         "多么": {
-          "pinzi": "duōme",
+          "pinyin": "duōme",
           "en": "what"
         },
         "多少": {
-          "pinzi": "duōshao",
+          "pinyin": "duōshao",
           "en": "how much"
         },
         "饿": {
-          "pinzi": "è",
+          "pinyin": "è",
           "en": "hungry"
         },
         "而且": {
-          "pinzi": "érqiě",
+          "pinyin": "érqiě",
           "en": "And"
         },
         "儿子": {
-          "pinzi": "érzi",
+          "pinyin": "érzi",
           "en": "Son"
         },
         "耳朵": {
-          "pinzi": "ěrduo",
+          "pinyin": "ěrduo",
           "en": "Ears"
         },
         "二": {
-          "pinzi": "èr",
+          "pinyin": "èr",
           "en": "Two"
         },
         "发烧": {
-          "pinzi": "fāshāo",
+          "pinyin": "fāshāo",
           "en": "Have a fever"
         },
         "发现": {
-          "pinzi": "fāxiàn",
+          "pinyin": "fāxiàn",
           "en": "find"
         },
         "饭馆": {
-          "pinzi": "fànguǎn",
+          "pinyin": "fànguǎn",
           "en": "restaurant"
         },
         "方便": {
-          "pinzi": "fāngbiàn",
+          "pinyin": "fāngbiàn",
           "en": "convenient"
         },
         "房间": {
-          "pinzi": "fángjiān",
+          "pinyin": "fángjiān",
           "en": "Room"
         },
         "放": {
-          "pinzi": "fàng",
+          "pinyin": "fàng",
           "en": "discharge"
         },
         "放心": {
-          "pinzi": "fàngxīn",
+          "pinyin": "fàngxīn",
           "en": "Don’t worry"
         },
         "非常": {
-          "pinzi": "fēicháng",
+          "pinyin": "fēicháng",
           "en": "very"
         },
         "飞机": {
-          "pinzi": "fēijī",
+          "pinyin": "fēijī",
           "en": "aircraft"
         },
         "分": {
-          "pinzi": "fēn",
+          "pinyin": "fēn",
           "en": "branch"
         },
         "分钟": {
-          "pinzi": "fēnzhōng",
+          "pinyin": "fēnzhōng",
           "en": "Minute"
         },
         "服务员": {
-          "pinzi": "fúwùyuán",
+          "pinyin": "fúwùyuán",
           "en": "Waiter"
         },
         "附近": {
-          "pinzi": "fùjìn",
+          "pinyin": "fùjìn",
           "en": "nearby"
         },
         "复习": {
-          "pinzi": "fùxí",
+          "pinyin": "fùxí",
           "en": "Review"
         },
         "干净": {
-          "pinzi": "gānjìng",
+          "pinyin": "gānjìng",
           "en": "clean"
         },
         "敢": {
-          "pinzi": "gǎn",
+          "pinyin": "gǎn",
           "en": "dare"
         },
         "感冒": {
-          "pinzi": "gǎnmào",
+          "pinyin": "gǎnmào",
           "en": "Cold"
         },
         "刚才": {
-          "pinzi": "gāngcái",
+          "pinyin": "gāngcái",
           "en": "just"
         },
         "高": {
-          "pinzi": "gāo",
+          "pinyin": "gāo",
           "en": "high"
         },
         "高兴": {
-          "pinzi": "gāoxìng",
+          "pinyin": "gāoxìng",
           "en": "happy"
         },
         "告诉": {
-          "pinzi": "gàosu",
+          "pinyin": "gàosu",
           "en": "tell"
         },
         "哥哥": {
-          "pinzi": "gēge",
+          "pinyin": "gēge",
           "en": "brother"
         },
         "个": {
-          "pinzi": "gè",
+          "pinyin": "gè",
           "en": "individual"
         },
         "给": {
-          "pinzi": "gěi",
+          "pinyin": "gěi",
           "en": "to"
         },
         "跟": {
-          "pinzi": "gēn",
+          "pinyin": "gēn",
           "en": "with"
         },
         "根据": {
-          "pinzi": "gēnjù",
+          "pinyin": "gēnjù",
           "en": "according to"
         },
         "更": {
-          "pinzi": "gèng",
+          "pinyin": "gèng",
           "en": "more"
         },
         "公共汽车": {
-          "pinzi": "gōnggòngqìchē",
+          "pinyin": "gōnggòngqìchē",
           "en": "Bus"
         },
         "公斤": {
-          "pinzi": "gōngjīn",
+          "pinyin": "gōngjīn",
           "en": "Kg."
         },
         "公司": {
-          "pinzi": "gōngsī",
+          "pinyin": "gōngsī",
           "en": "company"
         },
         "公园": {
-          "pinzi": "gōngyuán",
+          "pinyin": "gōngyuán",
           "en": "Park"
         },
         "工作": {
-          "pinzi": "gōngzuò",
+          "pinyin": "gōngzuò",
           "en": "work"
         },
         "狗": {
-          "pinzi": "gǒu",
+          "pinyin": "gǒu",
           "en": "Dog"
         },
         "故事": {
-          "pinzi": "gùshi",
+          "pinyin": "gùshi",
           "en": "Story"
         },
         "刮风": {
-          "pinzi": "guāfēng",
+          "pinyin": "guāfēng",
           "en": "Windy"
         },
         "关": {
-          "pinzi": "guān",
+          "pinyin": "guān",
           "en": "shut"
         },
         "关系": {
-          "pinzi": "guānxì",
+          "pinyin": "guānxì",
           "en": "relationship"
         },
         "关心": {
-          "pinzi": "guānxīn",
+          "pinyin": "guānxīn",
           "en": "Care for"
         },
         "关于": {
-          "pinzi": "guānyú",
+          "pinyin": "guānyú",
           "en": "about"
         },
         "贵": {
-          "pinzi": "guì",
+          "pinyin": "guì",
           "en": "Expensive"
         },
         "国家": {
-          "pinzi": "guójiā",
+          "pinyin": "guójiā",
           "en": "Country"
         },
         "果汁": {
-          "pinzi": "guǒzhī",
+          "pinyin": "guǒzhī",
           "en": "fruit juice"
         },
         "过去": {
-          "pinzi": "guòqù",
+          "pinyin": "guòqù",
           "en": "Past times"
         },
         "过": {
-          "pinzi": "guo",
+          "pinyin": "guo",
           "en": "too"
         },
         "还": {
-          "pinzi": "huán",
+          "pinyin": "huán",
           "en": "still"
         },
         "还是": {
-          "pinzi": "háishì",
+          "pinyin": "háishì",
           "en": "still"
         },
         "孩子": {
-          "pinzi": "háizi",
+          "pinyin": "háizi",
           "en": "Children"
         },
         "害怕": {
-          "pinzi": "hàipà",
+          "pinyin": "hàipà",
           "en": "Fear"
         },
         "汉语": {
-          "pinzi": "hànyǔ",
+          "pinyin": "hànyǔ",
           "en": "Chinese"
         },
         "好": {
-          "pinzi": "hǎo",
+          "pinyin": "hǎo",
           "en": "good"
         },
         "好吃": {
-          "pinzi": "hǎochī",
+          "pinyin": "hǎochī",
           "en": "Yummy"
         },
         "号": {
-          "pinzi": "hào",
+          "pinyin": "hào",
           "en": "Number"
         },
         "喝": {
-          "pinzi": "hē",
+          "pinyin": "hē",
           "en": "drink"
         },
         "和": {
-          "pinzi": "hé",
+          "pinyin": "hé",
           "en": "and"
         },
         "河": {
-          "pinzi": "hé",
+          "pinyin": "hé",
           "en": "river"
         },
         "黑": {
-          "pinzi": "hēi",
+          "pinyin": "hēi",
           "en": "black"
         },
         "黑板": {
-          "pinzi": "hēibǎn",
+          "pinyin": "hēibǎn",
           "en": "blackboard"
         },
         "很": {
-          "pinzi": "hěn",
+          "pinyin": "hěn",
           "en": "very"
         },
         "红": {
-          "pinzi": "hóng",
+          "pinyin": "hóng",
           "en": "red"
         },
         "后面": {
-          "pinzi": "hòumiàn",
+          "pinyin": "hòumiàn",
           "en": "behind"
         },
         "护照": {
-          "pinzi": "hùzhào",
+          "pinyin": "hùzhào",
           "en": "passport"
         },
         "花 （动）": {
-          "pinzi": "huā",
+          "pinyin": "huā",
           "en": "Flower (move)"
         },
         "花园": {
-          "pinzi": "huāyuán",
+          "pinyin": "huāyuán",
           "en": "Garden"
         },
         "画": {
-          "pinzi": "huà",
+          "pinyin": "huà",
           "en": "painting"
         },
         "坏": {
-          "pinzi": "huài",
+          "pinyin": "huài",
           "en": "bad"
         },
         "欢迎": {
-          "pinzi": "huānyíng",
+          "pinyin": "huānyíng",
           "en": "Welcome"
         },
         "环境": {
-          "pinzi": "huánjìng",
+          "pinyin": "huánjìng",
           "en": "Environmental Science"
         },
         "换": {
-          "pinzi": "huàn",
+          "pinyin": "huàn",
           "en": "change"
         },
         "黄": {
-          "pinzi": "huáng",
+          "pinyin": "huáng",
           "en": "yellow"
         },
         "回": {
-          "pinzi": "huí",
+          "pinyin": "huí",
           "en": "return"
         },
         "回答": {
-          "pinzi": "huídá",
+          "pinyin": "huídá",
           "en": "Answer"
         },
         "会": {
-          "pinzi": "huì",
+          "pinyin": "huì",
           "en": "can；be able to"
         },
         "会议": {
-          "pinzi": "huìyì",
+          "pinyin": "huìyì",
           "en": "Meeting"
         },
         "火车站": {
-          "pinzi": "huǒchēzhàn",
+          "pinyin": "huǒchēzhàn",
           "en": "Train station"
         },
         "或者": {
-          "pinzi": "huòzhě",
+          "pinyin": "huòzhě",
           "en": "perhaps"
         },
         "机场": {
-          "pinzi": "jīchǎng",
+          "pinyin": "jīchǎng",
           "en": "Airport"
         },
         "鸡蛋": {
-          "pinzi": "jīdàn",
+          "pinyin": "jīdàn",
           "en": "Egg"
         },
         "几乎": {
-          "pinzi": "jīhū",
+          "pinyin": "jīhū",
           "en": "almost"
         },
         "机会": {
-          "pinzi": "jīhuì",
+          "pinyin": "jīhuì",
           "en": "Opportunity"
         },
         "极": {
-          "pinzi": "jí",
+          "pinyin": "jí",
           "en": "extremely"
         },
         "几": {
-          "pinzi": "jǐ",
+          "pinyin": "jǐ",
           "en": "several"
         },
         "记得": {
-          "pinzi": "jìde",
+          "pinyin": "jìde",
           "en": "remember"
         },
         "季节": {
-          "pinzi": "jìjié",
+          "pinyin": "jìjié",
           "en": "Season"
         },
         "家": {
-          "pinzi": "jiā",
+          "pinyin": "jiā",
           "en": "home"
         },
         "检查": {
-          "pinzi": "jiǎnchá",
+          "pinyin": "jiǎnchá",
           "en": "inspect"
         },
         "简单": {
-          "pinzi": "jiǎndān",
+          "pinyin": "jiǎndān",
           "en": "simple"
         },
         "件": {
-          "pinzi": "jiàn",
+          "pinyin": "jiàn",
           "en": "piece"
         },
         "健康": {
-          "pinzi": "jiànkāng",
+          "pinyin": "jiànkāng",
           "en": "Healthy"
         },
         "见面": {
-          "pinzi": "jiànmiàn",
+          "pinyin": "jiànmiàn",
           "en": "meet"
         },
         "讲": {
-          "pinzi": "jiǎng",
+          "pinyin": "jiǎng",
           "en": "speak"
         },
         "教": {
-          "pinzi": "jiāo",
+          "pinyin": "jiāo",
           "en": "teach"
         },
         "角": {
-          "pinzi": "jiǎo",
+          "pinyin": "jiǎo",
           "en": "horn"
         },
         "脚": {
-          "pinzi": "jiǎo",
+          "pinyin": "jiǎo",
           "en": "foot"
         },
         "叫": {
-          "pinzi": "jiào",
+          "pinyin": "jiào",
           "en": "call"
         },
         "教室": {
-          "pinzi": "jiàoshì",
+          "pinyin": "jiàoshì",
           "en": "Classroom"
         },
         "接": {
-          "pinzi": "jiē",
+          "pinyin": "jiē",
           "en": "meet"
         },
         "街道": {
-          "pinzi": "jiēdào",
+          "pinyin": "jiēdào",
           "en": "Street"
         },
         "结婚": {
-          "pinzi": "jiéhūn",
+          "pinyin": "jiéhūn",
           "en": "marry"
         },
         "结束": {
-          "pinzi": "jiéshù",
+          "pinyin": "jiéshù",
           "en": "End"
         },
         "节目": {
-          "pinzi": "jiémù",
+          "pinyin": "jiémù",
           "en": "program"
         },
         "节日": {
-          "pinzi": "jiérì",
+          "pinyin": "jiérì",
           "en": "festival"
         },
         "姐姐": {
-          "pinzi": "jiějie",
+          "pinyin": "jiějie",
           "en": "sister"
         },
         "解决": {
-          "pinzi": "jiějué",
+          "pinyin": "jiějué",
           "en": "Solve"
         },
         "借": {
-          "pinzi": "jiè",
+          "pinyin": "jiè",
           "en": "borrow"
         },
         "介绍": {
-          "pinzi": "jièshào",
+          "pinyin": "jièshào",
           "en": "introduce"
         },
         "今天": {
-          "pinzi": "jīntiān",
+          "pinyin": "jīntiān",
           "en": "Today"
         },
         "进": {
-          "pinzi": "jìn",
+          "pinyin": "jìn",
           "en": "enter"
         },
         "近": {
-          "pinzi": "jìn",
+          "pinyin": "jìn",
           "en": "near"
         },
         "经常": {
-          "pinzi": "jīngcháng",
+          "pinyin": "jīngcháng",
           "en": "Often"
         },
         "经过": {
-          "pinzi": "jīngguò",
+          "pinyin": "jīngguò",
           "en": "after"
         },
         "经理": {
-          "pinzi": "jīnglǐ",
+          "pinyin": "jīnglǐ",
           "en": "manager"
         },
         "九": {
-          "pinzi": "jiǔ",
+          "pinyin": "jiǔ",
           "en": "Nine"
         },
         "久": {
-          "pinzi": "jiǔ",
+          "pinyin": "jiǔ",
           "en": "long"
         },
         "旧": {
-          "pinzi": "jiù",
+          "pinyin": "jiù",
           "en": "used"
         },
         "举行": {
-          "pinzi": "jǔxíng",
+          "pinyin": "jǔxíng",
           "en": "hold"
         },
         "句子": {
-          "pinzi": "jùzi",
+          "pinyin": "jùzi",
           "en": "sentence"
         },
         "觉得": {
-          "pinzi": "juéde",
+          "pinyin": "juéde",
           "en": "Think"
         },
         "决定": {
-          "pinzi": "juédìng",
+          "pinyin": "juédìng",
           "en": "Decision"
         },
         "咖啡": {
-          "pinzi": "kāfēi",
+          "pinyin": "kāfēi",
           "en": "Coffee"
         },
         "开": {
-          "pinzi": "kāi",
+          "pinyin": "kāi",
           "en": "open"
         },
         "开始": {
-          "pinzi": "kāishǐ",
+          "pinyin": "kāishǐ",
           "en": "start"
         },
         "看": {
-          "pinzi": "kàn",
+          "pinyin": "kàn",
           "en": "see"
         },
         "看见": {
-          "pinzi": "kànjiàn",
+          "pinyin": "kànjiàn",
           "en": "seeing"
         },
         "考试": {
-          "pinzi": "kǎoshì",
+          "pinyin": "kǎoshì",
           "en": "Examination"
         },
         "渴": {
-          "pinzi": "kě",
+          "pinyin": "kě",
           "en": "thirsty"
         },
         "可爱": {
-          "pinzi": "kě’ài",
+          "pinyin": "kě’ài",
           "en": "Lovely"
         },
         "可能": {
-          "pinzi": "kěnéng",
+          "pinyin": "kěnéng",
           "en": "Probably"
         },
         "可以": {
-          "pinzi": "kěyǐ",
+          "pinyin": "kěyǐ",
           "en": "Sure"
         },
         "刻": {
-          "pinzi": "kè",
+          "pinyin": "kè",
           "en": "moment"
         },
         "课": {
-          "pinzi": "kè",
+          "pinyin": "kè",
           "en": "course"
         },
         "客人": {
-          "pinzi": "kèrén",
+          "pinyin": "kèrén",
           "en": "Guest"
         },
         "空调": {
-          "pinzi": "kōngtiáo",
+          "pinyin": "kōngtiáo",
           "en": "Air conditioner"
         },
         "口": {
-          "pinzi": "kǒu",
+          "pinyin": "kǒu",
           "en": "mouth"
         },
         "哭": {
-          "pinzi": "kū",
+          "pinyin": "kū",
           "en": "cry"
         },
         "裤子": {
-          "pinzi": "kùzi",
+          "pinyin": "kùzi",
           "en": "trousers"
         },
         "块": {
-          "pinzi": "kuài",
+          "pinyin": "kuài",
           "en": "block"
         },
         "快": {
-          "pinzi": "kuài",
+          "pinyin": "kuài",
           "en": "fast"
         },
         "快乐": {
-          "pinzi": "kuàilè",
+          "pinyin": "kuàilè",
           "en": "happy"
         },
         "筷子": {
-          "pinzi": "kuàizi",
+          "pinyin": "kuàizi",
           "en": "chopsticks"
         },
         "来": {
-          "pinzi": "lái",
+          "pinyin": "lái",
           "en": "come"
         },
         "蓝": {
-          "pinzi": "lán",
+          "pinyin": "lán",
           "en": "blue"
         },
         "老": {
-          "pinzi": "lǎo",
+          "pinyin": "lǎo",
           "en": "old"
         },
         "老师": {
-          "pinzi": "lǎoshī",
+          "pinyin": "lǎoshī",
           "en": "Teacher"
         },
         "累": {
-          "pinzi": "lèi",
+          "pinyin": "lèi",
           "en": "tired"
         },
         "冷": {
-          "pinzi": "lěng",
+          "pinyin": "lěng",
           "en": "cold"
         },
         "离": {
-          "pinzi": "lí",
+          "pinyin": "lí",
           "en": "leave"
         },
         "离开": {
-          "pinzi": "líkāi",
+          "pinyin": "líkāi",
           "en": "leave"
         },
         "里": {
-          "pinzi": "lǐ",
+          "pinyin": "lǐ",
           "en": "in"
         },
         "礼物": {
-          "pinzi": "lǐwù",
+          "pinyin": "lǐwù",
           "en": "gift"
         },
         "历史": {
-          "pinzi": "lìshǐ",
+          "pinyin": "lìshǐ",
           "en": "History"
         },
         "脸": {
-          "pinzi": "liǎn",
+          "pinyin": "liǎn",
           "en": "face"
         },
         "练习": {
-          "pinzi": "liànxí",
+          "pinyin": "liànxí",
           "en": "Practice"
         },
         "两": {
-          "pinzi": "liǎng",
+          "pinyin": "liǎng",
           "en": "Two"
         },
         "辆": {
-          "pinzi": "liàng",
+          "pinyin": "liàng",
           "en": "Car"
         },
         "了解": {
-          "pinzi": "liǎojiě",
+          "pinyin": "liǎojiě",
           "en": "understand"
         },
         "邻居": {
-          "pinzi": "línjū",
+          "pinyin": "línjū",
           "en": "neighbor"
         },
         "零": {
-          "pinzi": "líng",
+          "pinyin": "líng",
           "en": "Zero"
         },
         "六": {
-          "pinzi": "liù",
+          "pinyin": "liù",
           "en": "Six"
         },
         "楼": {
-          "pinzi": "lóu",
+          "pinyin": "lóu",
           "en": "floor"
         },
         "路": {
-          "pinzi": "lù",
+          "pinyin": "lù",
           "en": "road"
         },
         "旅游": {
-          "pinzi": "lǚyóu",
+          "pinyin": "lǚyóu",
           "en": "Tourism"
         },
         "绿": {
-          "pinzi": "lǜ",
+          "pinyin": "lǜ",
           "en": "green"
         },
         "妈妈": {
-          "pinzi": "māma",
+          "pinyin": "māma",
           "en": "Mom"
         },
         "马": {
-          "pinzi": "mǎ",
+          "pinyin": "mǎ",
           "en": "Horse"
         },
         "马上": {
-          "pinzi": "mǎshàng",
+          "pinyin": "mǎshàng",
           "en": "Right off"
         },
         "买": {
-          "pinzi": "mǎi",
+          "pinyin": "mǎi",
           "en": "buy"
         },
         "卖": {
-          "pinzi": "mài",
+          "pinyin": "mài",
           "en": "sell"
         },
         "满意": {
-          "pinzi": "mǎnyì",
+          "pinyin": "mǎnyì",
           "en": "Satisfied"
         },
         "慢": {
-          "pinzi": "màn",
+          "pinyin": "màn",
           "en": "slow"
         },
         "忙": {
-          "pinzi": "máng",
+          "pinyin": "máng",
           "en": "busy"
         },
         "猫": {
-          "pinzi": "māo",
+          "pinyin": "māo",
           "en": "cat"
         },
         "帽子": {
-          "pinzi": "màozi",
+          "pinyin": "màozi",
           "en": "Hat"
         },
         "没": {
-          "pinzi": "méi",
+          "pinyin": "méi",
           "en": "no"
         },
         "没关系": {
-          "pinzi": "méiguānxi",
+          "pinyin": "méiguānxi",
           "en": "No problem"
         },
         "每": {
-          "pinzi": "měi",
+          "pinyin": "měi",
           "en": "each"
         },
         "妹妹": {
-          "pinzi": "mèimei",
+          "pinyin": "mèimei",
           "en": "Younger sister"
         },
         "门": {
-          "pinzi": "mén",
+          "pinyin": "mén",
           "en": "door"
         },
         "米": {
-          "pinzi": "mǐ",
+          "pinyin": "mǐ",
           "en": "rice"
         },
         "米饭": {
-          "pinzi": "mǐfàn",
+          "pinyin": "mǐfàn",
           "en": "Steamed Rice"
         },
         "面包": {
-          "pinzi": "miànbāo",
+          "pinyin": "miànbāo",
           "en": "Bread"
         },
         "面条": {
-          "pinzi": "miàntiáo",
+          "pinyin": "miàntiáo",
           "en": "noodle"
         },
         "明白": {
-          "pinzi": "míngbai",
+          "pinyin": "míngbai",
           "en": "clear"
         },
         "明天": {
-          "pinzi": "míngtiān",
+          "pinyin": "míngtiān",
           "en": "Tomorrow"
         },
         "名字": {
-          "pinzi": "míngzi",
+          "pinyin": "míngzi",
           "en": "Name"
         },
         "拿": {
-          "pinzi": "ná",
+          "pinyin": "ná",
           "en": "take"
         },
         "哪 （哪儿）": {
-          "pinzi": "nǎ(nǎr)",
+          "pinyin": "nǎ(nǎr)",
           "en": "Which (where)"
         },
         "那 （那儿）": {
-          "pinzi": "nà(nàr)",
+          "pinyin": "nà(nàr)",
           "en": "That (there)"
         },
         "奶奶": {
-          "pinzi": "nǎinai",
+          "pinyin": "nǎinai",
           "en": "grandma"
         },
         "南": {
-          "pinzi": "nán",
+          "pinyin": "nán",
           "en": "south"
         },
         "男人": {
-          "pinzi": "nánrén",
+          "pinyin": "nánrén",
           "en": "Man"
         },
         "难": {
-          "pinzi": "nán",
+          "pinyin": "nán",
           "en": "disaster; blame"
         },
         "难过": {
-          "pinzi": "nánguò",
+          "pinyin": "nánguò",
           "en": "Sorry"
         },
         "能": {
-          "pinzi": "néng",
+          "pinyin": "néng",
           "en": "can"
         },
         "你": {
-          "pinzi": "nǐ",
+          "pinyin": "nǐ",
           "en": "you"
         },
         "年": {
-          "pinzi": "nián",
+          "pinyin": "nián",
           "en": "year"
         },
         "年级": {
-          "pinzi": "niánjí",
+          "pinyin": "niánjí",
           "en": "grade"
         },
         "年轻": {
-          "pinzi": "niánqīng",
+          "pinyin": "niánqīng",
           "en": "Young"
         },
         "鸟": {
-          "pinzi": "niǎo",
+          "pinyin": "niǎo",
           "en": "bird"
         },
         "您": {
-          "pinzi": "nín",
+          "pinyin": "nín",
           "en": "you"
         },
         "牛奶": {
-          "pinzi": "niúnǎi",
+          "pinyin": "niúnǎi",
           "en": "milk"
         },
         "努力": {
-          "pinzi": "nǔlì",
+          "pinyin": "nǔlì",
           "en": "Strive"
         },
         "女儿": {
-          "pinzi": "nǚ’ér",
+          "pinyin": "nǚ’ér",
           "en": "daughter"
         },
         "女人": {
-          "pinzi": "nǚrén",
+          "pinyin": "nǚrén",
           "en": "woman"
         },
         "爬山": {
-          "pinzi": "páshān",
+          "pinyin": "páshān",
           "en": "Mountain climbing"
         },
         "盘子": {
-          "pinzi": "pánzi",
+          "pinyin": "pánzi",
           "en": "plate"
         },
         "旁边": {
-          "pinzi": "pángbiān",
+          "pinyin": "pángbiān",
           "en": "Side"
         },
         "胖": {
-          "pinzi": "pàng",
+          "pinyin": "pàng",
           "en": "fat"
         },
         "跑步": {
-          "pinzi": "pǎobù",
+          "pinyin": "pǎobù",
           "en": "Run"
         },
         "朋友": {
-          "pinzi": "péngyou",
+          "pinyin": "péngyou",
           "en": "Friend"
         },
         "啤酒": {
-          "pinzi": "píjiǔ",
+          "pinyin": "píjiǔ",
           "en": "Beer"
         },
         "便宜": {
-          "pinzi": "piányi",
+          "pinyin": "piányi",
           "en": "Cheap"
         },
         "票": {
-          "pinzi": "piào",
+          "pinyin": "piào",
           "en": "ticket"
         },
         "漂亮": {
-          "pinzi": "piàoliang",
+          "pinyin": "piàoliang",
           "en": "Well done!"
         },
         "苹果": {
-          "pinzi": "píngguǒ",
+          "pinyin": "píngguǒ",
           "en": "Apple"
         },
         "葡萄": {
-          "pinzi": "pútao",
+          "pinyin": "pútao",
           "en": "Grape"
         },
         "普通话": {
-          "pinzi": "pǔtōnghuà",
+          "pinyin": "pǔtōnghuà",
           "en": "Mandarin"
         },
         "七": {
-          "pinzi": "qī",
+          "pinyin": "qī",
           "en": "Seven"
         },
         "妻子": {
-          "pinzi": "qīzi",
+          "pinyin": "qīzi",
           "en": "Wife"
         },
         "其实": {
-          "pinzi": "qíshí",
+          "pinyin": "qíshí",
           "en": "actually"
         },
         "其他": {
-          "pinzi": "qítā",
+          "pinyin": "qítā",
           "en": "Other"
         },
         "骑": {
-          "pinzi": "qí",
+          "pinyin": "qí",
           "en": "ride"
         },
         "奇怪": {
-          "pinzi": "qíguài",
+          "pinyin": "qíguài",
           "en": "strange"
         },
         "起床": {
-          "pinzi": "qǐchuáng",
+          "pinyin": "qǐchuáng",
           "en": "Get up"
         },
         "千": {
-          "pinzi": "qiān",
+          "pinyin": "qiān",
           "en": "thousand"
         },
         "铅笔": {
-          "pinzi": "qiānbǐ",
+          "pinyin": "qiānbǐ",
           "en": "pencil"
         },
         "钱": {
-          "pinzi": "qián",
+          "pinyin": "qián",
           "en": "money"
         },
         "前面": {
-          "pinzi": "qiánmiàn",
+          "pinyin": "qiánmiàn",
           "en": "Front"
         },
         "清楚": {
-          "pinzi": "qīngchu",
+          "pinyin": "qīngchu",
           "en": "clear"
         },
         "晴": {
-          "pinzi": "qíng",
+          "pinyin": "qíng",
           "en": "Sunny"
         },
         "请": {
-          "pinzi": "qǐng",
+          "pinyin": "qǐng",
           "en": "please"
         },
         "秋": {
-          "pinzi": "qiū",
+          "pinyin": "qiū",
           "en": "autumn"
         },
         "去": {
-          "pinzi": "qù",
+          "pinyin": "qù",
           "en": "go"
         },
         "去年": {
-          "pinzi": "qùnián",
+          "pinyin": "qùnián",
           "en": "Last year"
         },
         "裙子": {
-          "pinzi": "qúnzi",
+          "pinyin": "qúnzi",
           "en": "skirt"
         },
         "然后": {
-          "pinzi": "ránhòu",
+          "pinyin": "ránhòu",
           "en": "Then"
         },
         "让": {
-          "pinzi": "ràng",
+          "pinyin": "ràng",
           "en": "Give Way"
         },
         "热": {
-          "pinzi": "rè",
+          "pinyin": "rè",
           "en": "heat"
         },
         "热情": {
-          "pinzi": "rèqíng",
+          "pinyin": "rèqíng",
           "en": "Enthusiasm"
         },
         "人": {
-          "pinzi": "rén",
+          "pinyin": "rén",
           "en": "people"
         },
         "认识": {
-          "pinzi": "rènshi",
+          "pinyin": "rènshi",
           "en": "know"
         },
         "认为": {
-          "pinzi": "rènwéi",
+          "pinyin": "rènwéi",
           "en": "think"
         },
         "认真": {
-          "pinzi": "rènzhēn",
+          "pinyin": "rènzhēn",
           "en": "earnest"
         },
         "日": {
-          "pinzi": "rì",
+          "pinyin": "rì",
           "en": "day"
         },
         "容易": {
-          "pinzi": "róngyì",
+          "pinyin": "róngyì",
           "en": "easily"
         },
         "如果": {
-          "pinzi": "rúguǒ",
+          "pinyin": "rúguǒ",
           "en": "If"
         },
         "三": {
-          "pinzi": "sān",
+          "pinyin": "sān",
           "en": "Three"
         },
         "伞": {
-          "pinzi": "sǎn",
+          "pinyin": "sǎn",
           "en": "umbrella"
         },
         "商店": {
-          "pinzi": "shāngdiàn",
+          "pinyin": "shāngdiàn",
           "en": "Shop"
         },
         "上": {
-          "pinzi": "shàng",
+          "pinyin": "shàng",
           "en": "upper"
         },
         "上班": {
-          "pinzi": "shàngbān",
+          "pinyin": "shàngbān",
           "en": "go to work"
         },
         "上网": {
-          "pinzi": "shàngwǎng",
+          "pinyin": "shàngwǎng",
           "en": "Surf the Internet"
         },
         "上午": {
-          "pinzi": "shàngwǔ",
+          "pinyin": "shàngwǔ",
           "en": "morning"
         },
         "少": {
-          "pinzi": "shǎo",
+          "pinyin": "shǎo",
           "en": "less"
         },
         "谁": {
-          "pinzi": "shéi",
+          "pinyin": "shéi",
           "en": "who"
         },
         "身体": {
-          "pinzi": "shēntǐ",
+          "pinyin": "shēntǐ",
           "en": "body"
         },
         "什么": {
-          "pinzi": "shénme",
+          "pinyin": "shénme",
           "en": "What"
         },
         "生病": {
-          "pinzi": "shēngbìng",
+          "pinyin": "shēngbìng",
           "en": "Fall ill"
         },
         "生气": {
-          "pinzi": "shēngqì",
+          "pinyin": "shēngqì",
           "en": "get angry"
         },
         "生日": {
-          "pinzi": "shēngrì",
+          "pinyin": "shēngrì",
           "en": "Birthday"
         },
         "声音": {
-          "pinzi": "shēngyīn",
+          "pinyin": "shēngyīn",
           "en": "voice"
         },
         "十": {
-          "pinzi": "shí",
+          "pinyin": "shí",
           "en": "Ten"
         },
         "时候": {
-          "pinzi": "shíhou",
+          "pinyin": "shíhou",
           "en": "time"
         },
         "时间": {
-          "pinzi": "shíjiān",
+          "pinyin": "shíjiān",
           "en": "time"
         },
         "使": {
-          "pinzi": "shǐ",
+          "pinyin": "shǐ",
           "en": "send"
         },
         "是": {
-          "pinzi": "shì",
+          "pinyin": "shì",
           "en": "yes"
         },
         "世界": {
-          "pinzi": "shìjiè",
+          "pinyin": "shìjiè",
           "en": "world"
         },
         "事情": {
-          "pinzi": "shìqing",
+          "pinyin": "shìqing",
           "en": "Thing"
         },
         "手表": {
-          "pinzi": "shǒubiǎo",
+          "pinyin": "shǒubiǎo",
           "en": "Wrist Watch"
         },
         "手机": {
-          "pinzi": "shǒujī",
+          "pinyin": "shǒujī",
           "en": "Mobile phone"
         },
         "瘦": {
-          "pinzi": "shòu",
+          "pinyin": "shòu",
           "en": "thin"
         },
         "书": {
-          "pinzi": "shū",
+          "pinyin": "shū",
           "en": "book"
         },
         "舒服": {
-          "pinzi": "shūfu",
+          "pinyin": "shūfu",
           "en": "comfortable"
         },
         "叔叔": {
-          "pinzi": "shūshu",
+          "pinyin": "shūshu",
           "en": "uncle"
         },
         "树": {
-          "pinzi": "shù",
+          "pinyin": "shù",
           "en": "tree"
         },
         "数学": {
-          "pinzi": "shùxué",
+          "pinyin": "shùxué",
           "en": "Mathematics"
         },
         "刷牙": {
-          "pinzi": "shuāyá",
+          "pinyin": "shuāyá",
           "en": "Brush one’s teeth"
         },
         "双": {
-          "pinzi": "shuāng",
+          "pinyin": "shuāng",
           "en": "double"
         },
         "水": {
-          "pinzi": "shuǐ",
+          "pinyin": "shuǐ",
           "en": "water"
         },
         "水果": {
-          "pinzi": "shuǐguǒ",
+          "pinyin": "shuǐguǒ",
           "en": "Fruits"
         },
         "水平": {
-          "pinzi": "shuǐpíng",
+          "pinyin": "shuǐpíng",
           "en": "level"
         },
         "睡觉": {
-          "pinzi": "shuìjiào",
+          "pinyin": "shuìjiào",
           "en": "sleep"
         },
         "说话": {
-          "pinzi": "shuōhuà",
+          "pinyin": "shuōhuà",
           "en": "speak"
         },
         "司机": {
-          "pinzi": "sījī",
+          "pinyin": "sījī",
           "en": "Driver"
         },
         "四": {
-          "pinzi": "sì",
+          "pinyin": "sì",
           "en": "Four"
         },
         "送": {
-          "pinzi": "sòng",
+          "pinyin": "sòng",
           "en": "give"
         },
         "虽然": {
-          "pinzi": "suīrán",
+          "pinyin": "suīrán",
           "en": "although"
         },
         "岁": {
-          "pinzi": "suì",
+          "pinyin": "suì",
           "en": "year"
         },
         "所以": {
-          "pinzi": "suǒyǐ",
+          "pinyin": "suǒyǐ",
           "en": "therefore"
         },
         "他": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "he"
         },
         "她": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "she"
         },
         "它": {
-          "pinzi": "tā",
+          "pinyin": "tā",
           "en": "it"
         },
         "太": {
-          "pinzi": "tài",
+          "pinyin": "tài",
           "en": "too"
         },
         "太阳": {
-          "pinzi": "tàiyáng",
+          "pinyin": "tàiyáng",
           "en": "sunlight"
         },
         "糖": {
-          "pinzi": "táng",
+          "pinyin": "táng",
           "en": "sugar"
         },
         "特别": {
-          "pinzi": "tèbié",
+          "pinyin": "tèbié",
           "en": "Especially"
         },
         "疼": {
-          "pinzi": "téng",
+          "pinyin": "téng",
           "en": "They hurt"
         },
         "踢足球": {
-          "pinzi": "tīzúqiú",
+          "pinyin": "tīzúqiú",
           "en": "Play football"
         },
         "题": {
-          "pinzi": "tí",
+          "pinyin": "tí",
           "en": "topic"
         },
         "提高": {
-          "pinzi": "tígāo",
+          "pinyin": "tígāo",
           "en": "increase"
         },
         "体育": {
-          "pinzi": "tǐyù",
+          "pinyin": "tǐyù",
           "en": "Sports"
         },
         "天气": {
-          "pinzi": "tiānqì",
+          "pinyin": "tiānqì",
           "en": "weather"
         },
         "甜": {
-          "pinzi": "tián",
+          "pinyin": "tián",
           "en": "sweet"
         },
         "条": {
-          "pinzi": "tiáo",
+          "pinyin": "tiáo",
           "en": "strip"
         },
         "跳舞": {
-          "pinzi": "tiàowǔ",
+          "pinyin": "tiàowǔ",
           "en": "dance"
         },
         "听": {
-          "pinzi": "tīng",
+          "pinyin": "tīng",
           "en": "hear"
         },
         "同事": {
-          "pinzi": "tóngshì",
+          "pinyin": "tóngshì",
           "en": "Colleague"
         },
         "同学": {
-          "pinzi": "tóngxué",
+          "pinyin": "tóngxué",
           "en": "Classmate"
         },
         "同意": {
-          "pinzi": "tóngyì",
+          "pinyin": "tóngyì",
           "en": "Agree"
         },
         "头发": {
-          "pinzi": "tóufa",
+          "pinyin": "tóufa",
           "en": "Hair"
         },
         "突然": {
-          "pinzi": "tūrán",
+          "pinyin": "tūrán",
           "en": "suddenly"
         },
         "图书馆": {
-          "pinzi": "túshūguǎn",
+          "pinyin": "túshūguǎn",
           "en": "Library"
         },
         "腿": {
-          "pinzi": "tuǐ",
+          "pinyin": "tuǐ",
           "en": "leg"
         },
         "外": {
-          "pinzi": "wài",
+          "pinyin": "wài",
           "en": "abroad"
         },
         "完": {
-          "pinzi": "wán",
+          "pinyin": "wán",
           "en": "finish"
         },
         "完成": {
-          "pinzi": "wánchéng",
+          "pinyin": "wánchéng",
           "en": "complete"
         },
         "玩": {
-          "pinzi": "wán",
+          "pinyin": "wán",
           "en": "play"
         },
         "碗": {
-          "pinzi": "wǎn",
+          "pinyin": "wǎn",
           "en": "bowl"
         },
         "晚上": {
-          "pinzi": "wǎnshang",
+          "pinyin": "wǎnshang",
           "en": "Night"
         },
         "万": {
-          "pinzi": "wàn",
+          "pinyin": "wàn",
           "en": "ten thousand"
         },
         "忘记": {
-          "pinzi": "wàngjì",
+          "pinyin": "wàngjì",
           "en": "forget"
         },
         "喂": {
-          "pinzi": "wèi",
+          "pinyin": "wèi",
           "en": "feed"
         },
         "为": {
-          "pinzi": "wèi",
+          "pinyin": "wèi",
           "en": "by"
         },
         "为了": {
-          "pinzi": "wèile",
+          "pinyin": "wèile",
           "en": "in order to"
         },
         "为什么": {
-          "pinzi": "wèishénme",
+          "pinyin": "wèishénme",
           "en": "Why"
         },
         "位": {
-          "pinzi": "wèi",
+          "pinyin": "wèi",
           "en": "position"
         },
         "文化": {
-          "pinzi": "wénhuà",
+          "pinyin": "wénhuà",
           "en": "Culture"
         },
         "问": {
-          "pinzi": "wèn",
+          "pinyin": "wèn",
           "en": "ask"
         },
         "问题": {
-          "pinzi": "wèntí",
+          "pinyin": "wèntí",
           "en": "problem"
         },
         "我": {
-          "pinzi": "wǒ",
+          "pinyin": "wǒ",
           "en": "I"
         },
         "我们": {
-          "pinzi": "wǒmen",
+          "pinyin": "wǒmen",
           "en": "We"
         },
         "五": {
-          "pinzi": "wǔ",
+          "pinyin": "wǔ",
           "en": "Five"
         },
         "西": {
-          "pinzi": "xī",
+          "pinyin": "xī",
           "en": "west"
         },
         "西瓜": {
-          "pinzi": "xīguā",
+          "pinyin": "xīguā",
           "en": "watermelon"
         },
         "希望": {
-          "pinzi": "xīwàng",
+          "pinyin": "xīwàng",
           "en": "hope"
         },
         "习惯": {
-          "pinzi": "xíguàn",
+          "pinyin": "xíguàn",
           "en": "Habit"
         },
         "洗": {
-          "pinzi": "xǐ",
+          "pinyin": "xǐ",
           "en": "wash"
         },
         "洗手间": {
-          "pinzi": "xǐshǒujiān",
+          "pinyin": "xǐshǒujiān",
           "en": "Restroom"
         },
         "洗澡": {
-          "pinzi": "xǐzǎo",
+          "pinyin": "xǐzǎo",
           "en": "Take a shower"
         },
         "喜欢": {
-          "pinzi": "xǐhuan",
+          "pinyin": "xǐhuan",
           "en": "like"
         },
         "下": {
-          "pinzi": "xià",
+          "pinyin": "xià",
           "en": "lower"
         },
         "下午": {
-          "pinzi": "xiàwǔ",
+          "pinyin": "xiàwǔ",
           "en": "Afternoon"
         },
         "下雨": {
-          "pinzi": "xiàyǔ",
+          "pinyin": "xiàyǔ",
           "en": "rain"
         },
         "夏": {
-          "pinzi": "xià",
+          "pinyin": "xià",
           "en": "summer"
         },
         "先": {
-          "pinzi": "xiān",
+          "pinyin": "xiān",
           "en": "before"
         },
         "先生": {
-          "pinzi": "xiānsheng",
+          "pinyin": "xiānsheng",
           "en": "Sir"
         },
         "现在": {
-          "pinzi": "xiànzài",
+          "pinyin": "xiànzài",
           "en": "Now"
         },
         "香蕉": {
-          "pinzi": "xiāngjiāo",
+          "pinyin": "xiāngjiāo",
           "en": "Banana"
         },
         "相同": {
-          "pinzi": "xiāngtóng",
+          "pinyin": "xiāngtóng",
           "en": "identical"
         },
         "相信": {
-          "pinzi": "xiāngxìn",
+          "pinyin": "xiāngxìn",
           "en": "believe"
         },
         "想": {
-          "pinzi": "xiǎng",
+          "pinyin": "xiǎng",
           "en": "think"
         },
         "向": {
-          "pinzi": "xiàng",
+          "pinyin": "xiàng",
           "en": "towards"
         },
         "像": {
-          "pinzi": "xiàng",
+          "pinyin": "xiàng",
           "en": "image"
         },
         "小": {
-          "pinzi": "xiǎo",
+          "pinyin": "xiǎo",
           "en": "Small"
         },
         "小姐": {
-          "pinzi": "xiǎojiě",
+          "pinyin": "xiǎojiě",
           "en": "Miss"
         },
         "小时": {
-          "pinzi": "xiǎoshí",
+          "pinyin": "xiǎoshí",
           "en": "hour"
         },
         "小心": {
-          "pinzi": "xiǎoxīn",
+          "pinyin": "xiǎoxīn",
           "en": "Look out"
         },
         "笑": {
-          "pinzi": "xiào",
+          "pinyin": "xiào",
           "en": "laugh"
         },
         "校长": {
-          "pinzi": "xiàozhǎng",
+          "pinyin": "xiàozhǎng",
           "en": "Principal"
         },
         "些": {
-          "pinzi": "xiē",
+          "pinyin": "xiē",
           "en": "some"
         },
         "鞋": {
-          "pinzi": "xié",
+          "pinyin": "xié",
           "en": "shoes"
         },
         "写": {
-          "pinzi": "xiě",
+          "pinyin": "xiě",
           "en": "write"
         },
         "谢谢": {
-          "pinzi": "xièxie",
+          "pinyin": "xièxie",
           "en": "Thank you"
         },
         "新": {
-          "pinzi": "xīn",
+          "pinyin": "xīn",
           "en": "new"
         },
         "新闻": {
-          "pinzi": "xīnwén",
+          "pinyin": "xīnwén",
           "en": "Journalism"
         },
         "新鲜": {
-          "pinzi": "xīnxiān",
+          "pinyin": "xīnxiān",
           "en": "fresh"
         },
         "信": {
-          "pinzi": "xìn",
+          "pinyin": "xìn",
           "en": "letter"
         },
         "星期": {
-          "pinzi": "xīngqī",
+          "pinyin": "xīngqī",
           "en": "week"
         },
         "行李箱": {
-          "pinzi": "xínglixiāng",
+          "pinyin": "xínglixiāng",
           "en": "Trunk"
         },
         "姓": {
-          "pinzi": "xìng",
+          "pinyin": "xìng",
           "en": "surname"
         },
         "兴趣": {
-          "pinzi": "xìngqù",
+          "pinyin": "xìngqù",
           "en": "Interest"
         },
         "熊猫": {
-          "pinzi": "xióngmāo",
+          "pinyin": "xióngmāo",
           "en": "Panda"
         },
         "休息": {
-          "pinzi": "xiūxi",
+          "pinyin": "xiūxi",
           "en": "Rest"
         },
         "需要": {
-          "pinzi": "xūyào",
+          "pinyin": "xūyào",
           "en": "Need"
         },
         "选择": {
-          "pinzi": "xuǎnzé",
+          "pinyin": "xuǎnzé",
           "en": "Choice"
         },
         "学生": {
-          "pinzi": "xuésheng",
+          "pinyin": "xuésheng",
           "en": "Student"
         },
         "学习": {
-          "pinzi": "xuéxí",
+          "pinyin": "xuéxí",
           "en": "Study"
         },
         "学校": {
-          "pinzi": "xuéxiào",
+          "pinyin": "xuéxiào",
           "en": "School"
         },
         "雪": {
-          "pinzi": "xuě",
+          "pinyin": "xuě",
           "en": "Snow"
         },
         "颜色": {
-          "pinzi": "yánsè",
+          "pinyin": "yánsè",
           "en": "colour"
         },
         "眼镜": {
-          "pinzi": "yǎnjìng",
+          "pinyin": "yǎnjìng",
           "en": "glasses"
         },
         "眼睛": {
-          "pinzi": "yǎnjing",
+          "pinyin": "yǎnjing",
           "en": "Eye"
         },
         "羊肉": {
-          "pinzi": "yángròu",
+          "pinyin": "yángròu",
           "en": "mutton"
         },
         "要求": {
-          "pinzi": "yāoqiú",
+          "pinyin": "yāoqiú",
           "en": "Requirement"
         },
         "药": {
-          "pinzi": "yào",
+          "pinyin": "yào",
           "en": "drug"
         },
         "要": {
-          "pinzi": "yào",
+          "pinyin": "yào",
           "en": "want"
         },
         "爷爷": {
-          "pinzi": "yéye",
+          "pinyin": "yéye",
           "en": "grandpa"
         },
         "也": {
-          "pinzi": "yě",
+          "pinyin": "yě",
           "en": "also"
         },
         "一": {
-          "pinzi": "yī",
+          "pinyin": "yī",
           "en": "One"
         },
         "衣服": {
-          "pinzi": "yīfu",
+          "pinyin": "yīfu",
           "en": "clothes"
         },
         "医生": {
-          "pinzi": "yīshēng",
+          "pinyin": "yīshēng",
           "en": "Doctor"
         },
         "医院": {
-          "pinzi": "yīyuàn",
+          "pinyin": "yīyuàn",
           "en": "Hospital"
         },
         "一定": {
-          "pinzi": "yídìng",
+          "pinyin": "yídìng",
           "en": "Certain"
         },
         "一共": {
-          "pinzi": "yígòng",
+          "pinyin": "yígòng",
           "en": "Altogether"
         },
         "一会儿": {
-          "pinzi": "yíhuìr",
+          "pinyin": "yíhuìr",
           "en": "A little while"
         },
         "一样": {
-          "pinzi": "yíyàng",
+          "pinyin": "yíyàng",
           "en": "equally"
         },
         "以后": {
-          "pinzi": "yǐhòu",
+          "pinyin": "yǐhòu",
           "en": "In the future"
         },
         "以前": {
-          "pinzi": "yǐqián",
+          "pinyin": "yǐqián",
           "en": "before"
         },
         "以为": {
-          "pinzi": "yǐwéi",
+          "pinyin": "yǐwéi",
           "en": "Think"
         },
         "已经": {
-          "pinzi": "yǐjīng",
+          "pinyin": "yǐjīng",
           "en": "Already"
         },
         "椅子": {
-          "pinzi": "yǐzi",
+          "pinyin": "yǐzi",
           "en": "Chair"
         },
         "一般": {
-          "pinzi": "yìbān",
+          "pinyin": "yìbān",
           "en": "commonly"
         },
         "一边": {
-          "pinzi": "yìbiān",
+          "pinyin": "yìbiān",
           "en": "One side"
         },
         "一起": {
-          "pinzi": "yìqǐ",
+          "pinyin": "yìqǐ",
           "en": "together"
         },
         "一直": {
-          "pinzi": "yìzhí",
+          "pinyin": "yìzhí",
           "en": "always"
         },
         "意思": {
-          "pinzi": "yìsi",
+          "pinyin": "yìsi",
           "en": "Meaning"
         },
         "阴": {
-          "pinzi": "yīn",
+          "pinyin": "yīn",
           "en": "Yin"
         },
         "因为": {
-          "pinzi": "yīnwèi",
+          "pinyin": "yīnwèi",
           "en": "because"
         },
         "音乐": {
-          "pinzi": "yīnyuè",
+          "pinyin": "yīnyuè",
           "en": "Music"
         },
         "银行": {
-          "pinzi": "yínháng",
+          "pinyin": "yínháng",
           "en": "Bank"
         },
         "应该": {
-          "pinzi": "yīnggāi",
+          "pinyin": "yīnggāi",
           "en": "Should"
         },
         "影响": {
-          "pinzi": "yǐngxiǎng",
+          "pinyin": "yǐngxiǎng",
           "en": "Influence"
         },
         "用": {
-          "pinzi": "yòng",
+          "pinyin": "yòng",
           "en": "use"
         },
         "游戏": {
-          "pinzi": "yóuxì",
+          "pinyin": "yóuxì",
           "en": "Game"
         },
         "游泳": {
-          "pinzi": "yóuyǒng",
+          "pinyin": "yóuyǒng",
           "en": "Swimming"
         },
         "有": {
-          "pinzi": "yǒu",
+          "pinyin": "yǒu",
           "en": "have"
         },
         "有名": {
-          "pinzi": "yǒumíng",
+          "pinyin": "yǒumíng",
           "en": "Famous"
         },
         "又": {
-          "pinzi": "yòu",
+          "pinyin": "yòu",
           "en": "also"
         },
         "右边": {
-          "pinzi": "yòubian",
+          "pinyin": "yòubian",
           "en": "Right"
         },
         "鱼": {
-          "pinzi": "yú",
+          "pinyin": "yú",
           "en": "fish"
         },
         "遇到": {
-          "pinzi": "yùdào",
+          "pinyin": "yùdào",
           "en": "encounter"
         },
         "元": {
-          "pinzi": "yuán",
+          "pinyin": "yuán",
           "en": "element"
         },
         "远": {
-          "pinzi": "yuǎn",
+          "pinyin": "yuǎn",
           "en": "far"
         },
         "愿意": {
-          "pinzi": "yuànyì",
+          "pinyin": "yuànyì",
           "en": "Be willing"
         },
         "月": {
-          "pinzi": "yuè",
+          "pinyin": "yuè",
           "en": "month"
         },
         "月亮": {
-          "pinzi": "yuèliang",
+          "pinyin": "yuèliang",
           "en": "Moon"
         },
         "越": {
-          "pinzi": "yuè",
+          "pinyin": "yuè",
           "en": "The more"
         },
         "云": {
-          "pinzi": "yún",
+          "pinyin": "yún",
           "en": "cloud"
         },
         "运动": {
-          "pinzi": "yùndòng",
+          "pinyin": "yùndòng",
           "en": "motion"
         },
         "在": {
-          "pinzi": "zài",
+          "pinyin": "zài",
           "en": "stay"
         },
         "再": {
-          "pinzi": "zài",
+          "pinyin": "zài",
           "en": "again"
         },
         "再见": {
-          "pinzi": "zàijiàn",
+          "pinyin": "zàijiàn",
           "en": "Bye"
         },
         "早上": {
-          "pinzi": "zǎoshang",
+          "pinyin": "zǎoshang",
           "en": "Morning"
         },
         "怎么": {
-          "pinzi": "zěnme",
+          "pinyin": "zěnme",
           "en": "How"
         },
         "怎么样": {
-          "pinzi": "zěnmeyàng",
+          "pinyin": "zěnmeyàng",
           "en": "How"
         },
         "站": {
-          "pinzi": "zhàn",
+          "pinyin": "zhàn",
           "en": "station"
         },
         "张": {
-          "pinzi": "zhāng",
+          "pinyin": "zhāng",
           "en": "Zhang"
         },
         "丈夫": {
-          "pinzi": "zhàngfu",
+          "pinyin": "zhàngfu",
           "en": "husband"
         },
         "着急": {
-          "pinzi": "zháojí",
+          "pinyin": "zháojí",
           "en": "Worry"
         },
         "找": {
-          "pinzi": "zhǎo",
+          "pinyin": "zhǎo",
           "en": "look for"
         },
         "照顾": {
-          "pinzi": "zhàogù",
+          "pinyin": "zhàogù",
           "en": "look after"
         },
         "照片": {
-          "pinzi": "zhàopiàn",
+          "pinyin": "zhàopiàn",
           "en": "Photo"
         },
         "照相机": {
-          "pinzi": "zhàoxiàngjī",
+          "pinyin": "zhàoxiàngjī",
           "en": "Camera"
         },
         "这 （这儿）": {
-          "pinzi": "zhè(zhèr)",
+          "pinyin": "zhè(zhèr)",
           "en": "Here (here)"
         },
         "着": {
-          "pinzi": "zhe",
+          "pinyin": "zhe",
           "en": "means"
         },
         "真": {
-          "pinzi": "zhēn",
+          "pinyin": "zhēn",
           "en": "really"
         },
         "正在": {
-          "pinzi": "zhèngzài",
+          "pinyin": "zhèngzài",
           "en": "Is"
         },
         "知道": {
-          "pinzi": "zhīdào",
+          "pinyin": "zhīdào",
           "en": "know"
         },
         "只": {
-          "pinzi": "zhǐ",
+          "pinyin": "zhǐ",
           "en": "only"
         },
         "中国": {
-          "pinzi": "zhōngguó",
+          "pinyin": "zhōngguó",
           "en": "China"
         },
         "中间": {
-          "pinzi": "zhōngjiān",
+          "pinyin": "zhōngjiān",
           "en": "Middle"
         },
         "中午": {
-          "pinzi": "zhōngwǔ",
+          "pinyin": "zhōngwǔ",
           "en": "Noon"
         },
         "终于": {
-          "pinzi": "zhōngyú",
+          "pinyin": "zhōngyú",
           "en": "finally"
         },
         "种": {
-          "pinzi": "zhǒng",
+          "pinyin": "zhǒng",
           "en": "species"
         },
         "重要": {
-          "pinzi": "zhòngyào",
+          "pinyin": "zhòngyào",
           "en": "important"
         },
         "周末": {
-          "pinzi": "zhōumò",
+          "pinyin": "zhōumò",
           "en": "Weekend"
         },
         "主要": {
-          "pinzi": "zhǔyào",
+          "pinyin": "zhǔyào",
           "en": "main"
         },
         "住": {
-          "pinzi": "zhù",
+          "pinyin": "zhù",
           "en": "live"
         },
         "祝": {
-          "pinzi": "zhù",
+          "pinyin": "zhù",
           "en": "wish"
         },
         "注意": {
-          "pinzi": "zhùyì",
+          "pinyin": "zhùyì",
           "en": "Be careful"
         },
         "准备": {
-          "pinzi": "zhǔnbèi",
+          "pinyin": "zhǔnbèi",
           "en": "Get ready"
         },
         "桌子": {
-          "pinzi": "zhuōzi",
+          "pinyin": "zhuōzi",
           "en": "Table"
         },
         "字": {
-          "pinzi": "zì",
+          "pinyin": "zì",
           "en": "word"
         },
         "字典": {
-          "pinzi": "zìdiǎn",
+          "pinyin": "zìdiǎn",
           "en": "Dictionaries"
         },
         "自己": {
-          "pinzi": "zìjǐ",
+          "pinyin": "zìjǐ",
           "en": "Own"
         },
         "自行车": {
-          "pinzi": "zìxíngchē",
+          "pinyin": "zìxíngchē",
           "en": "Bicycle"
         },
         "总是": {
-          "pinzi": "zǒngshì",
+          "pinyin": "zǒngshì",
           "en": "always"
         },
         "走": {
-          "pinzi": "zǒu",
+          "pinyin": "zǒu",
           "en": "go"
         },
         "最": {
-          "pinzi": "zuì",
+          "pinyin": "zuì",
           "en": "most"
         },
         "最近": {
-          "pinzi": "zuìjìn",
+          "pinyin": "zuìjìn",
           "en": "Lately"
         },
         "昨天": {
-          "pinzi": "zuótiān",
+          "pinyin": "zuótiān",
           "en": "Yesterday"
         },
         "左边": {
-          "pinzi": "zuǒbian",
+          "pinyin": "zuǒbian",
           "en": "left"
         },
         "坐": {
-          "pinzi": "zuò",
+          "pinyin": "zuò",
           "en": "sit"
         },
         "做": {
-          "pinzi": "zuò",
+          "pinyin": "zuò",
           "en": "do"
         },
         "作业": {
-          "pinzi": "zuòyè",
+          "pinyin": "zuòyè",
           "en": "homework"
         },
         "作用": {
-          "pinzi": "zuòyòng",
+          "pinyin": "zuòyòng",
           "en": "Effect"
         }
       }

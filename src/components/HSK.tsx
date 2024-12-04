@@ -14,15 +14,15 @@ export const HSK : FC<{ level:number }> = ({ level })=>{
         return Object.entries(dicc).map( entry=>{
             let key = entry[0];
             let en = entry[1].en;
-            let pinzi = entry[1].pinzi;
+            let pinyin = entry[1].pinyin;
 
             if( key.indexOf("（") ) {
                 key = key.replace(/\s*（.*?）\s*/g, '');
                 en = en.replace(/\s*（.*?）\s*/g, '');
-                pinzi = pinzi.replace(/\s*（.*?）\s*/g, '');
+                pinyin = pinyin.replace(/\s*（.*?）\s*/g, '');
             } 
 
-            return { ch:key, pinzi, en }
+            return { ch:key, pinyin, en }
         })
     }, [level]);
  
@@ -89,7 +89,7 @@ export const HSK : FC<{ level:number }> = ({ level })=>{
             check? <div style={{ display:"flex", justifyContent:"center", alignItems:"center", gap:20 }}>
                       <div>
                         <GoldenSymbol size={180}>{char.ch}</GoldenSymbol>
-                        <GoldenSymbol size={40}>{ char.pinzi }</GoldenSymbol>
+                        <GoldenSymbol size={40}>{ char.pinyin }</GoldenSymbol>
                         <GoldenSymbol size={30}>{ char.en }</GoldenSymbol>
                       </div>
                       <div style={{ display:"flex", flexDirection:"column", gap:10 }}>

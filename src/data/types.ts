@@ -6,7 +6,7 @@ export interface Line {
 };
 
 export type CharacterInfo = {
-    pinzi: string;
+    pinyin: string;
     means: string; 
 };
 
