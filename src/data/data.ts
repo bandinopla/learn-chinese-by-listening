@@ -173,6 +173,12 @@ export const data = {
             ch:"什么 样 的 苦难 我 都 愿意 去 吃",
             source:"https://youtu.be/5GUvds-UbVU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=331",
             audio:"suffering"
+        },
+        {
+            ch:"为什么 还 反复 将 她 拖 行了 几 下",
+            en:"Why was she dragged repeatedly for a few times?",
+            source:"https://youtu.be/4p8cfG1O4JA?t=2299",
+            audio:"dragged"
         }
     ]
 }

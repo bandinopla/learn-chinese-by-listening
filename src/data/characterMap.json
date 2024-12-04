@@ -850,5 +850,53 @@
   "意": {
     "pinyin": "yì",
     "means": "intention; will; meaning"
+  },
+  "可不可": {
+    "pinyin": "kě bù kě",
+    "means": "can or cannot; is it possible?"
+  },
+  "为什么": {
+    "pinyin": "wèi shén me",
+    "means": "why"
+  },
+  "还": {
+    "pinyin": "hái",
+    "means": "still; yet"
+  },
+  "反复": {
+    "pinyin": "fǎn fù",
+    "means": "repeatedly"
+  },
+  "将": {
+    "pinyin": "jiāng",
+    "means": "to; will; to bring"
+  },
+  "拖": {
+    "pinyin": "tuō",
+    "means": "to drag; to pull"
+  },
+  "行了": {
+    "pinyin": "xíng le",
+    "means": "did; worked"
+  },
+  "几": {
+    "pinyin": "jǐ",
+    "means": "a few; several"
+  },
+  "为": {
+    "pinyin": "wèi",
+    "means": "for; because of"
+  },
+  "反": {
+    "pinyin": "fǎn",
+    "means": "reverse; counter"
+  },
+  "复": {
+    "pinyin": "fù",
+    "means": "repeat; again"
+  },
+  "行": {
+    "pinyin": "xíng",
+    "means": "to move; to go; to do"
   }
 }
