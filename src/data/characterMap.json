@@ -782,5 +782,33 @@
   "我自己的": {
     "pinzi": "wǒ zìjǐ de",
     "means": "my own"
+  },
+  "情报": {
+    "pinyin": "qíng bào",
+    "means": "intelligence; information"
+  },
+  "组": {
+    "pinyin": "zǔ",
+    "means": "group; team"
+  },
+  "里面": {
+    "pinyin": "lǐ miàn",
+    "means": "inside"
+  },
+  "情": {
+    "pinyin": "qíng",
+    "means": "emotion; situation"
+  },
+  "报": {
+    "pinyin": "bào",
+    "means": "report; inform"
+  },
+  "里": {
+    "pinyin": "lǐ",
+    "means": "inside; within"
+  },
+  "面": {
+    "pinyin": "miàn",
+    "means": "side; surface; face"
   }
 }

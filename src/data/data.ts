@@ -161,6 +161,12 @@ export const data = {
             source:"https://youtu.be/kxxPHK1atkU?t=1768",
             ch:"这 是 我自己的 选择",
             en:"This is my own choice"
+        },
+        {
+            en:"Is the intelligence team inside?",
+            audio:"intelligence",
+            ch:"情报 组 在 里面 吗",
+            source:"https://youtu.be/5GUvds-UbVU?list=PLWnUfdoAdVv59cmiJSzmWS5rPYv-qkAdB&t=187"
         }
     ]
 }
