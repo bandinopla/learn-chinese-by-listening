@@ -14,13 +14,15 @@ export const HSK : FC<{ level:number }> = ({ level })=>{
         return Object.entries(dicc).map( entry=>{
             let key = entry[0];
             let en = entry[1].en;
+            let pinzi = entry[1].pinzi;
 
             if( key.indexOf("（") ) {
                 key = key.replace(/\s*（.*?）\s*/g, '');
                 en = en.replace(/\s*（.*?）\s*/g, '');
-            }
+                pinzi = pinzi.replace(/\s*（.*?）\s*/g, '');
+            } 
 
-            return { ch:key, ...entry[1], en }
+            return { ch:key, pinzi, en }
         })
     }, [level]);
  
